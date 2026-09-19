@@ -1,0 +1,4 @@
+*.pbix
+*.xlsx
+data/private/
+__pycache__/

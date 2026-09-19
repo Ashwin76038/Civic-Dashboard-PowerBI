@@ -1,0 +1,20 @@
+{
+  "input_rows": 968,
+  "duplicate_rows_removed": 49,
+  "unique_reports": 919,
+  "issue_counts": {
+    "Unknown": 254,
+    "Garbage Dump": 144,
+    "Drainage Leakage": 141,
+    "Pothole": 134,
+    "Water Pipe Burst": 123,
+    "Street Light Issue": 123
+  },
+  "severity_counts": {
+    "Unknown": 400,
+    "Medium": 185,
+    "High": 184,
+    "Low": 150
+  },
+  "source_authenticity": "unverified; do not claim real citizen outcomes"
+}

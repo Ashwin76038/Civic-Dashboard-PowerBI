@@ -1,969 +1,920 @@
-Report_ID,Citizen_Name,Age,Ward_Number,Area_Location,Issue_Type,Severity,Submission_Date,Month_Year
-1001,Sarah Simpson,40.0,16.0,Koundampalayam,Unknown,Medium,2023-03-29,2023-03
-1002,Mark Thompson,20.0,12.0,RS Puram,Unknown,Unknown,2025-03-08,2025-03
-1003,Danielle Fisher,40.0,12.0,RS Puram,Pothole,Unknown,2024-12-02,2024-12
-1004,Jeremy Gonzalez,36.0,17.0,Unknown,Unknown,Unknown,2025-01-14,2025-01
-1005,Bradley Sullivan,40.0,12.0,Peelamedu,Pothole,Unknown,2024-06-05,2024-06
-1006,Charles Garcia,49.0,12.0,Saibaba Colony,Pothole,High,2024-10-27,2024-10
-1007,Caleb Turner,40.0,12.0,Gandhipuram,Garbage Dump,Medium,2023-03-09,2023-03
-1008,Joanne Johnson,45.0,12.0,Saibaba Colony,Water Pipe Burst,Medium,2025-06-30,2025-06
-1009,Tyler Sullivan,40.0,12.0,Peelamedu,Drainage Leakage,Unknown,2024-06-12,2024-06
-1010,Timothy Daniel,38.0,10.0,RS Puram,Garbage Dump,Unknown,2024-07-12,2024-07
-1011,Chad Schwartz,20.0,18.0,Peelamedu,Garbage Dump,High,2023-01-27,2023-01
-1012,Jason Brown,39.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2023-10-24,2023-10
-1013,Mary Jimenez,40.0,13.0,Podanur,Unknown,High,2024-09-02,2024-09
-1014,Joseph Glover,31.0,12.0,Ukkadam,Garbage Dump,High,2025-01-27,2025-01
-1015,Matthew Fitzpatrick,27.0,9.0,Unknown,Drainage Leakage,High,2023-11-20,2023-11
-1016,Tara Duncan,58.0,6.0,Gandhipuram,Unknown,Medium,2023-01-12,2023-01
-1017,Brian Hernandez,51.0,12.0,Peelamedu,Water Pipe Burst,Medium,2025-03-03,2025-03
-1018,Ms. Stephanie Moody,33.0,12.0,Ganapathy,Pothole,High,2024-01-12,2024-01
-1019,Brittany Contreras,33.0,4.0,Ganapathy,Street Light Issue,High,2024-04-10,2024-04
-1020,Brandon Walsh,65.0,12.0,RS Puram,Water Pipe Burst,Medium,2023-05-14,2023-05
-1021,Michael Mendoza,64.0,12.0,Koundampalayam,Pothole,High,2024-06-17,2024-06
-1022,Mrs. Christina Stout DVM,40.0,12.0,Peelamedu,Drainage Leakage,Low,2024-02-15,2024-02
-1023,Christian Johnson MD,61.0,12.0,Ukkadam,Garbage Dump,High,2024-06-07,2024-06
-1024,Audrey Wilson,35.0,12.0,Ukkadam,Unknown,Low,2023-04-19,2023-04
-1025,Jeffrey Roy,40.0,3.0,Unknown,Water Pipe Burst,Medium,2023-09-01,2023-09
-1026,Dawn Ramos,40.0,12.0,Saibaba Colony,Drainage Leakage,High,2023-12-13,2023-12
-1027,Danielle Rollins,25.0,5.0,Ukkadam,Water Pipe Burst,High,2023-05-30,2023-05
-1028,Dr. Rebecca Campbell DDS,40.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2025-01-21,2025-01
-1029,Jeffrey Robles,46.0,12.0,Koundampalayam,Unknown,Low,2023-10-31,2023-10
-1030,Stacy Phillips,40.0,14.0,Ganapathy,Unknown,Medium,2024-07-11,2024-07
-1031,Angela Kelly,40.0,12.0,Podanur,Pothole,Medium,2023-07-15,2023-07
-1032,Matthew Turner,37.0,19.0,RS Puram,Water Pipe Burst,Low,2025-01-22,2025-01
-1033,Unknown,37.0,14.0,Ukkadam,Garbage Dump,Unknown,2023-05-03,2023-05
-1034,James Randall,40.0,13.0,Unknown,Unknown,Medium,2023-10-06,2023-10
-1035,Jeremy Contreras,27.0,12.0,RS Puram,Garbage Dump,Unknown,2024-01-21,2024-01
-1036,Megan Holland,40.0,12.0,Unknown,Pothole,Low,2024-03-09,2024-03
-1037,John Owen,60.0,10.0,Peelamedu,Garbage Dump,Medium,2023-04-12,2023-04
-1038,Elizabeth Johnson,40.0,17.0,RS Puram,Water Pipe Burst,Unknown,2024-06-08,2024-06
-1039,Martha Skinner,26.0,6.0,Saibaba Colony,Garbage Dump,Unknown,2024-09-13,2024-09
-1040,Debra Phillips,64.0,12.0,Ganapathy,Street Light Issue,High,2024-06-04,2024-06
-1041,Samantha Barnett,40.0,20.0,Koundampalayam,Pothole,Medium,2023-06-29,2023-06
-1042,Matthew Walker,31.0,12.0,Gandhipuram,Unknown,Unknown,2023-04-12,2023-04
-1043,Joanna Sullivan,22.0,12.0,Saibaba Colony,Garbage Dump,High,2024-12-05,2024-12
-1044,Tina Harding,40.0,12.0,Unknown,Water Pipe Burst,High,2024-06-15,2024-06
-1045,Dr. Melissa Arroyo,40.0,12.0,Gandhipuram,Unknown,Low,2024-05-05,2024-05
-1046,David Fitzgerald,64.0,7.0,Koundampalayam,Unknown,Unknown,2024-07-10,2024-07
-1047,Ryan Lowe,40.0,12.0,Gandhipuram,Pothole,Unknown,2024-08-05,2024-08
-1048,Alec Elliott,40.0,9.0,Podanur,Garbage Dump,Unknown,2024-06-20,2024-06
-1049,John Simmons,42.0,12.0,RS Puram,Water Pipe Burst,Low,2023-04-19,2023-04
-1051,Erin Barnes,40.0,9.0,Peelamedu,Pothole,High,2025-04-30,2025-04
-1052,Courtney Davis,40.0,12.0,Peelamedu,Unknown,Low,2024-09-27,2024-09
-1053,David Romero,43.0,12.0,Podanur,Unknown,Low,2025-06-08,2025-06
-1054,Ruben Bell,40.0,11.0,Gandhipuram,Garbage Dump,Medium,2023-10-25,2023-10
-1055,Timothy Ortiz,40.0,1.0,Koundampalayam,Garbage Dump,Medium,2024-01-14,2024-01
-1056,Edward Williams,36.0,12.0,RS Puram,Drainage Leakage,Unknown,2024-05-01,2024-05
-1057,Samuel Todd,59.0,7.0,Gandhipuram,Unknown,Medium,2023-01-26,2023-01
-1058,Brendan Thompson,40.0,5.0,Gandhipuram,Drainage Leakage,Unknown,2024-09-01,2024-09
-1059,Kristen Garza,40.0,12.0,Ganapathy,Unknown,High,2025-02-19,2025-02
-1060,Melissa Martin,40.0,12.0,Ukkadam,Pothole,Unknown,2024-05-23,2024-05
-1061,Mary Powers,53.0,20.0,RS Puram,Water Pipe Burst,High,2023-02-28,2023-02
-1062,Adam Weaver,40.0,12.0,Koundampalayam,Drainage Leakage,Low,2024-12-02,2024-12
-1063,Robert Dorsey,40.0,4.0,Podanur,Street Light Issue,Unknown,2023-08-30,2023-08
-1064,Joe Bernard,40.0,8.0,RS Puram,Street Light Issue,Unknown,2025-04-13,2025-04
-1065,Robin Nelson,27.0,12.0,Ganapathy,Pothole,Unknown,2023-06-19,2023-06
-1066,Unknown,40.0,13.0,Podanur,Garbage Dump,Unknown,2023-09-27,2023-09
-1067,Devin Thompson,36.0,12.0,RS Puram,Water Pipe Burst,High,2023-11-13,2023-11
-1068,Joseph Campos,32.0,5.0,Koundampalayam,Pothole,High,2023-10-03,2023-10
-1069,Nina Estrada,40.0,12.0,Unknown,Drainage Leakage,Unknown,2023-05-23,2023-05
-1070,James Watson,40.0,1.0,Unknown,Water Pipe Burst,Medium,2023-04-30,2023-04
-1071,Alexandra Klein,40.0,12.0,Ukkadam,Drainage Leakage,Low,2023-08-17,2023-08
-1072,Hannah Brown,40.0,8.0,Gandhipuram,Garbage Dump,Unknown,2023-12-15,2023-12
-1073,Brendan Miller,40.0,7.0,Unknown,Drainage Leakage,Low,2024-10-07,2024-10
-1074,Kenneth Hardin,28.0,12.0,Ukkadam,Garbage Dump,Unknown,2024-05-30,2024-05
-1075,Michael Cline,22.0,19.0,Podanur,Unknown,Medium,2023-05-09,2023-05
-1076,Deanna Richards,40.0,4.0,Podanur,Water Pipe Burst,High,2023-09-24,2023-09
-1078,Anthony Meadows,20.0,12.0,Podanur,Water Pipe Burst,High,2025-06-04,2025-06
-1079,Daniel Hayes,36.0,8.0,Gandhipuram,Drainage Leakage,High,2025-03-14,2025-03
-1080,James Mueller,36.0,12.0,Unknown,Unknown,Unknown,2024-12-13,2024-12
-1081,Stanley Morris,40.0,12.0,Koundampalayam,Street Light Issue,High,2024-07-07,2024-07
-1082,Andrew Rice,40.0,10.0,Ganapathy,Unknown,Low,2023-04-24,2023-04
-1083,Christina Walsh,40.0,12.0,Ukkadam,Pothole,Unknown,2023-11-09,2023-11
-1084,Matthew Young,55.0,12.0,Gandhipuram,Garbage Dump,Unknown,2024-11-30,2024-11
-1085,Brittany Potter,26.0,12.0,Ganapathy,Drainage Leakage,High,2023-08-27,2023-08
-1086,Anthony Brooks,28.0,12.0,Koundampalayam,Street Light Issue,Low,2023-05-29,2023-05
-1087,Stephanie Kaufman,40.0,9.0,Unknown,Street Light Issue,Medium,2023-01-02,2023-01
-1088,Arthur Garcia,40.0,14.0,Koundampalayam,Water Pipe Burst,Unknown,2023-06-16,2023-06
-1089,Michael Rice,25.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-11-23,2024-11
-1090,Daniel Carpenter,40.0,1.0,Unknown,Street Light Issue,High,2023-11-08,2023-11
-1091,Brandi Park,23.0,13.0,RS Puram,Drainage Leakage,Low,2024-10-09,2024-10
-1092,Brenda Kim,55.0,19.0,Unknown,Pothole,Medium,2023-11-28,2023-11
-1093,Martin Montgomery,60.0,19.0,Ganapathy,Pothole,Medium,2023-06-19,2023-06
-1094,Michael Newton,40.0,12.0,RS Puram,Drainage Leakage,Unknown,2023-05-20,2023-05
-1095,Melanie Irwin,40.0,4.0,Ganapathy,Unknown,High,2023-03-04,2023-03
-1096,John Ward,40.0,16.0,Unknown,Street Light Issue,Unknown,2024-12-23,2024-12
-1097,Christina Hernandez,40.0,5.0,Ukkadam,Water Pipe Burst,Unknown,2024-09-12,2024-09
-1098,Alicia Miller,37.0,7.0,Saibaba Colony,Street Light Issue,Unknown,2024-04-04,2024-04
-1099,Unknown,40.0,13.0,Ganapathy,Unknown,Unknown,2024-10-24,2024-10
-1101,Ryan Castillo,40.0,7.0,Gandhipuram,Unknown,Unknown,2023-11-01,2023-11
-1102,Patricia Gibson,40.0,10.0,RS Puram,Unknown,Unknown,2023-05-04,2023-05
-1103,Omar Hunter,27.0,12.0,Ukkadam,Pothole,Unknown,2023-02-17,2023-02
-1104,Dillon Serrano,24.0,10.0,Ukkadam,Unknown,Medium,2024-05-06,2024-05
-1105,Elizabeth Sanders,40.0,7.0,Ukkadam,Street Light Issue,Medium,2025-02-28,2025-02
-1106,Jacob Smith,40.0,20.0,Ukkadam,Unknown,Unknown,2024-12-02,2024-12
-1107,Samuel West,40.0,12.0,Ukkadam,Street Light Issue,Unknown,2023-04-04,2023-04
-1108,Steven Barker,40.0,15.0,Koundampalayam,Garbage Dump,Unknown,2024-05-29,2024-05
-1109,Anna Russell,40.0,12.0,Podanur,Unknown,High,2023-06-16,2023-06
-1110,Abigail Schultz,40.0,12.0,Gandhipuram,Pothole,Unknown,2024-05-05,2024-05
-1111,Steven Garcia,40.0,12.0,Gandhipuram,Street Light Issue,Medium,2024-08-29,2024-08
-1112,Wendy Clark,21.0,5.0,Ganapathy,Pothole,High,2025-04-07,2025-04
-1113,Christina Huber,40.0,1.0,Peelamedu,Unknown,Unknown,2024-01-26,2024-01
-1114,Ernest Soto,22.0,17.0,Unknown,Unknown,Unknown,2024-11-03,2024-11
-1115,Terri Patel,43.0,12.0,Gandhipuram,Water Pipe Burst,Unknown,2024-11-13,2024-11
-1116,Kayla Morton,25.0,12.0,Gandhipuram,Pothole,Medium,2023-06-04,2023-06
-1117,Angela Guzman,23.0,12.0,RS Puram,Garbage Dump,Unknown,2023-06-18,2023-06
-1118,Whitney Ross,40.0,18.0,Peelamedu,Garbage Dump,High,2023-01-04,2023-01
-1119,Maria Villarreal,40.0,6.0,Saibaba Colony,Unknown,High,2025-03-10,2025-03
-1120,John Diaz,37.0,19.0,Saibaba Colony,Drainage Leakage,High,2025-01-01,2025-01
-1121,Elizabeth Robinson,29.0,4.0,Gandhipuram,Drainage Leakage,Unknown,2024-05-18,2024-05
-1122,Ronald Morales,34.0,12.0,Peelamedu,Street Light Issue,Unknown,2025-06-16,2025-06
-1123,Emily Morrow,38.0,20.0,Koundampalayam,Street Light Issue,Medium,2023-07-06,2023-07
-1124,Michael Gardner,40.0,12.0,Unknown,Pothole,Unknown,2024-10-25,2024-10
-1125,Richard Buchanan,40.0,8.0,Ganapathy,Street Light Issue,High,2023-01-26,2023-01
-1126,Charles Cochran,40.0,20.0,Ukkadam,Drainage Leakage,Medium,2023-09-17,2023-09
-1127,Michael Mullins,52.0,8.0,Saibaba Colony,Unknown,Unknown,2025-05-08,2025-05
-1128,Samuel Simpson IV,19.0,9.0,Gandhipuram,Garbage Dump,High,2023-11-07,2023-11
-1129,Thomas Smith,40.0,12.0,Ganapathy,Garbage Dump,Unknown,2023-10-12,2023-10
-1130,Bethany Davidson,44.0,12.0,Gandhipuram,Street Light Issue,High,2024-09-17,2024-09
-1131,John Bowen,21.0,20.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-02-11,2024-02
-1132,Unknown,62.0,12.0,Gandhipuram,Pothole,Low,2024-03-07,2024-03
-1133,Ashley Franklin,40.0,12.0,Ganapathy,Unknown,Low,2023-06-09,2023-06
-1134,Cheryl Garcia,38.0,12.0,Ukkadam,Unknown,Low,2023-03-04,2023-03
-1135,Melissa Garcia,40.0,12.0,Ganapathy,Drainage Leakage,Unknown,2024-06-18,2024-06
-1136,Linda Gonzalez,63.0,4.0,Unknown,Pothole,Low,2025-07-06,2025-07
-1137,Barbara Hickman,26.0,16.0,Ganapathy,Pothole,Medium,2023-10-14,2023-10
-1138,Heather Murphy,40.0,12.0,Ganapathy,Water Pipe Burst,Unknown,2023-06-08,2023-06
-1139,Victoria Franklin,22.0,10.0,RS Puram,Drainage Leakage,Unknown,2024-05-29,2024-05
-1140,Brandon Freeman II,58.0,12.0,RS Puram,Garbage Dump,Unknown,2023-09-17,2023-09
-1141,Joseph Hodges,48.0,8.0,Saibaba Colony,Street Light Issue,Unknown,2024-07-25,2024-07
-1142,Lisa Roberts,30.0,12.0,Unknown,Drainage Leakage,High,2025-03-15,2025-03
-1143,Kelly Butler,40.0,12.0,Ganapathy,Street Light Issue,Medium,2023-12-01,2023-12
-1144,Matthew Jackson,40.0,18.0,Gandhipuram,Pothole,Unknown,2023-02-06,2023-02
-1145,Stephanie Hill,21.0,12.0,Ganapathy,Drainage Leakage,Medium,2025-02-27,2025-02
-1146,Cheryl Johnson MD,36.0,12.0,Ukkadam,Street Light Issue,Low,2023-12-31,2023-12
-1147,Whitney Cantrell,26.0,19.0,Podanur,Pothole,Low,2023-10-01,2023-10
-1148,Miranda Johnson,56.0,14.0,Unknown,Unknown,Low,2023-01-12,2023-01
-1149,Kyle Craig,64.0,12.0,Unknown,Drainage Leakage,Unknown,2023-03-06,2023-03
-1151,Dawn Shepherd,40.0,4.0,RS Puram,Drainage Leakage,Unknown,2024-09-27,2024-09
-1152,Michelle Blevins,40.0,12.0,Ukkadam,Garbage Dump,High,2024-03-12,2024-03
-1153,Ashley Webb,37.0,7.0,RS Puram,Water Pipe Burst,High,2023-07-06,2023-07
-1155,Richard Harris,62.0,12.0,RS Puram,Unknown,High,2024-02-09,2024-02
-1156,Mrs. Tina Hester,40.0,4.0,Ganapathy,Unknown,Unknown,2023-07-10,2023-07
-1157,Emily Greer,40.0,12.0,Unknown,Unknown,High,2024-11-09,2024-11
-1158,Christina Hull,22.0,12.0,RS Puram,Drainage Leakage,Low,2024-01-03,2024-01
-1159,Danielle Mcintyre,40.0,8.0,Ganapathy,Unknown,High,2023-03-15,2023-03
-1160,Ricky Wolfe,40.0,7.0,Unknown,Water Pipe Burst,Unknown,2024-08-02,2024-08
-1161,David Johnson,35.0,12.0,Unknown,Pothole,High,2023-07-15,2023-07
-1162,Amy Allen,50.0,14.0,Unknown,Water Pipe Burst,Unknown,2023-11-26,2023-11
-1163,Ernest Miller,40.0,2.0,Unknown,Street Light Issue,Low,2023-10-19,2023-10
-1164,Isaac Davis,25.0,12.0,Koundampalayam,Pothole,Low,2024-08-10,2024-08
-1165,Unknown,62.0,2.0,Podanur,Pothole,Unknown,2024-02-25,2024-02
-1166,Kevin Li V,40.0,12.0,Ganapathy,Drainage Leakage,Medium,2024-03-24,2024-03
-1167,Dr. Melinda Singh MD,40.0,19.0,Unknown,Street Light Issue,Unknown,2024-12-26,2024-12
-1168,Michael Schultz,27.0,1.0,Podanur,Street Light Issue,Unknown,2023-05-12,2023-05
-1169,Jason Cruz,40.0,1.0,Peelamedu,Unknown,Unknown,2023-08-07,2023-08
-1170,Ryan Reed,40.0,14.0,Ganapathy,Drainage Leakage,Unknown,2023-11-25,2023-11
-1171,Daniel Smith,40.0,10.0,Ukkadam,Street Light Issue,Medium,2023-04-07,2023-04
-1172,Brandon Lam,46.0,16.0,Podanur,Unknown,Unknown,2023-07-24,2023-07
-1173,Kelly Griffin,40.0,12.0,RS Puram,Garbage Dump,Medium,2023-05-30,2023-05
-1174,Jonathan Schmitt,26.0,14.0,Ukkadam,Garbage Dump,Medium,2023-06-08,2023-06
-1175,Randy Dawson,40.0,13.0,Unknown,Drainage Leakage,Unknown,2024-04-23,2024-04
-1176,Jacqueline Farrell,44.0,12.0,Ukkadam,Unknown,Medium,2024-01-04,2024-01
-1177,Spencer Johnson,43.0,12.0,Podanur,Street Light Issue,Unknown,2023-05-30,2023-05
-1178,Debbie Kline,40.0,1.0,RS Puram,Water Pipe Burst,Unknown,2025-03-03,2025-03
-1179,Lisa Wilson,40.0,14.0,Gandhipuram,Drainage Leakage,Medium,2023-08-09,2023-08
-1180,Danny Bishop,26.0,17.0,Koundampalayam,Drainage Leakage,Unknown,2024-06-14,2024-06
-1181,Christopher Ramirez,42.0,12.0,Unknown,Drainage Leakage,High,2025-03-26,2025-03
-1182,James Martinez,39.0,19.0,Podanur,Unknown,Low,2024-06-13,2024-06
-1183,Eric Nguyen,40.0,12.0,Gandhipuram,Unknown,High,2025-02-08,2025-02
-1184,Robert Jones,35.0,12.0,Ukkadam,Garbage Dump,Low,2024-04-25,2024-04
-1185,Kevin Miller,18.0,14.0,RS Puram,Street Light Issue,Low,2023-04-25,2023-04
-1186,Alexis Ford,42.0,12.0,Peelamedu,Unknown,Unknown,2025-07-01,2025-07
-1187,Mariah Gibson,40.0,12.0,Koundampalayam,Pothole,Unknown,2024-01-28,2024-01
-1188,Nicole Griffin,40.0,12.0,Unknown,Unknown,Unknown,2023-09-12,2023-09
-1189,Debra Williams,40.0,12.0,Peelamedu,Water Pipe Burst,Low,2023-10-01,2023-10
-1190,Meghan Thomas,40.0,17.0,Ganapathy,Street Light Issue,High,2024-01-16,2024-01
-1191,Timothy Hill,47.0,12.0,Unknown,Street Light Issue,Unknown,2023-06-19,2023-06
-1192,Marcia Kim,40.0,12.0,Podanur,Street Light Issue,High,2025-03-04,2025-03
-1193,Nicholas Jackson,31.0,12.0,Koundampalayam,Garbage Dump,High,2023-07-18,2023-07
-1194,Jennifer Barker,19.0,12.0,Unknown,Pothole,Medium,2023-10-03,2023-10
-1195,Lindsey Henderson,40.0,1.0,Koundampalayam,Pothole,Low,2025-04-16,2025-04
-1196,Amy Perkins,40.0,12.0,RS Puram,Unknown,Medium,2023-11-13,2023-11
-1197,Paul Lambert,63.0,8.0,Koundampalayam,Water Pipe Burst,Unknown,2024-05-19,2024-05
-1198,Unknown,26.0,12.0,Koundampalayam,Water Pipe Burst,Medium,2024-09-14,2024-09
-1199,Samuel Hayden,21.0,12.0,Saibaba Colony,Drainage Leakage,High,2025-07-04,2025-07
-1201,Miguel Black,40.0,1.0,Koundampalayam,Street Light Issue,Medium,2023-11-10,2023-11
-1202,Christine Berry,58.0,15.0,Koundampalayam,Unknown,Low,2024-07-23,2024-07
-1203,Stefanie Bailey,40.0,6.0,Gandhipuram,Street Light Issue,High,2025-01-10,2025-01
-1204,Cheryl Pearson,19.0,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2023-10-25,2023-10
-1205,Lynn Neal,40.0,12.0,Unknown,Water Pipe Burst,Medium,2024-01-23,2024-01
-1206,Thomas Walter,29.0,12.0,RS Puram,Unknown,Medium,2024-04-23,2024-04
-1207,Natalie Cross,25.0,12.0,Podanur,Unknown,Unknown,2023-11-01,2023-11
-1208,Jeffrey Haney,40.0,12.0,Ganapathy,Unknown,Unknown,2024-11-10,2024-11
-1209,Allen Anderson,40.0,12.0,Gandhipuram,Unknown,Unknown,2023-09-03,2023-09
-1210,Juan Murphy,40.0,12.0,Ganapathy,Unknown,Unknown,2023-01-18,2023-01
-1211,Chelsea Rivera,53.0,8.0,Podanur,Street Light Issue,Unknown,2023-06-26,2023-06
-1212,Kathryn Franklin,53.0,12.0,Koundampalayam,Unknown,Medium,2023-04-18,2023-04
-1213,Jennifer Young,21.0,12.0,Unknown,Pothole,Unknown,2025-01-15,2025-01
-1214,Marc Whitehead,33.0,12.0,Peelamedu,Water Pipe Burst,High,2023-10-01,2023-10
-1215,Michelle Miller,40.0,2.0,Podanur,Street Light Issue,Unknown,2024-09-04,2024-09
-1216,Grace Blankenship,62.0,10.0,Ganapathy,Unknown,Low,2025-01-02,2025-01
-1217,Peter Ward,40.0,12.0,Ganapathy,Unknown,Unknown,2024-06-12,2024-06
-1218,Michael Valentine,61.0,12.0,Peelamedu,Unknown,High,2024-03-12,2024-03
-1219,Matthew Stevens,40.0,18.0,Ganapathy,Street Light Issue,Unknown,2023-11-18,2023-11
-1220,Patricia Parker,57.0,12.0,Saibaba Colony,Street Light Issue,High,2025-01-22,2025-01
-1221,Angela Ford,40.0,8.0,Unknown,Drainage Leakage,Unknown,2025-04-23,2025-04
-1222,Michael Snyder,40.0,4.0,Saibaba Colony,Pothole,Low,2024-03-23,2024-03
-1223,Douglas Gray,40.0,12.0,Ganapathy,Garbage Dump,Unknown,2024-12-12,2024-12
-1224,Dan Armstrong,44.0,12.0,Peelamedu,Unknown,Low,2024-08-19,2024-08
-1225,Tiffany Gutierrez,59.0,12.0,RS Puram,Drainage Leakage,Unknown,2023-12-01,2023-12
-1226,Brian Salazar,59.0,16.0,Peelamedu,Street Light Issue,Unknown,2023-06-27,2023-06
-1227,Douglas Peterson,43.0,12.0,Ganapathy,Unknown,Unknown,2025-02-15,2025-02
-1228,Ann Murphy,40.0,5.0,Peelamedu,Garbage Dump,Unknown,2024-05-02,2024-05
-1229,Lauren Hughes,41.0,12.0,RS Puram,Water Pipe Burst,Unknown,2024-04-01,2024-04
-1230,Jenna Martin,64.0,16.0,Gandhipuram,Street Light Issue,Medium,2023-03-15,2023-03
-1232,Kimberly Taylor,34.0,9.0,Ukkadam,Pothole,Unknown,2024-09-20,2024-09
-1233,Brianna Henderson,40.0,12.0,Saibaba Colony,Drainage Leakage,Unknown,2023-12-08,2023-12
-1234,Cody Hernandez,51.0,12.0,Ukkadam,Pothole,Unknown,2023-07-17,2023-07
-1235,Larry Christian,22.0,12.0,Podanur,Garbage Dump,Unknown,2025-01-28,2025-01
-1236,Brandon Williams,54.0,20.0,Peelamedu,Street Light Issue,High,2023-04-22,2023-04
-1237,Rachel Rogers,40.0,12.0,Saibaba Colony,Pothole,Low,2023-01-05,2023-01
-1238,Donald Wilcox,40.0,15.0,Gandhipuram,Pothole,Medium,2023-01-26,2023-01
-1239,Kelly Baker,43.0,12.0,Podanur,Pothole,Unknown,2025-01-02,2025-01
-1240,Nicholas Black,40.0,3.0,Gandhipuram,Garbage Dump,Medium,2024-11-14,2024-11
-1241,Tammy Dunn,40.0,12.0,Peelamedu,Street Light Issue,High,2023-02-21,2023-02
-1242,Megan Cain,26.0,7.0,Podanur,Street Light Issue,Medium,2023-07-16,2023-07
-1243,Stephen Harris,40.0,12.0,Podanur,Street Light Issue,Medium,2024-11-02,2024-11
-1244,Lisa Olson,54.0,12.0,Gandhipuram,Drainage Leakage,Medium,2023-12-28,2023-12
-1245,Dr. Scott Gomez DVM,40.0,15.0,Koundampalayam,Drainage Leakage,Medium,2023-08-15,2023-08
-1246,Jesus Perry,42.0,13.0,Saibaba Colony,Street Light Issue,Medium,2024-09-09,2024-09
-1247,Heather Braun,51.0,12.0,Peelamedu,Drainage Leakage,Unknown,2023-12-05,2023-12
-1248,Christina Bailey,23.0,3.0,Saibaba Colony,Drainage Leakage,High,2023-04-09,2023-04
-1249,Penny Mccoy,40.0,12.0,Unknown,Garbage Dump,High,2023-12-24,2023-12
-1251,Walter Mitchell,52.0,12.0,Ukkadam,Water Pipe Burst,Unknown,2024-01-10,2024-01
-1252,Sherri Fuller,40.0,14.0,Ukkadam,Pothole,Unknown,2025-05-25,2025-05
-1253,Kari Mccarthy,54.0,2.0,Unknown,Drainage Leakage,Medium,2023-01-06,2023-01
-1254,Sarah Carson,40.0,12.0,Ukkadam,Street Light Issue,Low,2023-09-27,2023-09
-1255,Eric Morales,40.0,12.0,Koundampalayam,Garbage Dump,Unknown,2023-02-19,2023-02
-1256,Clinton Barnett,40.0,12.0,Unknown,Garbage Dump,Medium,2025-03-04,2025-03
-1257,Roy Gilbert,26.0,7.0,Podanur,Garbage Dump,Low,2024-01-09,2024-01
-1258,Kelly Mccullough,40.0,12.0,Gandhipuram,Pothole,Medium,2025-02-13,2025-02
-1259,Jennifer Franklin,40.0,12.0,Ganapathy,Water Pipe Burst,Unknown,2024-04-15,2024-04
-1260,Barbara Taylor,40.0,12.0,Unknown,Garbage Dump,Unknown,2023-02-17,2023-02
-1261,Sarah Brown,41.0,12.0,Saibaba Colony,Unknown,Unknown,2024-10-14,2024-10
-1262,Cory Macias,40.0,8.0,Ganapathy,Water Pipe Burst,Medium,2024-10-16,2024-10
-1263,Tamara Turner,38.0,11.0,Ganapathy,Water Pipe Burst,Unknown,2024-02-20,2024-02
-1264,Unknown,40.0,12.0,Unknown,Garbage Dump,High,2024-06-22,2024-06
-1265,Joanna Martinez,40.0,10.0,Peelamedu,Garbage Dump,Unknown,2025-01-11,2025-01
-1266,Brittney Martinez,28.0,12.0,Ukkadam,Unknown,Medium,2023-04-13,2023-04
-1267,Matthew Sanchez,40.0,12.0,Ukkadam,Unknown,Unknown,2023-11-20,2023-11
-1268,Shelly Baker,27.0,12.0,Unknown,Garbage Dump,Medium,2024-07-18,2024-07
-1269,Victoria Steele,40.0,7.0,Unknown,Pothole,Medium,2023-01-04,2023-01
-1270,Paul Parker,40.0,13.0,Koundampalayam,Drainage Leakage,Medium,2023-05-21,2023-05
-1271,Jose Calderon,26.0,12.0,Unknown,Water Pipe Burst,Medium,2024-09-15,2024-09
-1272,Kevin Wilson,40.0,12.0,Gandhipuram,Street Light Issue,Unknown,2025-01-15,2025-01
-1273,Katherine Bennett,58.0,14.0,Unknown,Unknown,Low,2023-06-28,2023-06
-1274,Katelyn Cole,40.0,12.0,Gandhipuram,Unknown,Unknown,2024-03-20,2024-03
-1275,William Rodriguez,41.0,12.0,RS Puram,Water Pipe Burst,Low,2023-10-07,2023-10
-1276,Tina Conway,40.0,7.0,Peelamedu,Water Pipe Burst,Medium,2023-03-06,2023-03
-1277,Beth Palmer,29.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2023-11-30,2023-11
-1278,Theresa Ramsey,23.0,6.0,Peelamedu,Street Light Issue,High,2024-08-03,2024-08
-1279,Eddie Reeves,28.0,3.0,Peelamedu,Street Light Issue,Medium,2025-04-17,2025-04
-1280,Lorraine Barnes,40.0,15.0,Unknown,Pothole,Low,2024-07-02,2024-07
-1281,Alyssa Johnson,43.0,8.0,RS Puram,Garbage Dump,High,2024-09-13,2024-09
-1282,Nancy White,40.0,9.0,Koundampalayam,Water Pipe Burst,Unknown,2024-04-13,2024-04
-1283,Blake Thornton,20.0,19.0,Unknown,Pothole,Unknown,2025-01-13,2025-01
-1284,Cindy Velasquez,18.0,5.0,Koundampalayam,Unknown,Unknown,2024-09-23,2024-09
-1285,Mary Morris,37.0,12.0,Saibaba Colony,Unknown,Unknown,2025-04-03,2025-04
-1286,Ryan Cox,46.0,12.0,Peelamedu,Unknown,Medium,2024-11-21,2024-11
-1287,Brittany Logan,41.0,12.0,Peelamedu,Pothole,Unknown,2023-06-12,2023-06
-1288,Lindsay Glover,59.0,12.0,Saibaba Colony,Garbage Dump,Medium,2023-07-11,2023-07
-1289,Elizabeth Eaton,45.0,12.0,Unknown,Unknown,Unknown,2025-04-16,2025-04
-1290,William Barrett,40.0,18.0,RS Puram,Water Pipe Burst,Unknown,2024-11-27,2024-11
-1291,William Moore,51.0,18.0,Unknown,Pothole,Medium,2023-01-15,2023-01
-1292,Janice Bailey,40.0,12.0,Podanur,Garbage Dump,Unknown,2023-03-02,2023-03
-1293,Jennifer Carey,40.0,12.0,Gandhipuram,Unknown,High,2024-05-10,2024-05
-1294,Michael Jones,64.0,12.0,Ukkadam,Pothole,Unknown,2024-10-10,2024-10
-1295,Jerry Torres,44.0,12.0,Podanur,Street Light Issue,Low,2025-07-16,2025-07
-1296,Thomas King,40.0,12.0,Podanur,Water Pipe Burst,Unknown,2023-01-20,2023-01
-1297,Unknown,57.0,18.0,Podanur,Unknown,High,2024-09-05,2024-09
-1298,David Garcia,26.0,12.0,Peelamedu,Unknown,High,2023-10-18,2023-10
-1299,Thomas Terrell,60.0,18.0,Unknown,Pothole,Low,2025-05-27,2025-05
-1301,Michael Miller,40.0,12.0,Unknown,Pothole,Medium,2025-02-08,2025-02
-1302,Andre Stark MD,40.0,12.0,RS Puram,Drainage Leakage,Medium,2023-01-04,2023-01
-1303,Stephanie Pugh,60.0,3.0,Saibaba Colony,Water Pipe Burst,Unknown,2023-01-08,2023-01
-1304,Caitlin Barton,45.0,12.0,Ukkadam,Water Pipe Burst,Medium,2025-04-02,2025-04
-1305,Erin Simpson,40.0,12.0,Ukkadam,Drainage Leakage,Unknown,2024-05-04,2024-05
-1306,Hunter Johnson,43.0,12.0,Gandhipuram,Garbage Dump,High,2024-03-22,2024-03
-1307,Kathryn Lloyd,40.0,20.0,Saibaba Colony,Unknown,Unknown,2023-06-30,2023-06
-1309,Crystal Collins,40.0,12.0,Koundampalayam,Unknown,Medium,2024-10-26,2024-10
-1310,Shannon Mitchell,40.0,12.0,Ukkadam,Garbage Dump,Low,2023-01-30,2023-01
-1311,Christian Barnes,63.0,12.0,Ukkadam,Unknown,Unknown,2025-01-30,2025-01
-1312,Heather Smith,20.0,8.0,Koundampalayam,Unknown,Unknown,2024-03-27,2024-03
-1313,Beverly Smith,51.0,6.0,RS Puram,Water Pipe Burst,Unknown,2024-04-12,2024-04
-1314,Karen Bates,62.0,15.0,Gandhipuram,Water Pipe Burst,Unknown,2024-05-21,2024-05
-1315,Peter Underwood,25.0,17.0,Saibaba Colony,Garbage Dump,Medium,2024-04-02,2024-04
-1316,Rebecca Clark,40.0,12.0,Peelamedu,Unknown,Unknown,2023-04-09,2023-04
-1317,Micheal Le,47.0,2.0,Unknown,Pothole,Low,2023-11-03,2023-11
-1318,Lori Figueroa,40.0,12.0,Ukkadam,Unknown,High,2025-05-10,2025-05
-1319,Christina Cortez,40.0,12.0,Koundampalayam,Unknown,Unknown,2024-09-27,2024-09
-1320,Molly Rogers,21.0,16.0,Ukkadam,Unknown,Unknown,2023-05-25,2023-05
-1321,Lisa Cannon,40.0,4.0,Podanur,Drainage Leakage,Medium,2024-09-05,2024-09
-1322,Colin Evans,40.0,12.0,Ganapathy,Water Pipe Burst,Unknown,2025-02-19,2025-02
-1323,Julia Taylor,40.0,12.0,Ukkadam,Pothole,Medium,2023-06-04,2023-06
-1324,Andrew Johnson,65.0,1.0,Peelamedu,Garbage Dump,Unknown,2024-08-09,2024-08
-1325,Leslie Bauer,40.0,15.0,Gandhipuram,Pothole,Unknown,2024-11-21,2024-11
-1326,Lisa Gonzalez,40.0,12.0,RS Puram,Drainage Leakage,Unknown,2023-10-12,2023-10
-1327,Tiffany Johnson,25.0,12.0,Ukkadam,Drainage Leakage,Low,2024-05-26,2024-05
-1328,Natalie Martinez,36.0,12.0,Gandhipuram,Pothole,Low,2023-12-10,2023-12
-1329,Nicole Boyer,40.0,18.0,Unknown,Unknown,Low,2024-03-13,2024-03
-1330,Unknown,56.0,12.0,RS Puram,Unknown,Low,2024-06-03,2024-06
-1331,Mary Richardson,40.0,12.0,Ukkadam,Unknown,Medium,2025-02-24,2025-02
-1332,Donald Murphy,40.0,12.0,Gandhipuram,Unknown,High,2023-11-15,2023-11
-1333,Stacey Alexander,63.0,12.0,Podanur,Unknown,Unknown,2025-03-01,2025-03
-1334,Jesse Montoya,40.0,12.0,RS Puram,Drainage Leakage,Low,2024-10-24,2024-10
-1335,Stephen Curry,58.0,15.0,Koundampalayam,Garbage Dump,Low,2024-08-22,2024-08
-1336,Jesse Collins,40.0,12.0,Unknown,Street Light Issue,Unknown,2024-05-01,2024-05
-1337,Dominique Stevens,42.0,12.0,Ganapathy,Drainage Leakage,Unknown,2023-03-19,2023-03
-1338,Patricia Johnson,40.0,12.0,Gandhipuram,Water Pipe Burst,Medium,2024-11-07,2024-11
-1339,Levi Cowan,59.0,12.0,Ukkadam,Unknown,Low,2023-06-10,2023-06
-1340,Alyssa West,40.0,18.0,Ukkadam,Unknown,High,2023-09-27,2023-09
-1341,Tammy Dawson,62.0,4.0,Peelamedu,Water Pipe Burst,Unknown,2024-12-08,2024-12
-1342,Emily Rice,40.0,4.0,Podanur,Drainage Leakage,High,2023-12-16,2023-12
-1343,Eric Wolfe,40.0,12.0,Ganapathy,Unknown,High,2024-12-06,2024-12
-1344,Timothy Adams,40.0,19.0,Ukkadam,Unknown,High,2023-10-15,2023-10
-1345,Richard Brooks,40.0,12.0,Ukkadam,Pothole,Unknown,2023-05-11,2023-05
-1346,Angela Mcdonald,41.0,12.0,Peelamedu,Unknown,High,2024-12-21,2024-12
-1347,Michael Holmes,40.0,16.0,Ganapathy,Street Light Issue,Unknown,2024-11-10,2024-11
-1348,David Owens,40.0,12.0,Ukkadam,Water Pipe Burst,High,2024-05-23,2024-05
-1349,John Mills,29.0,9.0,Ganapathy,Drainage Leakage,Unknown,2023-10-26,2023-10
-1351,Antonio Garner,40.0,10.0,Gandhipuram,Garbage Dump,High,2025-02-01,2025-02
-1352,Heather Martinez,40.0,14.0,Unknown,Unknown,Low,2023-07-16,2023-07
-1353,Juan Davis,31.0,12.0,Gandhipuram,Street Light Issue,Unknown,2024-10-27,2024-10
-1354,Stephanie Jacobson,30.0,18.0,Saibaba Colony,Unknown,High,2024-12-15,2024-12
-1355,Daniel Mckinney,40.0,12.0,Ukkadam,Garbage Dump,High,2024-05-18,2024-05
-1356,Kelly Michael,40.0,12.0,Unknown,Unknown,Low,2025-01-11,2025-01
-1357,Jonathan Evans,38.0,8.0,Saibaba Colony,Unknown,Low,2024-05-10,2024-05
-1358,Kenneth Richards,40.0,14.0,Ukkadam,Unknown,Unknown,2024-06-15,2024-06
-1359,Michael Schmidt,40.0,6.0,Koundampalayam,Garbage Dump,Unknown,2023-10-19,2023-10
-1360,Tina Parker,40.0,8.0,Koundampalayam,Water Pipe Burst,Medium,2024-12-31,2024-12
-1361,Ashley Gallagher,59.0,12.0,Unknown,Unknown,Unknown,2023-10-11,2023-10
-1362,Brandon James,42.0,20.0,Unknown,Water Pipe Burst,Low,2024-01-18,2024-01
-1363,Unknown,40.0,2.0,Ukkadam,Unknown,High,2024-04-15,2024-04
-1364,Jeffrey Reed,40.0,9.0,Peelamedu,Street Light Issue,Medium,2023-10-18,2023-10
-1365,Elizabeth Alexander,18.0,12.0,Saibaba Colony,Unknown,High,2024-10-17,2024-10
-1366,Scott Griffin,62.0,12.0,Koundampalayam,Street Light Issue,Unknown,2023-01-29,2023-01
-1367,James Montoya,40.0,15.0,RS Puram,Garbage Dump,Unknown,2024-11-30,2024-11
-1368,Dawn Bridges,50.0,12.0,Unknown,Unknown,Unknown,2024-12-13,2024-12
-1369,Jessica Jones,40.0,4.0,Koundampalayam,Garbage Dump,Unknown,2024-06-01,2024-06
-1370,Jessica Sanchez,40.0,12.0,Unknown,Unknown,Unknown,2025-02-07,2025-02
-1371,Daniel Sanders,51.0,1.0,Unknown,Garbage Dump,Unknown,2024-03-05,2024-03
-1372,Stephanie Lee,40.0,4.0,Saibaba Colony,Street Light Issue,Unknown,2023-08-27,2023-08
-1373,Debra Barrett,40.0,12.0,Unknown,Garbage Dump,Unknown,2024-01-14,2024-01
-1374,David Long,38.0,12.0,Koundampalayam,Unknown,Low,2024-12-15,2024-12
-1375,Angelica Rios,40.0,11.0,Peelamedu,Pothole,Low,2023-07-06,2023-07
-1376,Vickie Brown MD,40.0,12.0,Saibaba Colony,Street Light Issue,Low,2024-05-03,2024-05
-1377,Ruth Jones,40.0,7.0,Unknown,Unknown,Unknown,2023-07-18,2023-07
-1378,Richard Lewis,43.0,19.0,RS Puram,Water Pipe Burst,Medium,2024-12-05,2024-12
-1379,Jason Williams,40.0,3.0,Peelamedu,Unknown,Medium,2023-12-22,2023-12
-1380,Debbie Grant,40.0,18.0,Unknown,Street Light Issue,Unknown,2023-09-26,2023-09
-1381,Claire Jones,40.0,12.0,Ukkadam,Garbage Dump,Medium,2024-08-27,2024-08
-1382,Julia Keller,40.0,12.0,Peelamedu,Street Light Issue,Unknown,2023-05-08,2023-05
-1383,Ricardo Hammond,40.0,12.0,Koundampalayam,Water Pipe Burst,Unknown,2023-08-04,2023-08
-1384,Tiffany Dorsey,59.0,20.0,Ganapathy,Unknown,High,2023-11-22,2023-11
-1386,Dustin Taylor DVM,18.0,12.0,Koundampalayam,Pothole,High,2025-01-26,2025-01
-1387,Christopher Webster,52.0,14.0,Saibaba Colony,Street Light Issue,Unknown,2025-01-16,2025-01
-1388,Katie Holloway,40.0,12.0,Ukkadam,Street Light Issue,Low,2023-03-30,2023-03
-1389,Amanda Levine,48.0,12.0,Peelamedu,Garbage Dump,Unknown,2023-11-10,2023-11
-1390,Jay Johnson,62.0,11.0,Ganapathy,Unknown,Medium,2024-06-07,2024-06
-1391,Kenneth Lawson,40.0,12.0,Unknown,Pothole,High,2024-03-11,2024-03
-1392,Adam Bailey,36.0,10.0,Ganapathy,Unknown,Low,2023-03-23,2023-03
-1393,Alicia Bradley,40.0,12.0,Unknown,Garbage Dump,Unknown,2025-06-06,2025-06
-1394,Cassidy Simon,40.0,12.0,Koundampalayam,Street Light Issue,High,2023-10-07,2023-10
-1395,Jill Grant,40.0,12.0,Ukkadam,Water Pipe Burst,Medium,2025-03-17,2025-03
-1396,Unknown,51.0,12.0,Ganapathy,Garbage Dump,High,2023-05-31,2023-05
-1397,Zachary Munoz,40.0,12.0,Unknown,Pothole,Unknown,2024-04-28,2024-04
-1398,Tamara White,34.0,12.0,Unknown,Garbage Dump,Unknown,2023-04-27,2023-04
-1399,Jeffrey Garcia,40.0,18.0,Unknown,Unknown,Unknown,2024-08-02,2024-08
-1401,Richard Thomas,40.0,3.0,Ganapathy,Unknown,Medium,2024-10-12,2024-10
-1402,Brian Roberts,33.0,12.0,RS Puram,Water Pipe Burst,Unknown,2024-10-11,2024-10
-1403,Stephanie Jones,40.0,3.0,Ukkadam,Garbage Dump,Low,2024-12-02,2024-12
-1404,Denise Johnson,40.0,11.0,Ganapathy,Unknown,Medium,2024-02-16,2024-02
-1405,Alexander Munoz,40.0,12.0,Unknown,Street Light Issue,High,2025-07-15,2025-07
-1406,Carol Cox,27.0,1.0,Podanur,Unknown,High,2024-03-03,2024-03
-1407,Peter Aguirre,40.0,3.0,Koundampalayam,Pothole,Unknown,2024-09-23,2024-09
-1408,Steven Lee,32.0,12.0,Ganapathy,Unknown,Unknown,2023-07-11,2023-07
-1409,Felicia Brooks,40.0,12.0,RS Puram,Water Pipe Burst,Unknown,2024-02-07,2024-02
-1410,Emily Jones,55.0,12.0,RS Puram,Drainage Leakage,High,2025-04-29,2025-04
-1411,Shelby Bailey,40.0,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-01-01,2023-01
-1412,Christopher Paul,40.0,12.0,Koundampalayam,Pothole,Low,2024-08-01,2024-08
-1413,James Walsh,40.0,20.0,Koundampalayam,Garbage Dump,Medium,2024-02-03,2024-02
-1414,Megan Garcia,29.0,12.0,Podanur,Unknown,Unknown,2023-04-01,2023-04
-1415,Gregory Tucker,58.0,15.0,Peelamedu,Unknown,Unknown,2024-01-06,2024-01
-1416,Peter Yates,22.0,17.0,Koundampalayam,Drainage Leakage,Unknown,2023-11-02,2023-11
-1417,Norma Moore,48.0,12.0,Saibaba Colony,Water Pipe Burst,High,2023-12-17,2023-12
-1418,Amanda Bell,34.0,12.0,RS Puram,Water Pipe Burst,High,2023-03-13,2023-03
-1419,Jeffrey Farmer,40.0,17.0,Saibaba Colony,Drainage Leakage,Unknown,2024-06-01,2024-06
-1420,Brandon Summers,40.0,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-03-22,2024-03
-1421,Amanda Johnson,57.0,4.0,Ukkadam,Drainage Leakage,Low,2024-01-09,2024-01
-1422,Colleen Owens,40.0,12.0,Ganapathy,Street Light Issue,Unknown,2023-08-04,2023-08
-1423,Jacob Sanchez,40.0,12.0,Saibaba Colony,Street Light Issue,Low,2023-06-13,2023-06
-1424,Jennifer Jones,40.0,18.0,Unknown,Pothole,Unknown,2023-11-26,2023-11
-1425,Deborah Williams,40.0,4.0,Unknown,Garbage Dump,Medium,2023-09-21,2023-09
-1426,Stacey Wilson,57.0,12.0,Podanur,Garbage Dump,Medium,2024-09-10,2024-09
-1427,Anthony Phillips,49.0,11.0,Peelamedu,Unknown,Unknown,2023-03-27,2023-03
-1428,Jamie Williams,26.0,1.0,Peelamedu,Garbage Dump,Unknown,2024-01-16,2024-01
-1429,Unknown,41.0,3.0,Peelamedu,Drainage Leakage,Unknown,2024-12-17,2024-12
-1430,Jennifer Wood,37.0,12.0,Unknown,Water Pipe Burst,Unknown,2023-04-17,2023-04
-1431,Vanessa Green,40.0,15.0,Ganapathy,Street Light Issue,Unknown,2025-01-27,2025-01
-1432,Miguel Brown,20.0,12.0,RS Puram,Drainage Leakage,Unknown,2024-06-23,2024-06
-1433,Randy Bowers,63.0,17.0,Saibaba Colony,Unknown,Unknown,2024-06-11,2024-06
-1434,Chad Hernandez,64.0,5.0,Saibaba Colony,Street Light Issue,Unknown,2023-12-30,2023-12
-1435,Willie Rodriguez,41.0,12.0,Ganapathy,Drainage Leakage,High,2023-08-29,2023-08
-1436,Amy Edwards,40.0,12.0,Unknown,Unknown,High,2024-09-17,2024-09
-1437,Scott Smith MD,40.0,8.0,Ukkadam,Unknown,Unknown,2023-08-21,2023-08
-1438,Alyssa Wilson,58.0,12.0,Ganapathy,Garbage Dump,Unknown,2025-04-16,2025-04
-1439,Christina Mccoy,62.0,12.0,Ganapathy,Street Light Issue,Unknown,2024-10-29,2024-10
-1440,Jimmy Ward,40.0,12.0,Podanur,Drainage Leakage,Medium,2023-09-21,2023-09
-1441,Nicholas Patterson,40.0,6.0,Gandhipuram,Water Pipe Burst,Medium,2023-05-14,2023-05
-1442,Jessica Lopez,40.0,9.0,Koundampalayam,Unknown,Low,2025-07-17,2025-07
-1443,Daniel Henderson,56.0,12.0,Unknown,Street Light Issue,Unknown,2024-11-23,2024-11
-1444,Jennifer Mathis,40.0,12.0,Peelamedu,Garbage Dump,High,2025-02-28,2025-02
-1445,Danielle Ellis,52.0,19.0,Koundampalayam,Garbage Dump,Medium,2024-06-21,2024-06
-1446,Melanie Mosley,40.0,20.0,Saibaba Colony,Unknown,Unknown,2025-03-12,2025-03
-1447,Jon Hoover,26.0,20.0,Gandhipuram,Street Light Issue,High,2023-02-18,2023-02
-1448,Kimberly Sanchez,43.0,2.0,Unknown,Unknown,Low,2024-04-16,2024-04
-1449,Melissa Anderson,40.0,15.0,Unknown,Unknown,Low,2023-02-27,2023-02
-1451,Vanessa Wheeler,61.0,12.0,Unknown,Unknown,Unknown,2023-03-03,2023-03
-1452,Alison Butler,39.0,13.0,Koundampalayam,Unknown,Medium,2025-06-11,2025-06
-1453,Christian Martinez,40.0,12.0,Peelamedu,Street Light Issue,Unknown,2024-07-21,2024-07
-1454,Cathy Roberts,40.0,12.0,Ukkadam,Street Light Issue,Unknown,2023-11-23,2023-11
-1455,Tricia Khan,43.0,4.0,Peelamedu,Unknown,High,2023-08-10,2023-08
-1456,Tammy Roy,24.0,1.0,Koundampalayam,Unknown,Unknown,2024-08-25,2024-08
-1457,Alicia Ortiz,46.0,12.0,Saibaba Colony,Garbage Dump,Unknown,2025-05-31,2025-05
-1458,Gerald Norton,40.0,4.0,Gandhipuram,Garbage Dump,High,2024-01-19,2024-01
-1459,Jason Robinson,31.0,12.0,Koundampalayam,Unknown,Low,2023-01-27,2023-01
-1460,Denise Johnson,40.0,12.0,Koundampalayam,Water Pipe Burst,Low,2023-12-11,2023-12
-1461,Laurie Alvarez,40.0,14.0,Gandhipuram,Unknown,High,2024-05-27,2024-05
-1463,Julie Smith,40.0,12.0,Koundampalayam,Water Pipe Burst,Unknown,2023-07-08,2023-07
-1464,Tammy Green,35.0,12.0,RS Puram,Unknown,Unknown,2024-08-04,2024-08
-1465,Michael Miller,57.0,5.0,Koundampalayam,Garbage Dump,Medium,2024-11-02,2024-11
-1466,Emily Mccoy,40.0,12.0,RS Puram,Drainage Leakage,High,2025-02-15,2025-02
-1467,Amanda Martin,25.0,12.0,Ukkadam,Garbage Dump,Medium,2023-09-30,2023-09
-1468,Theresa Romero,29.0,12.0,Ukkadam,Garbage Dump,High,2024-03-31,2024-03
-1469,Russell Flores,40.0,15.0,Saibaba Colony,Street Light Issue,Low,2024-11-03,2024-11
-1470,Amanda Le,40.0,12.0,Unknown,Unknown,Unknown,2023-03-08,2023-03
-1471,Erica Stevens,40.0,12.0,Ganapathy,Water Pipe Burst,Medium,2025-05-12,2025-05
-1472,Jake Walters,54.0,12.0,Gandhipuram,Unknown,Medium,2023-05-02,2023-05
-1473,Latasha Garcia,40.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2023-10-12,2023-10
-1474,Vanessa Martin,40.0,12.0,Unknown,Drainage Leakage,Unknown,2024-06-09,2024-06
-1475,Katherine Little,40.0,12.0,RS Puram,Drainage Leakage,High,2023-07-14,2023-07
-1476,Margaret Garza,46.0,12.0,Koundampalayam,Pothole,Unknown,2023-02-16,2023-02
-1477,John Powell,62.0,12.0,Ukkadam,Unknown,Medium,2025-04-28,2025-04
-1478,Steven Franklin,19.0,15.0,Podanur,Unknown,Low,2023-04-22,2023-04
-1479,Tyler Gillespie,40.0,4.0,Saibaba Colony,Drainage Leakage,Medium,2025-03-31,2025-03
-1480,Philip Johnson Jr.,57.0,12.0,Unknown,Unknown,Unknown,2023-04-29,2023-04
-1481,Danielle Leblanc,59.0,3.0,RS Puram,Water Pipe Burst,High,2023-12-05,2023-12
-1482,Valerie Wells,40.0,15.0,Koundampalayam,Pothole,Unknown,2024-11-24,2024-11
-1483,Margaret Cook,60.0,8.0,Ganapathy,Drainage Leakage,Low,2024-02-28,2024-02
-1484,Brandon Osborne,40.0,15.0,Podanur,Unknown,Medium,2024-07-20,2024-07
-1485,Claudia Bowman,52.0,17.0,Saibaba Colony,Street Light Issue,High,2023-06-16,2023-06
-1486,Kimberly Wilson,40.0,10.0,Gandhipuram,Garbage Dump,Medium,2024-01-20,2024-01
-1487,Jennifer Williams,40.0,5.0,Unknown,Unknown,High,2024-04-15,2024-04
-1488,Brett Donaldson,40.0,12.0,Gandhipuram,Unknown,Medium,2025-02-21,2025-02
-1489,Kerry Sanders,40.0,10.0,Unknown,Unknown,Low,2025-05-17,2025-05
-1490,Michael Ford,40.0,16.0,Unknown,Water Pipe Burst,Unknown,2024-06-09,2024-06
-1491,Paul Ayers,64.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2025-06-13,2025-06
-1492,Lauren Merritt,38.0,12.0,Podanur,Unknown,Low,2023-07-13,2023-07
-1493,Shaun Knight,40.0,13.0,Unknown,Drainage Leakage,Low,2025-02-16,2025-02
-1494,Rachel King,40.0,17.0,Peelamedu,Street Light Issue,Unknown,2023-01-10,2023-01
-1495,Unknown,40.0,10.0,Ganapathy,Street Light Issue,Unknown,2024-05-29,2024-05
-1496,Thomas Jackson,65.0,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-03-12,2023-03
-1497,William Shepherd,40.0,14.0,Podanur,Unknown,High,2023-06-18,2023-06
-1498,Barbara Maldonado,21.0,16.0,Koundampalayam,Garbage Dump,Unknown,2023-08-22,2023-08
-1499,Richard Le,40.0,12.0,Podanur,Garbage Dump,High,2025-04-11,2025-04
-1501,James Francis,60.0,13.0,Ganapathy,Garbage Dump,Unknown,2024-10-12,2024-10
-1502,Christopher Atkinson,40.0,12.0,Ganapathy,Garbage Dump,Unknown,2023-12-10,2023-12
-1503,Jasmin Dillon,57.0,11.0,Peelamedu,Unknown,Unknown,2023-10-20,2023-10
-1504,Melissa Meyer,58.0,4.0,RS Puram,Pothole,Medium,2024-06-15,2024-06
-1505,Samantha Parker,63.0,12.0,Peelamedu,Pothole,Medium,2023-10-06,2023-10
-1506,John Hudson,40.0,12.0,Peelamedu,Drainage Leakage,High,2025-04-30,2025-04
-1507,Susan Gray,40.0,12.0,Unknown,Unknown,Unknown,2025-06-24,2025-06
-1508,Clinton Ewing,40.0,12.0,Ganapathy,Unknown,Low,2024-04-06,2024-04
-1509,Lance Smith,22.0,18.0,Ukkadam,Drainage Leakage,Unknown,2024-02-02,2024-02
-1510,Katrina Contreras,40.0,16.0,Ganapathy,Water Pipe Burst,Unknown,2025-04-21,2025-04
-1511,Amy Gordon,24.0,5.0,Peelamedu,Pothole,Low,2024-02-22,2024-02
-1512,Jeffery Proctor,40.0,12.0,Ukkadam,Drainage Leakage,High,2023-11-09,2023-11
-1513,April Hensley,40.0,12.0,Podanur,Unknown,Unknown,2023-04-04,2023-04
-1514,Larry Drake,37.0,6.0,Unknown,Pothole,Unknown,2024-08-18,2024-08
-1515,Zachary Hicks,40.0,12.0,Ukkadam,Water Pipe Burst,Low,2024-11-29,2024-11
-1516,Ashley Chandler,40.0,16.0,Podanur,Unknown,Unknown,2024-08-31,2024-08
-1517,Theresa Brown,40.0,12.0,Gandhipuram,Street Light Issue,High,2025-07-07,2025-07
-1518,Jimmy Butler,40.0,12.0,Ganapathy,Unknown,Medium,2024-07-07,2024-07
-1519,Brad Steele,63.0,12.0,Peelamedu,Unknown,Medium,2024-06-27,2024-06
-1520,Taylor Williams,40.0,12.0,Saibaba Colony,Unknown,Medium,2023-11-07,2023-11
-1521,Ms. Jessica Sloan,64.0,12.0,RS Puram,Garbage Dump,Low,2023-06-11,2023-06
-1522,Kaitlyn Michael,40.0,12.0,Koundampalayam,Unknown,Low,2023-09-17,2023-09
-1523,Pam Durham,27.0,12.0,Podanur,Unknown,Medium,2023-12-30,2023-12
-1524,Aaron Keller,40.0,16.0,Gandhipuram,Pothole,High,2024-12-18,2024-12
-1525,Anthony Houston,31.0,13.0,Ganapathy,Street Light Issue,High,2023-06-19,2023-06
-1526,Thomas Eaton,46.0,16.0,Saibaba Colony,Drainage Leakage,Medium,2025-06-27,2025-06
-1527,Edward Norton,40.0,11.0,Peelamedu,Drainage Leakage,Low,2023-03-19,2023-03
-1528,Unknown,63.0,7.0,Koundampalayam,Water Pipe Burst,High,2024-02-19,2024-02
-1529,Madison Adkins,40.0,11.0,Gandhipuram,Garbage Dump,Medium,2024-10-24,2024-10
-1530,Christina Cohen,40.0,12.0,Ukkadam,Street Light Issue,Unknown,2024-05-30,2024-05
-1531,Joel Griffith,22.0,12.0,Unknown,Street Light Issue,High,2023-07-13,2023-07
-1532,Megan Collins,40.0,4.0,Podanur,Pothole,Unknown,2023-09-07,2023-09
-1533,Emily Henry,40.0,12.0,Saibaba Colony,Water Pipe Burst,Low,2024-02-17,2024-02
-1534,Belinda Edwards,19.0,3.0,Ganapathy,Garbage Dump,Unknown,2023-08-31,2023-08
-1535,David Pruitt,43.0,6.0,Saibaba Colony,Unknown,Medium,2024-06-25,2024-06
-1536,Jose Castaneda,40.0,12.0,Gandhipuram,Garbage Dump,High,2025-01-27,2025-01
-1537,Crystal Hill,40.0,8.0,Saibaba Colony,Pothole,Unknown,2023-05-23,2023-05
-1538,Laura Thompson,40.0,8.0,Ganapathy,Water Pipe Burst,Unknown,2023-09-15,2023-09
-1540,Kenneth George,39.0,12.0,Unknown,Unknown,Unknown,2023-10-07,2023-10
-1541,Kevin Caldwell,29.0,12.0,Ganapathy,Unknown,Unknown,2023-03-25,2023-03
-1542,Sean King,40.0,18.0,Unknown,Drainage Leakage,Low,2023-08-04,2023-08
-1543,Michael Park,20.0,12.0,Unknown,Garbage Dump,Unknown,2024-08-13,2024-08
-1544,Barry Flores,40.0,5.0,Podanur,Drainage Leakage,Unknown,2025-04-21,2025-04
-1545,Susan Hart,40.0,12.0,Podanur,Pothole,Medium,2024-09-28,2024-09
-1546,Tina Reyes,40.0,12.0,Saibaba Colony,Drainage Leakage,Low,2024-03-14,2024-03
-1547,Shelly Horn,21.0,12.0,Ukkadam,Drainage Leakage,High,2025-06-12,2025-06
-1548,Jimmy Todd,40.0,1.0,Peelamedu,Drainage Leakage,High,2025-05-02,2025-05
-1549,John Perez,40.0,12.0,Unknown,Unknown,High,2024-09-05,2024-09
-1551,Stacey Koch,24.0,12.0,Ganapathy,Garbage Dump,Medium,2023-12-06,2023-12
-1552,Jeremy White,55.0,12.0,Ganapathy,Street Light Issue,Unknown,2024-10-13,2024-10
-1553,Michael Clark,40.0,12.0,Unknown,Water Pipe Burst,High,2024-04-24,2024-04
-1554,Justin Burns,40.0,3.0,Unknown,Drainage Leakage,Medium,2023-01-11,2023-01
-1555,Robert Mcdaniel,40.0,17.0,Ganapathy,Unknown,Unknown,2024-04-14,2024-04
-1556,Travis Gallagher,49.0,12.0,Ganapathy,Drainage Leakage,Unknown,2024-08-01,2024-08
-1557,Brooke Phillips,30.0,6.0,Koundampalayam,Street Light Issue,Unknown,2023-07-02,2023-07
-1558,Pamela Howard,37.0,12.0,Peelamedu,Street Light Issue,Medium,2023-01-13,2023-01
-1559,Jeremy Carr,58.0,12.0,Ganapathy,Garbage Dump,High,2025-06-28,2025-06
-1560,Danielle Nelson,40.0,17.0,Koundampalayam,Drainage Leakage,Unknown,2024-10-16,2024-10
-1561,Unknown,49.0,12.0,Ukkadam,Unknown,Unknown,2024-04-20,2024-04
-1562,Michael Hampton,51.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-06-05,2024-06
-1563,Kathy Perez,40.0,12.0,Gandhipuram,Pothole,Unknown,2024-07-05,2024-07
-1564,Christopher Smith,40.0,9.0,Koundampalayam,Garbage Dump,High,2023-06-02,2023-06
-1565,Ashley Obrien,58.0,16.0,Ukkadam,Unknown,High,2025-02-07,2025-02
-1566,Donald Saunders,46.0,12.0,Unknown,Unknown,Low,2024-10-08,2024-10
-1567,Steven Carpenter,51.0,12.0,Ganapathy,Unknown,Medium,2023-05-11,2023-05
-1568,Brandon Mcdonald,46.0,4.0,RS Puram,Unknown,High,2024-03-28,2024-03
-1569,Tiffany Williams,29.0,12.0,Ukkadam,Pothole,Unknown,2024-10-12,2024-10
-1570,Bradley Kim,40.0,8.0,Ukkadam,Water Pipe Burst,Unknown,2025-02-22,2025-02
-1571,Angelica Kennedy,40.0,12.0,Peelamedu,Unknown,Medium,2023-11-06,2023-11
-1572,Deborah Tran,37.0,12.0,Unknown,Garbage Dump,Low,2023-10-24,2023-10
-1573,Susan Wallace,27.0,2.0,Ganapathy,Street Light Issue,High,2025-04-17,2025-04
-1574,Tommy Roth,48.0,12.0,Peelamedu,Street Light Issue,Low,2023-05-17,2023-05
-1575,Maria Mcintyre,59.0,12.0,Peelamedu,Garbage Dump,Unknown,2024-01-28,2024-01
-1576,Michelle Young,40.0,12.0,Podanur,Water Pipe Burst,Medium,2023-02-26,2023-02
-1577,Mark Thomas,40.0,16.0,Ukkadam,Water Pipe Burst,High,2025-02-11,2025-02
-1578,Lisa Gilbert,47.0,12.0,Gandhipuram,Garbage Dump,Unknown,2023-10-15,2023-10
-1579,Alexander Carter,48.0,17.0,Unknown,Unknown,Unknown,2025-04-16,2025-04
-1580,Roger Mitchell,37.0,1.0,Ukkadam,Garbage Dump,Unknown,2023-02-04,2023-02
-1581,Margaret Lopez,64.0,16.0,Saibaba Colony,Street Light Issue,Medium,2024-04-09,2024-04
-1582,Jacob Reynolds,55.0,12.0,Podanur,Street Light Issue,Unknown,2024-03-18,2024-03
-1583,Mikayla Christensen,64.0,12.0,Unknown,Water Pipe Burst,Unknown,2023-02-19,2023-02
-1584,Brandi Carpenter,64.0,12.0,Gandhipuram,Garbage Dump,High,2024-03-15,2024-03
-1585,John Pope,40.0,4.0,Unknown,Street Light Issue,Unknown,2023-09-22,2023-09
-1586,Timothy Mcdowell,40.0,12.0,Gandhipuram,Unknown,Medium,2025-02-28,2025-02
-1587,Tammy Wilson,40.0,16.0,Koundampalayam,Garbage Dump,Medium,2023-03-09,2023-03
-1588,Jonathan Knight,31.0,12.0,Unknown,Street Light Issue,Unknown,2023-12-05,2023-12
-1589,Jonathon Nelson,19.0,9.0,Gandhipuram,Pothole,Unknown,2024-06-02,2024-06
-1590,Jeremy Holland,40.0,12.0,RS Puram,Unknown,Unknown,2024-04-03,2024-04
-1591,Nicholas Grant,40.0,10.0,Unknown,Unknown,Unknown,2023-04-16,2023-04
-1592,Peter Martin,28.0,12.0,RS Puram,Water Pipe Burst,High,2023-11-21,2023-11
-1593,Tammy Edwards,49.0,18.0,Unknown,Garbage Dump,Low,2024-02-10,2024-02
-1594,Unknown,40.0,12.0,Ganapathy,Unknown,Medium,2025-05-02,2025-05
-1595,Johnathan Evans,54.0,12.0,Koundampalayam,Water Pipe Burst,Unknown,2025-05-04,2025-05
-1596,Jessica Brewer,40.0,8.0,Ganapathy,Street Light Issue,High,2024-12-23,2024-12
-1597,Robin Johnson,40.0,12.0,Ukkadam,Unknown,High,2023-11-18,2023-11
-1598,Diana Fowler,20.0,12.0,RS Puram,Garbage Dump,Low,2025-05-20,2025-05
-1599,Stacy Williams,40.0,12.0,Unknown,Garbage Dump,High,2025-06-02,2025-06
-1601,Jacqueline Pena,40.0,12.0,RS Puram,Pothole,Unknown,2024-01-20,2024-01
-1602,Tamara Underwood,23.0,11.0,Unknown,Garbage Dump,Unknown,2024-07-11,2024-07
-1603,Amanda Chase,61.0,4.0,Ukkadam,Unknown,Unknown,2023-03-29,2023-03
-1604,Michael Brown,46.0,12.0,Peelamedu,Drainage Leakage,Low,2023-09-03,2023-09
-1605,Dylan Rasmussen,27.0,2.0,Unknown,Unknown,Unknown,2024-09-22,2024-09
-1606,Justin Brown,28.0,12.0,Peelamedu,Unknown,Low,2024-01-12,2024-01
-1607,Casey Brown,40.0,3.0,Saibaba Colony,Unknown,High,2024-04-04,2024-04
-1608,Isaac Morris,39.0,12.0,Unknown,Garbage Dump,Unknown,2024-12-28,2024-12
-1609,Jennifer Evans,20.0,12.0,Ukkadam,Unknown,Unknown,2023-06-17,2023-06
-1610,Autumn Perry,47.0,12.0,Saibaba Colony,Unknown,Low,2024-10-07,2024-10
-1611,William Walker,42.0,11.0,Ganapathy,Garbage Dump,Unknown,2023-07-13,2023-07
-1612,Emily Holloway,37.0,12.0,RS Puram,Drainage Leakage,Medium,2023-08-22,2023-08
-1613,Renee Snow,40.0,12.0,RS Puram,Unknown,Unknown,2023-10-28,2023-10
-1614,Diane Hansen,65.0,7.0,Gandhipuram,Street Light Issue,Medium,2024-05-11,2024-05
-1615,Brandon Beltran,40.0,12.0,Saibaba Colony,Garbage Dump,Unknown,2024-10-09,2024-10
-1617,Margaret Clark,40.0,12.0,Gandhipuram,Pothole,Low,2024-07-03,2024-07
-1618,James Green,49.0,12.0,Saibaba Colony,Unknown,Low,2025-05-25,2025-05
-1619,George Butler,40.0,4.0,Koundampalayam,Pothole,Medium,2023-07-31,2023-07
-1620,Hector Daniels,63.0,15.0,Unknown,Drainage Leakage,Medium,2024-06-23,2024-06
-1621,Robert Chen,40.0,12.0,Saibaba Colony,Water Pipe Burst,High,2023-01-10,2023-01
-1622,Joanna Everett,40.0,12.0,Ganapathy,Pothole,Low,2025-03-15,2025-03
-1623,Stephanie Lewis,40.0,12.0,Koundampalayam,Unknown,Unknown,2025-06-26,2025-06
-1624,Scott Flynn,40.0,12.0,Ganapathy,Water Pipe Burst,High,2023-07-08,2023-07
-1625,Aaron Lin,20.0,7.0,Unknown,Water Pipe Burst,Medium,2024-05-22,2024-05
-1626,Cynthia Butler,29.0,12.0,Saibaba Colony,Drainage Leakage,Unknown,2024-04-14,2024-04
-1627,Unknown,53.0,12.0,Unknown,Unknown,Medium,2025-06-28,2025-06
-1628,Alexis Daniel,49.0,12.0,Koundampalayam,Pothole,Unknown,2025-05-03,2025-05
-1629,Robert Lewis,40.0,12.0,RS Puram,Water Pipe Burst,Medium,2025-06-16,2025-06
-1630,Krystal Cox,40.0,11.0,Ganapathy,Unknown,Unknown,2024-01-02,2024-01
-1631,Derek Morris,40.0,12.0,RS Puram,Garbage Dump,High,2024-11-27,2024-11
-1632,Jackson Mcintosh,60.0,12.0,Podanur,Pothole,Medium,2024-12-19,2024-12
-1633,Susan Parker,40.0,12.0,Unknown,Unknown,Low,2025-06-30,2025-06
-1634,Jonathan Roberts,21.0,15.0,Ganapathy,Pothole,Unknown,2025-05-23,2025-05
-1635,Michael Dawson,40.0,20.0,Gandhipuram,Drainage Leakage,Low,2023-08-12,2023-08
-1636,Erin Moran,40.0,12.0,Ganapathy,Pothole,Unknown,2024-07-08,2024-07
-1637,Jennifer Bell,40.0,2.0,Peelamedu,Unknown,Unknown,2025-05-31,2025-05
-1638,Crystal Flores,44.0,12.0,Gandhipuram,Water Pipe Burst,High,2024-03-14,2024-03
-1639,Daniel Rojas,40.0,12.0,Saibaba Colony,Water Pipe Burst,Low,2024-03-02,2024-03
-1640,Timothy Scott,29.0,3.0,Saibaba Colony,Water Pipe Burst,High,2025-06-01,2025-06
-1641,Erin Smith,40.0,12.0,Podanur,Unknown,Medium,2023-05-26,2023-05
-1642,Julie Ramirez,40.0,12.0,Unknown,Water Pipe Burst,Unknown,2024-05-10,2024-05
-1643,Lance Haley,38.0,12.0,Unknown,Garbage Dump,Unknown,2024-11-28,2024-11
-1644,Jerry Sherman,65.0,12.0,RS Puram,Unknown,Unknown,2025-07-12,2025-07
-1645,Jasmine Davis,23.0,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-08-15,2024-08
-1646,Mark Hess,58.0,12.0,Ganapathy,Garbage Dump,Low,2025-04-15,2025-04
-1647,Brian Taylor,40.0,1.0,Ganapathy,Street Light Issue,High,2023-03-31,2023-03
-1648,Jennifer Young,40.0,12.0,Ganapathy,Water Pipe Burst,Medium,2024-12-15,2024-12
-1649,Shawn Lutz DVM,40.0,12.0,Saibaba Colony,Drainage Leakage,Low,2025-02-08,2025-02
-1651,Steven Brennan,40.0,11.0,Podanur,Drainage Leakage,High,2024-12-25,2024-12
-1652,Robert Murray,40.0,12.0,Ganapathy,Pothole,High,2025-03-29,2025-03
-1653,Anthony York,28.0,12.0,Ukkadam,Unknown,Medium,2024-08-15,2024-08
-1654,Amanda Jones,40.0,12.0,Unknown,Street Light Issue,Medium,2023-10-18,2023-10
-1655,Dalton Peterson,40.0,19.0,Unknown,Pothole,High,2024-10-06,2024-10
-1656,Barbara Robles,40.0,13.0,Peelamedu,Garbage Dump,Low,2025-07-11,2025-07
-1657,Omar Smith,64.0,9.0,Ganapathy,Unknown,High,2023-11-04,2023-11
-1658,Julia Zuniga,57.0,12.0,Unknown,Unknown,Unknown,2024-03-13,2024-03
-1659,Shawn Martin,40.0,13.0,Unknown,Drainage Leakage,High,2023-02-18,2023-02
-1660,Unknown,61.0,16.0,Unknown,Unknown,Medium,2025-05-06,2025-05
-1661,Raymond Jensen,40.0,12.0,RS Puram,Garbage Dump,High,2025-06-22,2025-06
-1662,Steven Peterson,40.0,12.0,Unknown,Street Light Issue,High,2023-01-04,2023-01
-1663,Kristen Williams,40.0,2.0,Peelamedu,Garbage Dump,Low,2023-02-13,2023-02
-1664,Bill Wright,31.0,8.0,Peelamedu,Pothole,Medium,2024-01-31,2024-01
-1665,Thomas Petty,19.0,6.0,Gandhipuram,Drainage Leakage,Unknown,2023-01-29,2023-01
-1666,Tonya Gardner,40.0,11.0,RS Puram,Drainage Leakage,Medium,2024-01-29,2024-01
-1667,Michael Perry,44.0,14.0,Ganapathy,Unknown,Low,2024-01-23,2024-01
-1668,Timothy Sanders,22.0,12.0,Gandhipuram,Unknown,Low,2024-01-11,2024-01
-1669,Samantha Huerta,40.0,12.0,Unknown,Unknown,Medium,2024-10-20,2024-10
-1670,Kaitlin Brown,30.0,12.0,Ukkadam,Unknown,High,2024-11-24,2024-11
-1671,Courtney Reeves,40.0,12.0,Gandhipuram,Unknown,Low,2023-10-14,2023-10
-1672,Phillip Mitchell,40.0,12.0,Unknown,Drainage Leakage,High,2023-03-10,2023-03
-1673,Aaron Byrd,60.0,12.0,Saibaba Colony,Pothole,Unknown,2023-05-15,2023-05
-1674,Brent Ayers,40.0,12.0,Koundampalayam,Drainage Leakage,Low,2025-04-08,2025-04
-1675,Alvin Brady,40.0,20.0,Ukkadam,Drainage Leakage,Unknown,2023-02-02,2023-02
-1676,Michael Jones,25.0,12.0,Podanur,Unknown,Low,2024-06-19,2024-06
-1677,Mary Wyatt,40.0,12.0,RS Puram,Garbage Dump,Medium,2023-10-22,2023-10
-1678,Lance Lewis,38.0,12.0,Unknown,Drainage Leakage,High,2024-08-28,2024-08
-1679,Brian Goodman,37.0,1.0,Unknown,Drainage Leakage,High,2024-06-29,2024-06
-1680,Jennifer Walker,31.0,12.0,Ganapathy,Street Light Issue,Unknown,2024-01-04,2024-01
-1681,Mary Miller,39.0,12.0,Unknown,Water Pipe Burst,Unknown,2024-03-16,2024-03
-1682,Nicholas Bailey,40.0,19.0,Podanur,Pothole,Unknown,2024-08-22,2024-08
-1683,Bruce Smith,36.0,20.0,Unknown,Garbage Dump,Low,2025-01-29,2025-01
-1684,Deborah Martinez,25.0,3.0,Unknown,Pothole,Medium,2023-11-11,2023-11
-1685,Jason Hall,41.0,17.0,Koundampalayam,Unknown,Unknown,2025-01-28,2025-01
-1686,Brittany Anthony,61.0,14.0,Gandhipuram,Drainage Leakage,Medium,2025-01-05,2025-01
-1687,Joel Russell,53.0,19.0,Ganapathy,Drainage Leakage,Medium,2023-04-04,2023-04
-1688,Sonya Gibson,40.0,12.0,Gandhipuram,Drainage Leakage,High,2025-02-11,2025-02
-1689,Robert Ruiz,36.0,12.0,Ganapathy,Drainage Leakage,Unknown,2024-08-23,2024-08
-1690,Charles Anderson,40.0,15.0,Unknown,Pothole,Medium,2024-12-24,2024-12
-1691,Mr. John Davis,41.0,12.0,Gandhipuram,Street Light Issue,Medium,2023-02-20,2023-02
-1692,Travis Thomas,40.0,12.0,Podanur,Unknown,Low,2023-11-18,2023-11
-1694,Thomas Vasquez,40.0,12.0,RS Puram,Pothole,Unknown,2024-01-06,2024-01
-1695,Lisa Ingram,40.0,12.0,Ukkadam,Pothole,Medium,2024-04-25,2024-04
-1696,Julie Harper,33.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-11-08,2024-11
-1697,Donna Gardner MD,39.0,12.0,Ukkadam,Pothole,Low,2023-05-15,2023-05
-1698,Kevin Williams,40.0,10.0,Koundampalayam,Street Light Issue,Unknown,2024-12-24,2024-12
-1699,Gloria Hunt,40.0,1.0,Koundampalayam,Unknown,Medium,2023-08-23,2023-08
-1701,Madison Green,40.0,12.0,Ukkadam,Pothole,Unknown,2024-09-02,2024-09
-1702,Shaun Henderson,40.0,15.0,Peelamedu,Garbage Dump,Unknown,2025-03-18,2025-03
-1703,David Parker,40.0,7.0,Ukkadam,Garbage Dump,Unknown,2025-05-20,2025-05
-1704,Rebecca Dennis,32.0,11.0,Saibaba Colony,Pothole,Unknown,2023-06-04,2023-06
-1705,Micheal Sharp,25.0,13.0,Peelamedu,Drainage Leakage,Medium,2025-07-08,2025-07
-1706,Anna Hernandez,22.0,12.0,Koundampalayam,Unknown,Unknown,2023-10-26,2023-10
-1707,Theresa Ross,24.0,12.0,Gandhipuram,Street Light Issue,Low,2025-03-29,2025-03
-1708,John Cochran,62.0,12.0,Podanur,Unknown,Medium,2025-04-03,2025-04
-1709,Grant Russo,40.0,12.0,Gandhipuram,Unknown,Unknown,2023-03-30,2023-03
-1710,Eric Alvarado,40.0,12.0,Saibaba Colony,Pothole,Medium,2023-04-15,2023-04
-1711,Alexander Lee,40.0,12.0,RS Puram,Drainage Leakage,Low,2025-01-09,2025-01
-1712,Dr. Kathleen Lee,40.0,12.0,Unknown,Pothole,High,2023-02-09,2023-02
-1713,Darren Arnold,56.0,13.0,Gandhipuram,Garbage Dump,Medium,2024-02-28,2024-02
-1714,Donna Foley,40.0,12.0,RS Puram,Drainage Leakage,Low,2025-06-04,2025-06
-1715,Glenn Strong III,40.0,4.0,Peelamedu,Water Pipe Burst,Unknown,2023-11-15,2023-11
-1716,Joseph Marshall,40.0,12.0,Unknown,Unknown,Medium,2023-10-04,2023-10
-1717,Amanda Meadows,37.0,9.0,Koundampalayam,Drainage Leakage,High,2023-10-30,2023-10
-1718,Anthony Mooney,40.0,7.0,Peelamedu,Water Pipe Burst,Unknown,2023-12-18,2023-12
-1719,Debra Marshall,40.0,12.0,Podanur,Drainage Leakage,Unknown,2024-09-13,2024-09
-1720,Christopher Kent,40.0,19.0,Koundampalayam,Street Light Issue,Unknown,2024-01-27,2024-01
-1721,Todd Cantrell,33.0,12.0,Gandhipuram,Garbage Dump,Medium,2025-02-27,2025-02
-1722,Kristopher Rodriguez,40.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2024-04-21,2024-04
-1723,Raven Mclaughlin,24.0,5.0,RS Puram,Unknown,Unknown,2023-01-05,2023-01
-1724,Denise Hernandez,40.0,12.0,Koundampalayam,Street Light Issue,Low,2023-09-22,2023-09
-1725,Richard Morrison,40.0,11.0,Gandhipuram,Garbage Dump,Unknown,2024-12-24,2024-12
-1726,Unknown,40.0,20.0,Unknown,Street Light Issue,Unknown,2023-04-20,2023-04
-1727,Tim Mendoza,40.0,12.0,Koundampalayam,Garbage Dump,Unknown,2023-02-01,2023-02
-1728,Lorraine Torres,40.0,12.0,Peelamedu,Unknown,Unknown,2025-02-01,2025-02
-1729,Amanda Cole,29.0,12.0,RS Puram,Pothole,High,2024-12-18,2024-12
-1730,Eric Sandoval,61.0,12.0,Koundampalayam,Water Pipe Burst,Medium,2023-06-12,2023-06
-1731,Deanna Allen,59.0,7.0,Ukkadam,Street Light Issue,Unknown,2025-05-22,2025-05
-1732,Matthew Roberts,25.0,6.0,RS Puram,Water Pipe Burst,Medium,2023-10-24,2023-10
-1733,Samuel Gonzalez,40.0,12.0,Saibaba Colony,Garbage Dump,Medium,2024-10-22,2024-10
-1734,Joseph Rodriguez,40.0,9.0,Peelamedu,Water Pipe Burst,Unknown,2023-07-28,2023-07
-1735,Jordan Randall,23.0,13.0,Ganapathy,Drainage Leakage,Unknown,2023-12-11,2023-12
-1736,Ruth Sullivan,40.0,9.0,Peelamedu,Garbage Dump,Unknown,2024-10-09,2024-10
-1737,William Buckley,38.0,1.0,Ukkadam,Pothole,Unknown,2024-12-08,2024-12
-1738,John Peters,53.0,12.0,Unknown,Unknown,Low,2023-03-01,2023-03
-1739,Wayne Sheppard Jr.,40.0,16.0,Podanur,Unknown,Low,2025-01-13,2025-01
-1740,Anthony Johnson,57.0,12.0,Unknown,Drainage Leakage,Unknown,2024-10-12,2024-10
-1741,Dr. Matthew Huff,40.0,12.0,RS Puram,Garbage Dump,Low,2023-06-11,2023-06
-1742,Mark Lawrence,40.0,12.0,Peelamedu,Street Light Issue,Unknown,2024-07-28,2024-07
-1743,William Hurst,40.0,4.0,Unknown,Pothole,Unknown,2023-08-04,2023-08
-1744,Molly Fry,40.0,12.0,Peelamedu,Drainage Leakage,Medium,2025-05-03,2025-05
-1745,Andrew Gonzalez,65.0,12.0,Unknown,Water Pipe Burst,Unknown,2024-12-18,2024-12
-1746,Natalie Cohen,40.0,2.0,Unknown,Drainage Leakage,Unknown,2024-03-23,2024-03
-1747,Rick Church,65.0,12.0,Koundampalayam,Street Light Issue,Unknown,2023-09-23,2023-09
-1748,Sheri Kerr,40.0,10.0,Koundampalayam,Drainage Leakage,Low,2023-10-27,2023-10
-1749,Brandon Vargas,40.0,12.0,Koundampalayam,Unknown,Unknown,2024-06-25,2024-06
-1751,Kathy Trevino,40.0,12.0,Unknown,Drainage Leakage,Low,2024-01-14,2024-01
-1752,Melissa Day,40.0,12.0,Unknown,Unknown,Medium,2025-02-04,2025-02
-1753,Kari Ortega,34.0,9.0,Koundampalayam,Unknown,Low,2024-06-16,2024-06
-1754,Adam Brown,60.0,6.0,Unknown,Drainage Leakage,Unknown,2023-07-29,2023-07
-1755,Mrs. Angela Mcbride,35.0,12.0,Podanur,Pothole,High,2023-12-25,2023-12
-1756,Clifford Moore,43.0,12.0,RS Puram,Unknown,Medium,2025-05-30,2025-05
-1757,Rebecca Hall,49.0,2.0,Unknown,Unknown,High,2024-02-12,2024-02
-1758,Tara Nelson,59.0,10.0,Gandhipuram,Unknown,Low,2023-09-23,2023-09
-1759,Unknown,40.0,12.0,Unknown,Drainage Leakage,Unknown,2024-03-25,2024-03
-1760,Brooke Reynolds,40.0,12.0,Gandhipuram,Water Pipe Burst,Unknown,2025-05-30,2025-05
-1761,Jason May,20.0,12.0,Unknown,Street Light Issue,Unknown,2023-11-01,2023-11
-1762,David Ayers,40.0,2.0,Ganapathy,Unknown,Unknown,2024-09-23,2024-09
-1763,Samuel Coleman,40.0,12.0,Saibaba Colony,Street Light Issue,Low,2023-07-10,2023-07
-1764,Joseph Cummings,61.0,1.0,RS Puram,Pothole,Unknown,2023-01-29,2023-01
-1765,Deborah Gilbert,40.0,4.0,Unknown,Street Light Issue,High,2024-01-17,2024-01
-1766,Gary Mathis,40.0,20.0,Saibaba Colony,Unknown,Medium,2024-01-18,2024-01
-1767,Lisa Mitchell,40.0,12.0,Unknown,Unknown,High,2025-01-03,2025-01
-1768,Stephanie Schmidt,40.0,12.0,Unknown,Garbage Dump,Unknown,2024-07-20,2024-07
-1769,Michele Patel,40.0,12.0,Unknown,Drainage Leakage,Unknown,2023-04-20,2023-04
-1771,Brittney Sherman,40.0,5.0,RS Puram,Water Pipe Burst,Medium,2025-07-13,2025-07
-1772,Valerie Thompson,64.0,10.0,RS Puram,Water Pipe Burst,Low,2023-11-18,2023-11
-1773,Anthony Mcdonald,54.0,12.0,Unknown,Drainage Leakage,Low,2023-02-07,2023-02
-1774,William Johnson,40.0,5.0,Saibaba Colony,Street Light Issue,Low,2024-08-20,2024-08
-1775,Joshua Johnson,54.0,7.0,RS Puram,Drainage Leakage,Unknown,2024-08-30,2024-08
-1776,Vanessa Whitehead,40.0,12.0,Ukkadam,Unknown,Unknown,2023-05-01,2023-05
-1777,Joseph Barrett,40.0,6.0,Koundampalayam,Unknown,Medium,2024-07-24,2024-07
-1778,Penny Harris,58.0,6.0,Gandhipuram,Unknown,Unknown,2023-06-18,2023-06
-1779,Antonio Wall,40.0,12.0,Saibaba Colony,Pothole,High,2023-07-17,2023-07
-1780,Lisa Kaufman,47.0,17.0,Saibaba Colony,Drainage Leakage,High,2024-06-09,2024-06
-1781,Mr. Michael Sparks,46.0,18.0,Ukkadam,Unknown,Unknown,2025-02-07,2025-02
-1782,Jessica Armstrong,27.0,6.0,Saibaba Colony,Garbage Dump,Unknown,2023-11-13,2023-11
-1783,Jessica Chen,37.0,12.0,Gandhipuram,Unknown,High,2023-05-06,2023-05
-1784,David Thomas,64.0,2.0,Podanur,Unknown,Medium,2023-12-28,2023-12
-1785,Ronald Richards,40.0,18.0,Ganapathy,Unknown,Unknown,2023-07-22,2023-07
-1786,Sarah Floyd,40.0,12.0,RS Puram,Unknown,Unknown,2023-10-20,2023-10
-1787,Matthew Evans,40.0,12.0,Ukkadam,Garbage Dump,Unknown,2023-09-17,2023-09
-1788,Ruben Holmes,62.0,12.0,Ganapathy,Unknown,High,2024-06-15,2024-06
-1789,Kendra Jackson,40.0,5.0,RS Puram,Drainage Leakage,Unknown,2023-04-29,2023-04
-1790,Sean Wang,52.0,12.0,Ganapathy,Pothole,Unknown,2025-05-29,2025-05
-1791,Ashley Cooper,40.0,11.0,Saibaba Colony,Unknown,Unknown,2025-03-04,2025-03
-1792,Unknown,54.0,12.0,Unknown,Unknown,Medium,2024-06-06,2024-06
-1793,Brian Ramirez,40.0,12.0,Saibaba Colony,Drainage Leakage,High,2025-06-18,2025-06
-1794,Travis Daniels,40.0,12.0,RS Puram,Street Light Issue,Unknown,2025-07-20,2025-07
-1795,Sandra Cantu,25.0,12.0,Koundampalayam,Drainage Leakage,Medium,2025-01-29,2025-01
-1796,Mark Wheeler,39.0,12.0,Gandhipuram,Pothole,Medium,2023-05-13,2023-05
-1797,Andrew Reyes,37.0,13.0,Peelamedu,Street Light Issue,Low,2024-01-09,2024-01
-1798,Shannon Mccann,40.0,12.0,Peelamedu,Garbage Dump,Unknown,2024-10-31,2024-10
-1799,Frederick Klein,36.0,16.0,Koundampalayam,Unknown,High,2025-02-11,2025-02
-1801,Brooke Carter,27.0,12.0,Koundampalayam,Pothole,Unknown,2024-10-02,2024-10
-1802,William Glover,29.0,12.0,Unknown,Unknown,Unknown,2023-07-01,2023-07
-1803,Jill Stewart,48.0,18.0,RS Puram,Pothole,High,2023-06-22,2023-06
-1804,Denise Montgomery,42.0,1.0,Koundampalayam,Unknown,High,2023-07-22,2023-07
-1805,Erin Robinson,24.0,12.0,RS Puram,Pothole,Unknown,2024-11-29,2024-11
-1806,Taylor Shaw,60.0,12.0,Unknown,Drainage Leakage,Low,2023-03-24,2023-03
-1807,Kenneth Murray,60.0,2.0,RS Puram,Unknown,Low,2024-09-20,2024-09
-1808,Shannon Owens,40.0,14.0,Unknown,Garbage Dump,Unknown,2024-05-25,2024-05
-1809,Cynthia Smith,27.0,4.0,Koundampalayam,Unknown,Low,2024-06-15,2024-06
-1810,Andrea Holland,40.0,5.0,Podanur,Unknown,Unknown,2024-02-04,2024-02
-1811,Karina Jones,40.0,12.0,Gandhipuram,Garbage Dump,High,2023-10-09,2023-10
-1812,Veronica Bishop,40.0,6.0,Peelamedu,Unknown,Medium,2024-04-06,2024-04
-1813,Paul Coffey,42.0,9.0,Saibaba Colony,Street Light Issue,High,2023-10-05,2023-10
-1814,Heather Smith,41.0,12.0,Saibaba Colony,Pothole,Unknown,2023-10-30,2023-10
-1815,Jackie Walker,40.0,12.0,Gandhipuram,Unknown,Medium,2025-01-12,2025-01
-1816,Linda Williams,40.0,12.0,Podanur,Drainage Leakage,High,2025-06-11,2025-06
-1817,Susan Martin,40.0,3.0,Saibaba Colony,Drainage Leakage,Unknown,2023-12-02,2023-12
-1818,Heather Thompson,43.0,6.0,RS Puram,Pothole,Low,2023-02-22,2023-02
-1819,Molly Moss,40.0,17.0,Unknown,Garbage Dump,Unknown,2023-11-23,2023-11
-1820,Lisa Buckley,40.0,19.0,Peelamedu,Garbage Dump,Unknown,2024-05-14,2024-05
-1821,Amanda Franklin,40.0,12.0,Ukkadam,Garbage Dump,Unknown,2025-07-01,2025-07
-1822,Michelle Garcia,51.0,12.0,RS Puram,Water Pipe Burst,Medium,2024-03-31,2024-03
-1823,Rachel Calhoun,40.0,12.0,Unknown,Unknown,Unknown,2023-04-16,2023-04
-1824,Kathy Dickson DDS,48.0,19.0,Podanur,Drainage Leakage,Unknown,2024-10-21,2024-10
-1825,Unknown,58.0,14.0,Unknown,Water Pipe Burst,Unknown,2024-03-11,2024-03
-1826,Andrew Kelly,40.0,12.0,Podanur,Water Pipe Burst,Unknown,2025-05-06,2025-05
-1827,Jose Reynolds,40.0,12.0,Saibaba Colony,Garbage Dump,Low,2023-11-25,2023-11
-1828,Alyssa Thomas,40.0,12.0,Ganapathy,Street Light Issue,High,2023-07-08,2023-07
-1829,Brenda Cochran DVM,40.0,4.0,Peelamedu,Pothole,Unknown,2023-10-26,2023-10
-1830,Michael Evans,40.0,10.0,Peelamedu,Drainage Leakage,Unknown,2023-02-27,2023-02
-1831,Janet Cross,40.0,6.0,Gandhipuram,Unknown,Unknown,2024-03-13,2024-03
-1832,Eric Hernandez,18.0,6.0,Saibaba Colony,Unknown,Low,2024-12-03,2024-12
-1833,Angela Warner,40.0,1.0,Koundampalayam,Unknown,Medium,2023-04-08,2023-04
-1834,Dr. Benjamin Spears,59.0,3.0,Podanur,Unknown,Unknown,2024-05-21,2024-05
-1835,Kimberly Taylor,26.0,19.0,Koundampalayam,Pothole,Unknown,2025-06-22,2025-06
-1836,Misty Arias,26.0,11.0,Koundampalayam,Unknown,High,2025-04-28,2025-04
-1837,Breanna Garcia DDS,40.0,19.0,Koundampalayam,Water Pipe Burst,Unknown,2024-11-18,2024-11
-1838,Elaine Scott,40.0,20.0,Saibaba Colony,Drainage Leakage,High,2024-08-29,2024-08
-1839,Dr. Kimberly Torres,40.0,12.0,Saibaba Colony,Unknown,Medium,2023-04-15,2023-04
-1840,Robert Hernandez,40.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2025-02-19,2025-02
-1841,Danielle Oconnor,50.0,15.0,Gandhipuram,Drainage Leakage,Unknown,2024-12-04,2024-12
-1842,Stephanie Johnson,40.0,9.0,Ganapathy,Drainage Leakage,High,2023-09-11,2023-09
-1843,Dale Green,50.0,1.0,Ukkadam,Street Light Issue,Unknown,2023-08-16,2023-08
-1844,Lori Ray,40.0,5.0,RS Puram,Water Pipe Burst,Medium,2024-01-02,2024-01
-1845,Mariah Vazquez,40.0,14.0,Ukkadam,Pothole,Unknown,2023-11-24,2023-11
-1846,Marcus Myers,40.0,19.0,Unknown,Garbage Dump,High,2024-06-19,2024-06
-1848,Bailey Velez,56.0,12.0,Podanur,Drainage Leakage,Unknown,2025-06-29,2025-06
-1849,Derek Martin,62.0,8.0,Unknown,Garbage Dump,High,2023-06-29,2023-06
-1851,Kevin Smith,23.0,12.0,Saibaba Colony,Drainage Leakage,Low,2024-10-03,2024-10
-1852,James Barajas,40.0,16.0,Koundampalayam,Pothole,Low,2024-06-06,2024-06
-1853,Justin Meadows,65.0,1.0,Peelamedu,Unknown,Unknown,2025-06-12,2025-06
-1854,Julia Lara,52.0,12.0,Peelamedu,Pothole,Low,2024-07-24,2024-07
-1855,Antonio Lawson,40.0,5.0,Unknown,Unknown,High,2025-02-05,2025-02
-1856,Deborah Rogers,35.0,12.0,Saibaba Colony,Garbage Dump,Medium,2024-06-27,2024-06
-1857,Regina King,40.0,12.0,Ukkadam,Pothole,Medium,2023-09-30,2023-09
-1858,Unknown,40.0,14.0,Gandhipuram,Garbage Dump,Low,2025-02-13,2025-02
-1859,Angela Ford,52.0,12.0,Unknown,Pothole,High,2023-03-08,2023-03
-1860,Rachel Mathis,40.0,11.0,Ganapathy,Pothole,High,2024-04-18,2024-04
-1861,Mathew Hughes,40.0,12.0,Ganapathy,Street Light Issue,Unknown,2024-05-10,2024-05
-1862,Christine Griffin,40.0,9.0,Podanur,Street Light Issue,Medium,2023-09-26,2023-09
-1863,Matthew Russell,40.0,12.0,Saibaba Colony,Unknown,Low,2024-01-21,2024-01
-1864,David Hill MD,40.0,12.0,Koundampalayam,Water Pipe Burst,High,2025-07-06,2025-07
-1865,Joseph James,40.0,12.0,Ukkadam,Water Pipe Burst,Unknown,2024-03-09,2024-03
-1866,Randall Fuentes,43.0,12.0,Ganapathy,Pothole,Medium,2024-09-07,2024-09
-1867,Victoria Wang,40.0,12.0,Koundampalayam,Garbage Dump,High,2025-06-26,2025-06
-1868,Kathy Rowland,22.0,12.0,RS Puram,Drainage Leakage,Unknown,2024-06-06,2024-06
-1869,Anthony Nicholson,32.0,12.0,Unknown,Unknown,Medium,2024-01-03,2024-01
-1870,Gina Evans,40.0,12.0,Unknown,Drainage Leakage,High,2023-12-11,2023-12
-1871,Deborah Morgan,48.0,19.0,Unknown,Pothole,Unknown,2024-10-29,2024-10
-1872,Jermaine Morgan,40.0,1.0,Unknown,Pothole,Unknown,2024-07-05,2024-07
-1873,Joy Weaver,40.0,6.0,Unknown,Drainage Leakage,High,2025-01-21,2025-01
-1874,Diana Clark,60.0,9.0,Saibaba Colony,Street Light Issue,Unknown,2023-12-28,2023-12
-1875,Christina Jordan,40.0,12.0,RS Puram,Street Light Issue,Low,2023-07-02,2023-07
-1876,David Rivera,40.0,13.0,Koundampalayam,Garbage Dump,Medium,2023-10-07,2023-10
-1877,Haley Chase,21.0,12.0,Ganapathy,Garbage Dump,Unknown,2024-02-19,2024-02
-1878,Debra Jackson,31.0,12.0,Peelamedu,Garbage Dump,Unknown,2023-04-07,2023-04
-1879,Heather Shelton,23.0,14.0,Gandhipuram,Water Pipe Burst,Unknown,2024-02-20,2024-02
-1880,Ralph Cox,40.0,9.0,Podanur,Garbage Dump,Unknown,2023-02-11,2023-02
-1881,Jennifer Bond,32.0,12.0,Unknown,Unknown,High,2025-06-27,2025-06
-1882,Renee Bailey,20.0,12.0,Ganapathy,Pothole,High,2023-10-23,2023-10
-1883,Steven Cross,24.0,13.0,RS Puram,Drainage Leakage,Unknown,2024-01-17,2024-01
-1884,Melissa Blake,40.0,12.0,Koundampalayam,Drainage Leakage,High,2023-04-21,2023-04
-1885,Peter Owens,25.0,11.0,Ukkadam,Drainage Leakage,Unknown,2025-06-16,2025-06
-1886,Meagan Scott,53.0,4.0,Unknown,Street Light Issue,Unknown,2024-04-19,2024-04
-1887,Matthew Rodriguez,40.0,9.0,Unknown,Pothole,High,2023-01-19,2023-01
-1888,Eric Graves,40.0,7.0,Unknown,Garbage Dump,Low,2023-05-22,2023-05
-1889,Betty Gregory,49.0,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2025-01-08,2025-01
-1890,Thomas Harris,40.0,12.0,Unknown,Water Pipe Burst,Unknown,2023-10-23,2023-10
-1891,Unknown,40.0,12.0,Gandhipuram,Water Pipe Burst,High,2024-03-15,2024-03
-1892,Nicole Lee,40.0,12.0,Unknown,Street Light Issue,Unknown,2024-08-21,2024-08
-1893,Kelly Douglas,40.0,2.0,Ukkadam,Street Light Issue,Unknown,2024-04-09,2024-04
-1894,Marc Baker,56.0,12.0,RS Puram,Water Pipe Burst,Low,2025-03-29,2025-03
-1895,Jessica Bailey,40.0,12.0,Koundampalayam,Unknown,Medium,2023-11-22,2023-11
-1896,Marvin Lambert,49.0,17.0,Koundampalayam,Garbage Dump,Medium,2024-12-21,2024-12
-1897,Michelle Morales,59.0,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-01-24,2023-01
-1898,Hannah Lewis,40.0,8.0,Unknown,Pothole,Unknown,2024-03-19,2024-03
-1899,Melinda Barnett DVM,40.0,12.0,Podanur,Unknown,Unknown,2023-12-06,2023-12
-1901,Alexis Gonzalez,30.0,12.0,Podanur,Pothole,Medium,2023-12-02,2023-12
-1902,Jodi Martinez,38.0,12.0,Peelamedu,Garbage Dump,Unknown,2023-04-26,2023-04
-1903,Chris Wright,32.0,15.0,Ukkadam,Pothole,Unknown,2024-05-13,2024-05
-1904,Kenneth Simmons,40.0,12.0,Peelamedu,Unknown,Unknown,2025-05-03,2025-05
-1905,Anna Chandler,40.0,20.0,Unknown,Water Pipe Burst,Low,2024-09-19,2024-09
-1906,Julie Walker,47.0,12.0,Ukkadam,Unknown,Low,2024-11-23,2024-11
-1907,Tyler Callahan,40.0,12.0,Ukkadam,Water Pipe Burst,Medium,2024-08-13,2024-08
-1908,Gabriel Novak,45.0,11.0,Unknown,Unknown,Low,2023-06-08,2023-06
-1909,Jacob Edwards,40.0,12.0,Gandhipuram,Unknown,Unknown,2025-03-21,2025-03
-1910,Destiny Fox,45.0,12.0,Peelamedu,Unknown,Medium,2023-02-19,2023-02
-1911,James Holmes,40.0,13.0,Unknown,Water Pipe Burst,Unknown,2025-07-16,2025-07
-1912,Terry Coffey,41.0,12.0,Saibaba Colony,Unknown,Unknown,2024-10-11,2024-10
-1913,Sharon Hurst,31.0,11.0,Unknown,Garbage Dump,Unknown,2023-08-18,2023-08
-1914,Steven Lawrence,41.0,14.0,Saibaba Colony,Drainage Leakage,Unknown,2023-05-11,2023-05
-1915,Daniel Long,43.0,16.0,Koundampalayam,Pothole,Low,2024-02-03,2024-02
-1916,Shane Martinez,40.0,13.0,Podanur,Garbage Dump,Unknown,2024-07-16,2024-07
-1917,Geoffrey Matthews,40.0,10.0,Ukkadam,Unknown,Unknown,2024-01-23,2024-01
-1918,Julie Harris,40.0,12.0,Podanur,Water Pipe Burst,High,2023-04-18,2023-04
-1919,Brandi Rubio,40.0,12.0,Unknown,Water Pipe Burst,Unknown,2023-11-22,2023-11
-1920,Jillian Parker,26.0,12.0,Unknown,Drainage Leakage,Low,2024-12-12,2024-12
-1921,Jonathan Greene,40.0,12.0,Podanur,Unknown,Low,2023-12-27,2023-12
-1922,Robin Lara,48.0,10.0,Ukkadam,Street Light Issue,High,2025-03-17,2025-03
-1923,Jennifer Smith,40.0,12.0,RS Puram,Pothole,Medium,2024-09-10,2024-09
-1925,David Mcgee,27.0,12.0,RS Puram,Drainage Leakage,Low,2025-07-09,2025-07
-1926,Jon Franklin,20.0,8.0,RS Puram,Unknown,Medium,2024-12-20,2024-12
-1927,James Wright,40.0,19.0,Peelamedu,Pothole,High,2023-08-05,2023-08
-1928,Brenda Ball,40.0,12.0,RS Puram,Pothole,Medium,2023-09-04,2023-09
-1929,Jennifer Griffin,29.0,3.0,Gandhipuram,Street Light Issue,Unknown,2025-01-02,2025-01
-1930,Timothy Martinez,25.0,12.0,Koundampalayam,Unknown,Unknown,2023-06-04,2023-06
-1931,Billy Schneider,40.0,3.0,Unknown,Unknown,High,2024-11-18,2024-11
-1932,Joseph Sandoval,40.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2023-11-25,2023-11
-1933,Kristie Hall,40.0,1.0,RS Puram,Garbage Dump,Low,2025-06-20,2025-06
-1934,Evan Miller III,40.0,12.0,Podanur,Garbage Dump,Medium,2023-11-14,2023-11
-1935,Ronald Thornton,38.0,12.0,Koundampalayam,Unknown,Medium,2024-07-07,2024-07
-1936,Caroline Ball,40.0,5.0,Unknown,Street Light Issue,High,2023-02-06,2023-02
-1937,Sierra Byrd,40.0,7.0,Gandhipuram,Unknown,Unknown,2024-06-27,2024-06
-1938,Amy Gonzalez,43.0,12.0,Koundampalayam,Water Pipe Burst,High,2024-10-18,2024-10
-1939,Amanda Gomez,29.0,12.0,Podanur,Pothole,Low,2023-02-20,2023-02
-1940,Erik Hayes,40.0,12.0,Peelamedu,Pothole,Unknown,2025-04-17,2025-04
-1941,Dylan Jenkins,60.0,12.0,RS Puram,Drainage Leakage,Unknown,2024-02-24,2024-02
-1942,Andrew Thompson,40.0,12.0,Unknown,Pothole,Unknown,2023-12-02,2023-12
-1943,Lisa Moore,40.0,12.0,Koundampalayam,Garbage Dump,Medium,2023-01-23,2023-01
-1944,Vicki Montgomery,40.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2024-10-19,2024-10
-1945,Terri Carter,26.0,12.0,Unknown,Pothole,Low,2023-12-16,2023-12
-1946,Christina Valdez,55.0,14.0,Ganapathy,Water Pipe Burst,Unknown,2025-04-23,2025-04
-1947,Robert Elliott,47.0,12.0,Saibaba Colony,Drainage Leakage,Unknown,2024-02-24,2024-02
-1948,Katherine Hayes,20.0,6.0,Unknown,Garbage Dump,Medium,2024-08-22,2024-08
-1949,John Stewart,30.0,1.0,Ukkadam,Pothole,Unknown,2023-07-05,2023-07
-1001,Sarah Simpson,40.0,16.0,Koundampalayam,Unknown,Medium,2023-03-29,2023-03
-1002,Mark Thompson,20.0,12.0,RS Puram,Unknown,Unknown,2025-03-08,2025-03
-1003,Danielle Fisher,40.0,12.0,RS Puram,Pothole,Unknown,2024-12-02,2024-12
-1004,Jeremy Gonzalez,36.0,17.0,Unknown,Unknown,Unknown,2025-01-14,2025-01
-1005,Bradley Sullivan,40.0,12.0,Peelamedu,Pothole,Unknown,2024-06-05,2024-06
-1006,Charles Garcia,49.0,12.0,Saibaba Colony,Pothole,High,2024-10-27,2024-10
-1007,Caleb Turner,40.0,12.0,Gandhipuram,Garbage Dump,Medium,2023-03-09,2023-03
-1008,Joanne Johnson,45.0,12.0,Saibaba Colony,Water Pipe Burst,Medium,2025-06-30,2025-06
-1009,Tyler Sullivan,40.0,12.0,Peelamedu,Drainage Leakage,Unknown,2024-06-12,2024-06
-1010,Timothy Daniel,38.0,10.0,RS Puram,Garbage Dump,Unknown,2024-07-12,2024-07
-1011,Chad Schwartz,20.0,18.0,Peelamedu,Garbage Dump,High,2023-01-27,2023-01
-1012,Jason Brown,39.0,12.0,Gandhipuram,Drainage Leakage,Unknown,2023-10-24,2023-10
-1013,Mary Jimenez,40.0,13.0,Podanur,Unknown,High,2024-09-02,2024-09
-1014,Joseph Glover,31.0,12.0,Ukkadam,Garbage Dump,High,2025-01-27,2025-01
-1015,Matthew Fitzpatrick,27.0,9.0,Unknown,Drainage Leakage,High,2023-11-20,2023-11
-1016,Tara Duncan,58.0,6.0,Gandhipuram,Unknown,Medium,2023-01-12,2023-01
-1017,Brian Hernandez,51.0,12.0,Peelamedu,Water Pipe Burst,Medium,2025-03-03,2025-03
-1018,Ms. Stephanie Moody,33.0,12.0,Ganapathy,Pothole,High,2024-01-12,2024-01
-1019,Brittany Contreras,33.0,4.0,Ganapathy,Street Light Issue,High,2024-04-10,2024-04
-1020,Brandon Walsh,65.0,12.0,RS Puram,Water Pipe Burst,Medium,2023-05-14,2023-05
-1021,Michael Mendoza,64.0,12.0,Koundampalayam,Pothole,High,2024-06-17,2024-06
-1022,Mrs. Christina Stout DVM,40.0,12.0,Peelamedu,Drainage Leakage,Low,2024-02-15,2024-02
-1023,Christian Johnson MD,61.0,12.0,Ukkadam,Garbage Dump,High,2024-06-07,2024-06
-1024,Audrey Wilson,35.0,12.0,Ukkadam,Unknown,Low,2023-04-19,2023-04
-1025,Jeffrey Roy,40.0,3.0,Unknown,Water Pipe Burst,Medium,2023-09-01,2023-09
-1026,Dawn Ramos,40.0,12.0,Saibaba Colony,Drainage Leakage,High,2023-12-13,2023-12
-1027,Danielle Rollins,25.0,5.0,Ukkadam,Water Pipe Burst,High,2023-05-30,2023-05
-1028,Dr. Rebecca Campbell DDS,40.0,12.0,Peelamedu,Water Pipe Burst,Unknown,2025-01-21,2025-01
-1029,Jeffrey Robles,46.0,12.0,Koundampalayam,Unknown,Low,2023-10-31,2023-10
-1030,Stacy Phillips,40.0,14.0,Ganapathy,Unknown,Medium,2024-07-11,2024-07
-1031,Angela Kelly,40.0,12.0,Podanur,Pothole,Medium,2023-07-15,2023-07
-1032,Matthew Turner,37.0,19.0,RS Puram,Water Pipe Burst,Low,2025-01-22,2025-01
-1033,Unknown,37.0,14.0,Ukkadam,Garbage Dump,Unknown,2023-05-03,2023-05
-1034,James Randall,40.0,13.0,Unknown,Unknown,Medium,2023-10-06,2023-10
-1035,Jeremy Contreras,27.0,12.0,RS Puram,Garbage Dump,Unknown,2024-01-21,2024-01
-1036,Megan Holland,40.0,12.0,Unknown,Pothole,Low,2024-03-09,2024-03
-1037,John Owen,60.0,10.0,Peelamedu,Garbage Dump,Medium,2023-04-12,2023-04
-1038,Elizabeth Johnson,40.0,17.0,RS Puram,Water Pipe Burst,Unknown,2024-06-08,2024-06
-1039,Martha Skinner,26.0,6.0,Saibaba Colony,Garbage Dump,Unknown,2024-09-13,2024-09
-1040,Debra Phillips,64.0,12.0,Ganapathy,Street Light Issue,High,2024-06-04,2024-06
-1041,Samantha Barnett,40.0,20.0,Koundampalayam,Pothole,Medium,2023-06-29,2023-06
-1042,Matthew Walker,31.0,12.0,Gandhipuram,Unknown,Unknown,2023-04-12,2023-04
-1043,Joanna Sullivan,22.0,12.0,Saibaba Colony,Garbage Dump,High,2024-12-05,2024-12
-1044,Tina Harding,40.0,12.0,Unknown,Water Pipe Burst,High,2024-06-15,2024-06
-1045,Dr. Melissa Arroyo,40.0,12.0,Gandhipuram,Unknown,Low,2024-05-05,2024-05
-1046,David Fitzgerald,64.0,7.0,Koundampalayam,Unknown,Unknown,2024-07-10,2024-07
-1047,Ryan Lowe,40.0,12.0,Gandhipuram,Pothole,Unknown,2024-08-05,2024-08
-1048,Alec Elliott,40.0,9.0,Podanur,Garbage Dump,Unknown,2024-06-20,2024-06
-1049,John Simmons,42.0,12.0,RS Puram,Water Pipe Burst,Low,2023-04-19,2023-04
+Report_ID,Ward_Number,Area_Location,Issue_Type,Severity,Submission_Date,Month_Year
+ISSUE_00001,16.0,Koundampalayam,Unknown,Medium,2023-03-29,2023-03
+ISSUE_00002,12.0,RS Puram,Unknown,Unknown,2025-03-08,2025-03
+ISSUE_00003,12.0,RS Puram,Pothole,Unknown,2024-12-02,2024-12
+ISSUE_00004,17.0,Unknown,Unknown,Unknown,2025-01-14,2025-01
+ISSUE_00005,12.0,Peelamedu,Pothole,Unknown,2024-06-05,2024-06
+ISSUE_00006,12.0,Saibaba Colony,Pothole,High,2024-10-27,2024-10
+ISSUE_00007,12.0,Gandhipuram,Garbage Dump,Medium,2023-03-09,2023-03
+ISSUE_00008,12.0,Saibaba Colony,Water Pipe Burst,Medium,2025-06-30,2025-06
+ISSUE_00009,12.0,Peelamedu,Drainage Leakage,Unknown,2024-06-12,2024-06
+ISSUE_00010,10.0,RS Puram,Garbage Dump,Unknown,2024-07-12,2024-07
+ISSUE_00011,18.0,Peelamedu,Garbage Dump,High,2023-01-27,2023-01
+ISSUE_00012,12.0,Gandhipuram,Drainage Leakage,Unknown,2023-10-24,2023-10
+ISSUE_00013,13.0,Podanur,Unknown,High,2024-09-02,2024-09
+ISSUE_00014,12.0,Ukkadam,Garbage Dump,High,2025-01-27,2025-01
+ISSUE_00015,9.0,Unknown,Drainage Leakage,High,2023-11-20,2023-11
+ISSUE_00016,6.0,Gandhipuram,Unknown,Medium,2023-01-12,2023-01
+ISSUE_00017,12.0,Peelamedu,Water Pipe Burst,Medium,2025-03-03,2025-03
+ISSUE_00018,12.0,Ganapathy,Pothole,High,2024-01-12,2024-01
+ISSUE_00019,4.0,Ganapathy,Street Light Issue,High,2024-04-10,2024-04
+ISSUE_00020,12.0,RS Puram,Water Pipe Burst,Medium,2023-05-14,2023-05
+ISSUE_00021,12.0,Koundampalayam,Pothole,High,2024-06-17,2024-06
+ISSUE_00022,12.0,Peelamedu,Drainage Leakage,Low,2024-02-15,2024-02
+ISSUE_00023,12.0,Ukkadam,Garbage Dump,High,2024-06-07,2024-06
+ISSUE_00024,12.0,Ukkadam,Unknown,Low,2023-04-19,2023-04
+ISSUE_00025,3.0,Unknown,Water Pipe Burst,Medium,2023-09-01,2023-09
+ISSUE_00026,12.0,Saibaba Colony,Drainage Leakage,High,2023-12-13,2023-12
+ISSUE_00027,5.0,Ukkadam,Water Pipe Burst,High,2023-05-30,2023-05
+ISSUE_00028,12.0,Peelamedu,Water Pipe Burst,Unknown,2025-01-21,2025-01
+ISSUE_00029,12.0,Koundampalayam,Unknown,Low,2023-10-31,2023-10
+ISSUE_00030,14.0,Ganapathy,Unknown,Medium,2024-07-11,2024-07
+ISSUE_00031,12.0,Podanur,Pothole,Medium,2023-07-15,2023-07
+ISSUE_00032,19.0,RS Puram,Water Pipe Burst,Low,2025-01-22,2025-01
+ISSUE_00033,14.0,Ukkadam,Garbage Dump,Unknown,2023-05-03,2023-05
+ISSUE_00034,13.0,Unknown,Unknown,Medium,2023-10-06,2023-10
+ISSUE_00035,12.0,RS Puram,Garbage Dump,Unknown,2024-01-21,2024-01
+ISSUE_00036,12.0,Unknown,Pothole,Low,2024-03-09,2024-03
+ISSUE_00037,10.0,Peelamedu,Garbage Dump,Medium,2023-04-12,2023-04
+ISSUE_00038,17.0,RS Puram,Water Pipe Burst,Unknown,2024-06-08,2024-06
+ISSUE_00039,6.0,Saibaba Colony,Garbage Dump,Unknown,2024-09-13,2024-09
+ISSUE_00040,12.0,Ganapathy,Street Light Issue,High,2024-06-04,2024-06
+ISSUE_00041,20.0,Koundampalayam,Pothole,Medium,2023-06-29,2023-06
+ISSUE_00042,12.0,Gandhipuram,Unknown,Unknown,2023-04-12,2023-04
+ISSUE_00043,12.0,Saibaba Colony,Garbage Dump,High,2024-12-05,2024-12
+ISSUE_00044,12.0,Unknown,Water Pipe Burst,High,2024-06-15,2024-06
+ISSUE_00045,12.0,Gandhipuram,Unknown,Low,2024-05-05,2024-05
+ISSUE_00046,7.0,Koundampalayam,Unknown,Unknown,2024-07-10,2024-07
+ISSUE_00047,12.0,Gandhipuram,Pothole,Unknown,2024-08-05,2024-08
+ISSUE_00048,9.0,Podanur,Garbage Dump,Unknown,2024-06-20,2024-06
+ISSUE_00049,12.0,RS Puram,Water Pipe Burst,Low,2023-04-19,2023-04
+ISSUE_00050,9.0,Peelamedu,Pothole,High,2025-04-30,2025-04
+ISSUE_00051,12.0,Peelamedu,Unknown,Low,2024-09-27,2024-09
+ISSUE_00052,12.0,Podanur,Unknown,Low,2025-06-08,2025-06
+ISSUE_00053,11.0,Gandhipuram,Garbage Dump,Medium,2023-10-25,2023-10
+ISSUE_00054,1.0,Koundampalayam,Garbage Dump,Medium,2024-01-14,2024-01
+ISSUE_00055,12.0,RS Puram,Drainage Leakage,Unknown,2024-05-01,2024-05
+ISSUE_00056,7.0,Gandhipuram,Unknown,Medium,2023-01-26,2023-01
+ISSUE_00057,5.0,Gandhipuram,Drainage Leakage,Unknown,2024-09-01,2024-09
+ISSUE_00058,12.0,Ganapathy,Unknown,High,2025-02-19,2025-02
+ISSUE_00059,12.0,Ukkadam,Pothole,Unknown,2024-05-23,2024-05
+ISSUE_00060,20.0,RS Puram,Water Pipe Burst,High,2023-02-28,2023-02
+ISSUE_00061,12.0,Koundampalayam,Drainage Leakage,Low,2024-12-02,2024-12
+ISSUE_00062,4.0,Podanur,Street Light Issue,Unknown,2023-08-30,2023-08
+ISSUE_00063,8.0,RS Puram,Street Light Issue,Unknown,2025-04-13,2025-04
+ISSUE_00064,12.0,Ganapathy,Pothole,Unknown,2023-06-19,2023-06
+ISSUE_00065,13.0,Podanur,Garbage Dump,Unknown,2023-09-27,2023-09
+ISSUE_00066,12.0,RS Puram,Water Pipe Burst,High,2023-11-13,2023-11
+ISSUE_00067,5.0,Koundampalayam,Pothole,High,2023-10-03,2023-10
+ISSUE_00068,12.0,Unknown,Drainage Leakage,Unknown,2023-05-23,2023-05
+ISSUE_00069,1.0,Unknown,Water Pipe Burst,Medium,2023-04-30,2023-04
+ISSUE_00070,12.0,Ukkadam,Drainage Leakage,Low,2023-08-17,2023-08
+ISSUE_00071,8.0,Gandhipuram,Garbage Dump,Unknown,2023-12-15,2023-12
+ISSUE_00072,7.0,Unknown,Drainage Leakage,Low,2024-10-07,2024-10
+ISSUE_00073,12.0,Ukkadam,Garbage Dump,Unknown,2024-05-30,2024-05
+ISSUE_00074,19.0,Podanur,Unknown,Medium,2023-05-09,2023-05
+ISSUE_00075,4.0,Podanur,Water Pipe Burst,High,2023-09-24,2023-09
+ISSUE_00076,12.0,Podanur,Water Pipe Burst,High,2025-06-04,2025-06
+ISSUE_00077,8.0,Gandhipuram,Drainage Leakage,High,2025-03-14,2025-03
+ISSUE_00078,12.0,Unknown,Unknown,Unknown,2024-12-13,2024-12
+ISSUE_00079,12.0,Koundampalayam,Street Light Issue,High,2024-07-07,2024-07
+ISSUE_00080,10.0,Ganapathy,Unknown,Low,2023-04-24,2023-04
+ISSUE_00081,12.0,Ukkadam,Pothole,Unknown,2023-11-09,2023-11
+ISSUE_00082,12.0,Gandhipuram,Garbage Dump,Unknown,2024-11-30,2024-11
+ISSUE_00083,12.0,Ganapathy,Drainage Leakage,High,2023-08-27,2023-08
+ISSUE_00084,12.0,Koundampalayam,Street Light Issue,Low,2023-05-29,2023-05
+ISSUE_00085,9.0,Unknown,Street Light Issue,Medium,2023-01-02,2023-01
+ISSUE_00086,14.0,Koundampalayam,Water Pipe Burst,Unknown,2023-06-16,2023-06
+ISSUE_00087,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-11-23,2024-11
+ISSUE_00088,1.0,Unknown,Street Light Issue,High,2023-11-08,2023-11
+ISSUE_00089,13.0,RS Puram,Drainage Leakage,Low,2024-10-09,2024-10
+ISSUE_00090,19.0,Unknown,Pothole,Medium,2023-11-28,2023-11
+ISSUE_00091,19.0,Ganapathy,Pothole,Medium,2023-06-19,2023-06
+ISSUE_00092,12.0,RS Puram,Drainage Leakage,Unknown,2023-05-20,2023-05
+ISSUE_00093,4.0,Ganapathy,Unknown,High,2023-03-04,2023-03
+ISSUE_00094,16.0,Unknown,Street Light Issue,Unknown,2024-12-23,2024-12
+ISSUE_00095,5.0,Ukkadam,Water Pipe Burst,Unknown,2024-09-12,2024-09
+ISSUE_00096,7.0,Saibaba Colony,Street Light Issue,Unknown,2024-04-04,2024-04
+ISSUE_00097,13.0,Ganapathy,Unknown,Unknown,2024-10-24,2024-10
+ISSUE_00098,7.0,Gandhipuram,Unknown,Unknown,2023-11-01,2023-11
+ISSUE_00099,10.0,RS Puram,Unknown,Unknown,2023-05-04,2023-05
+ISSUE_00100,12.0,Ukkadam,Pothole,Unknown,2023-02-17,2023-02
+ISSUE_00101,10.0,Ukkadam,Unknown,Medium,2024-05-06,2024-05
+ISSUE_00102,7.0,Ukkadam,Street Light Issue,Medium,2025-02-28,2025-02
+ISSUE_00103,20.0,Ukkadam,Unknown,Unknown,2024-12-02,2024-12
+ISSUE_00104,12.0,Ukkadam,Street Light Issue,Unknown,2023-04-04,2023-04
+ISSUE_00105,15.0,Koundampalayam,Garbage Dump,Unknown,2024-05-29,2024-05
+ISSUE_00106,12.0,Podanur,Unknown,High,2023-06-16,2023-06
+ISSUE_00107,12.0,Gandhipuram,Pothole,Unknown,2024-05-05,2024-05
+ISSUE_00108,12.0,Gandhipuram,Street Light Issue,Medium,2024-08-29,2024-08
+ISSUE_00109,5.0,Ganapathy,Pothole,High,2025-04-07,2025-04
+ISSUE_00110,1.0,Peelamedu,Unknown,Unknown,2024-01-26,2024-01
+ISSUE_00111,17.0,Unknown,Unknown,Unknown,2024-11-03,2024-11
+ISSUE_00112,12.0,Gandhipuram,Water Pipe Burst,Unknown,2024-11-13,2024-11
+ISSUE_00113,12.0,Gandhipuram,Pothole,Medium,2023-06-04,2023-06
+ISSUE_00114,12.0,RS Puram,Garbage Dump,Unknown,2023-06-18,2023-06
+ISSUE_00115,18.0,Peelamedu,Garbage Dump,High,2023-01-04,2023-01
+ISSUE_00116,6.0,Saibaba Colony,Unknown,High,2025-03-10,2025-03
+ISSUE_00117,19.0,Saibaba Colony,Drainage Leakage,High,2025-01-01,2025-01
+ISSUE_00118,4.0,Gandhipuram,Drainage Leakage,Unknown,2024-05-18,2024-05
+ISSUE_00119,12.0,Peelamedu,Street Light Issue,Unknown,2025-06-16,2025-06
+ISSUE_00120,20.0,Koundampalayam,Street Light Issue,Medium,2023-07-06,2023-07
+ISSUE_00121,12.0,Unknown,Pothole,Unknown,2024-10-25,2024-10
+ISSUE_00122,8.0,Ganapathy,Street Light Issue,High,2023-01-26,2023-01
+ISSUE_00123,20.0,Ukkadam,Drainage Leakage,Medium,2023-09-17,2023-09
+ISSUE_00124,8.0,Saibaba Colony,Unknown,Unknown,2025-05-08,2025-05
+ISSUE_00125,9.0,Gandhipuram,Garbage Dump,High,2023-11-07,2023-11
+ISSUE_00126,12.0,Ganapathy,Garbage Dump,Unknown,2023-10-12,2023-10
+ISSUE_00127,12.0,Gandhipuram,Street Light Issue,High,2024-09-17,2024-09
+ISSUE_00128,20.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-02-11,2024-02
+ISSUE_00129,12.0,Gandhipuram,Pothole,Low,2024-03-07,2024-03
+ISSUE_00130,12.0,Ganapathy,Unknown,Low,2023-06-09,2023-06
+ISSUE_00131,12.0,Ukkadam,Unknown,Low,2023-03-04,2023-03
+ISSUE_00132,12.0,Ganapathy,Drainage Leakage,Unknown,2024-06-18,2024-06
+ISSUE_00133,4.0,Unknown,Pothole,Low,2025-07-06,2025-07
+ISSUE_00134,16.0,Ganapathy,Pothole,Medium,2023-10-14,2023-10
+ISSUE_00135,12.0,Ganapathy,Water Pipe Burst,Unknown,2023-06-08,2023-06
+ISSUE_00136,10.0,RS Puram,Drainage Leakage,Unknown,2024-05-29,2024-05
+ISSUE_00137,12.0,RS Puram,Garbage Dump,Unknown,2023-09-17,2023-09
+ISSUE_00138,8.0,Saibaba Colony,Street Light Issue,Unknown,2024-07-25,2024-07
+ISSUE_00139,12.0,Unknown,Drainage Leakage,High,2025-03-15,2025-03
+ISSUE_00140,12.0,Ganapathy,Street Light Issue,Medium,2023-12-01,2023-12
+ISSUE_00141,18.0,Gandhipuram,Pothole,Unknown,2023-02-06,2023-02
+ISSUE_00142,12.0,Ganapathy,Drainage Leakage,Medium,2025-02-27,2025-02
+ISSUE_00143,12.0,Ukkadam,Street Light Issue,Low,2023-12-31,2023-12
+ISSUE_00144,19.0,Podanur,Pothole,Low,2023-10-01,2023-10
+ISSUE_00145,14.0,Unknown,Unknown,Low,2023-01-12,2023-01
+ISSUE_00146,12.0,Unknown,Drainage Leakage,Unknown,2023-03-06,2023-03
+ISSUE_00147,4.0,RS Puram,Drainage Leakage,Unknown,2024-09-27,2024-09
+ISSUE_00148,12.0,Ukkadam,Garbage Dump,High,2024-03-12,2024-03
+ISSUE_00149,7.0,RS Puram,Water Pipe Burst,High,2023-07-06,2023-07
+ISSUE_00150,12.0,RS Puram,Unknown,High,2024-02-09,2024-02
+ISSUE_00151,4.0,Ganapathy,Unknown,Unknown,2023-07-10,2023-07
+ISSUE_00152,12.0,Unknown,Unknown,High,2024-11-09,2024-11
+ISSUE_00153,12.0,RS Puram,Drainage Leakage,Low,2024-01-03,2024-01
+ISSUE_00154,8.0,Ganapathy,Unknown,High,2023-03-15,2023-03
+ISSUE_00155,7.0,Unknown,Water Pipe Burst,Unknown,2024-08-02,2024-08
+ISSUE_00156,12.0,Unknown,Pothole,High,2023-07-15,2023-07
+ISSUE_00157,14.0,Unknown,Water Pipe Burst,Unknown,2023-11-26,2023-11
+ISSUE_00158,2.0,Unknown,Street Light Issue,Low,2023-10-19,2023-10
+ISSUE_00159,12.0,Koundampalayam,Pothole,Low,2024-08-10,2024-08
+ISSUE_00160,2.0,Podanur,Pothole,Unknown,2024-02-25,2024-02
+ISSUE_00161,12.0,Ganapathy,Drainage Leakage,Medium,2024-03-24,2024-03
+ISSUE_00162,19.0,Unknown,Street Light Issue,Unknown,2024-12-26,2024-12
+ISSUE_00163,1.0,Podanur,Street Light Issue,Unknown,2023-05-12,2023-05
+ISSUE_00164,1.0,Peelamedu,Unknown,Unknown,2023-08-07,2023-08
+ISSUE_00165,14.0,Ganapathy,Drainage Leakage,Unknown,2023-11-25,2023-11
+ISSUE_00166,10.0,Ukkadam,Street Light Issue,Medium,2023-04-07,2023-04
+ISSUE_00167,16.0,Podanur,Unknown,Unknown,2023-07-24,2023-07
+ISSUE_00168,12.0,RS Puram,Garbage Dump,Medium,2023-05-30,2023-05
+ISSUE_00169,14.0,Ukkadam,Garbage Dump,Medium,2023-06-08,2023-06
+ISSUE_00170,13.0,Unknown,Drainage Leakage,Unknown,2024-04-23,2024-04
+ISSUE_00171,12.0,Ukkadam,Unknown,Medium,2024-01-04,2024-01
+ISSUE_00172,12.0,Podanur,Street Light Issue,Unknown,2023-05-30,2023-05
+ISSUE_00173,1.0,RS Puram,Water Pipe Burst,Unknown,2025-03-03,2025-03
+ISSUE_00174,14.0,Gandhipuram,Drainage Leakage,Medium,2023-08-09,2023-08
+ISSUE_00175,17.0,Koundampalayam,Drainage Leakage,Unknown,2024-06-14,2024-06
+ISSUE_00176,12.0,Unknown,Drainage Leakage,High,2025-03-26,2025-03
+ISSUE_00177,19.0,Podanur,Unknown,Low,2024-06-13,2024-06
+ISSUE_00178,12.0,Gandhipuram,Unknown,High,2025-02-08,2025-02
+ISSUE_00179,12.0,Ukkadam,Garbage Dump,Low,2024-04-25,2024-04
+ISSUE_00180,14.0,RS Puram,Street Light Issue,Low,2023-04-25,2023-04
+ISSUE_00181,12.0,Peelamedu,Unknown,Unknown,2025-07-01,2025-07
+ISSUE_00182,12.0,Koundampalayam,Pothole,Unknown,2024-01-28,2024-01
+ISSUE_00183,12.0,Unknown,Unknown,Unknown,2023-09-12,2023-09
+ISSUE_00184,12.0,Peelamedu,Water Pipe Burst,Low,2023-10-01,2023-10
+ISSUE_00185,17.0,Ganapathy,Street Light Issue,High,2024-01-16,2024-01
+ISSUE_00186,12.0,Unknown,Street Light Issue,Unknown,2023-06-19,2023-06
+ISSUE_00187,12.0,Podanur,Street Light Issue,High,2025-03-04,2025-03
+ISSUE_00188,12.0,Koundampalayam,Garbage Dump,High,2023-07-18,2023-07
+ISSUE_00189,12.0,Unknown,Pothole,Medium,2023-10-03,2023-10
+ISSUE_00190,1.0,Koundampalayam,Pothole,Low,2025-04-16,2025-04
+ISSUE_00191,12.0,RS Puram,Unknown,Medium,2023-11-13,2023-11
+ISSUE_00192,8.0,Koundampalayam,Water Pipe Burst,Unknown,2024-05-19,2024-05
+ISSUE_00193,12.0,Koundampalayam,Water Pipe Burst,Medium,2024-09-14,2024-09
+ISSUE_00194,12.0,Saibaba Colony,Drainage Leakage,High,2025-07-04,2025-07
+ISSUE_00195,1.0,Koundampalayam,Street Light Issue,Medium,2023-11-10,2023-11
+ISSUE_00196,15.0,Koundampalayam,Unknown,Low,2024-07-23,2024-07
+ISSUE_00197,6.0,Gandhipuram,Street Light Issue,High,2025-01-10,2025-01
+ISSUE_00198,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2023-10-25,2023-10
+ISSUE_00199,12.0,Unknown,Water Pipe Burst,Medium,2024-01-23,2024-01
+ISSUE_00200,12.0,RS Puram,Unknown,Medium,2024-04-23,2024-04
+ISSUE_00201,12.0,Podanur,Unknown,Unknown,2023-11-01,2023-11
+ISSUE_00202,12.0,Ganapathy,Unknown,Unknown,2024-11-10,2024-11
+ISSUE_00203,12.0,Gandhipuram,Unknown,Unknown,2023-09-03,2023-09
+ISSUE_00204,12.0,Ganapathy,Unknown,Unknown,2023-01-18,2023-01
+ISSUE_00205,8.0,Podanur,Street Light Issue,Unknown,2023-06-26,2023-06
+ISSUE_00206,12.0,Koundampalayam,Unknown,Medium,2023-04-18,2023-04
+ISSUE_00207,12.0,Unknown,Pothole,Unknown,2025-01-15,2025-01
+ISSUE_00208,12.0,Peelamedu,Water Pipe Burst,High,2023-10-01,2023-10
+ISSUE_00209,2.0,Podanur,Street Light Issue,Unknown,2024-09-04,2024-09
+ISSUE_00210,10.0,Ganapathy,Unknown,Low,2025-01-02,2025-01
+ISSUE_00211,12.0,Ganapathy,Unknown,Unknown,2024-06-12,2024-06
+ISSUE_00212,12.0,Peelamedu,Unknown,High,2024-03-12,2024-03
+ISSUE_00213,18.0,Ganapathy,Street Light Issue,Unknown,2023-11-18,2023-11
+ISSUE_00214,12.0,Saibaba Colony,Street Light Issue,High,2025-01-22,2025-01
+ISSUE_00215,8.0,Unknown,Drainage Leakage,Unknown,2025-04-23,2025-04
+ISSUE_00216,4.0,Saibaba Colony,Pothole,Low,2024-03-23,2024-03
+ISSUE_00217,12.0,Ganapathy,Garbage Dump,Unknown,2024-12-12,2024-12
+ISSUE_00218,12.0,Peelamedu,Unknown,Low,2024-08-19,2024-08
+ISSUE_00219,12.0,RS Puram,Drainage Leakage,Unknown,2023-12-01,2023-12
+ISSUE_00220,16.0,Peelamedu,Street Light Issue,Unknown,2023-06-27,2023-06
+ISSUE_00221,12.0,Ganapathy,Unknown,Unknown,2025-02-15,2025-02
+ISSUE_00222,5.0,Peelamedu,Garbage Dump,Unknown,2024-05-02,2024-05
+ISSUE_00223,12.0,RS Puram,Water Pipe Burst,Unknown,2024-04-01,2024-04
+ISSUE_00224,16.0,Gandhipuram,Street Light Issue,Medium,2023-03-15,2023-03
+ISSUE_00225,9.0,Ukkadam,Pothole,Unknown,2024-09-20,2024-09
+ISSUE_00226,12.0,Saibaba Colony,Drainage Leakage,Unknown,2023-12-08,2023-12
+ISSUE_00227,12.0,Ukkadam,Pothole,Unknown,2023-07-17,2023-07
+ISSUE_00228,12.0,Podanur,Garbage Dump,Unknown,2025-01-28,2025-01
+ISSUE_00229,20.0,Peelamedu,Street Light Issue,High,2023-04-22,2023-04
+ISSUE_00230,12.0,Saibaba Colony,Pothole,Low,2023-01-05,2023-01
+ISSUE_00231,15.0,Gandhipuram,Pothole,Medium,2023-01-26,2023-01
+ISSUE_00232,12.0,Podanur,Pothole,Unknown,2025-01-02,2025-01
+ISSUE_00233,3.0,Gandhipuram,Garbage Dump,Medium,2024-11-14,2024-11
+ISSUE_00234,12.0,Peelamedu,Street Light Issue,High,2023-02-21,2023-02
+ISSUE_00235,7.0,Podanur,Street Light Issue,Medium,2023-07-16,2023-07
+ISSUE_00236,12.0,Podanur,Street Light Issue,Medium,2024-11-02,2024-11
+ISSUE_00237,12.0,Gandhipuram,Drainage Leakage,Medium,2023-12-28,2023-12
+ISSUE_00238,15.0,Koundampalayam,Drainage Leakage,Medium,2023-08-15,2023-08
+ISSUE_00239,13.0,Saibaba Colony,Street Light Issue,Medium,2024-09-09,2024-09
+ISSUE_00240,12.0,Peelamedu,Drainage Leakage,Unknown,2023-12-05,2023-12
+ISSUE_00241,3.0,Saibaba Colony,Drainage Leakage,High,2023-04-09,2023-04
+ISSUE_00242,12.0,Unknown,Garbage Dump,High,2023-12-24,2023-12
+ISSUE_00243,12.0,Ukkadam,Water Pipe Burst,Unknown,2024-01-10,2024-01
+ISSUE_00244,14.0,Ukkadam,Pothole,Unknown,2025-05-25,2025-05
+ISSUE_00245,2.0,Unknown,Drainage Leakage,Medium,2023-01-06,2023-01
+ISSUE_00246,12.0,Ukkadam,Street Light Issue,Low,2023-09-27,2023-09
+ISSUE_00247,12.0,Koundampalayam,Garbage Dump,Unknown,2023-02-19,2023-02
+ISSUE_00248,12.0,Unknown,Garbage Dump,Medium,2025-03-04,2025-03
+ISSUE_00249,7.0,Podanur,Garbage Dump,Low,2024-01-09,2024-01
+ISSUE_00250,12.0,Gandhipuram,Pothole,Medium,2025-02-13,2025-02
+ISSUE_00251,12.0,Ganapathy,Water Pipe Burst,Unknown,2024-04-15,2024-04
+ISSUE_00252,12.0,Unknown,Garbage Dump,Unknown,2023-02-17,2023-02
+ISSUE_00253,12.0,Saibaba Colony,Unknown,Unknown,2024-10-14,2024-10
+ISSUE_00254,8.0,Ganapathy,Water Pipe Burst,Medium,2024-10-16,2024-10
+ISSUE_00255,11.0,Ganapathy,Water Pipe Burst,Unknown,2024-02-20,2024-02
+ISSUE_00256,12.0,Unknown,Garbage Dump,High,2024-06-22,2024-06
+ISSUE_00257,10.0,Peelamedu,Garbage Dump,Unknown,2025-01-11,2025-01
+ISSUE_00258,12.0,Ukkadam,Unknown,Medium,2023-04-13,2023-04
+ISSUE_00259,12.0,Ukkadam,Unknown,Unknown,2023-11-20,2023-11
+ISSUE_00260,12.0,Unknown,Garbage Dump,Medium,2024-07-18,2024-07
+ISSUE_00261,7.0,Unknown,Pothole,Medium,2023-01-04,2023-01
+ISSUE_00262,13.0,Koundampalayam,Drainage Leakage,Medium,2023-05-21,2023-05
+ISSUE_00263,12.0,Unknown,Water Pipe Burst,Medium,2024-09-15,2024-09
+ISSUE_00264,12.0,Gandhipuram,Street Light Issue,Unknown,2025-01-15,2025-01
+ISSUE_00265,14.0,Unknown,Unknown,Low,2023-06-28,2023-06
+ISSUE_00266,12.0,Gandhipuram,Unknown,Unknown,2024-03-20,2024-03
+ISSUE_00267,12.0,RS Puram,Water Pipe Burst,Low,2023-10-07,2023-10
+ISSUE_00268,7.0,Peelamedu,Water Pipe Burst,Medium,2023-03-06,2023-03
+ISSUE_00269,12.0,Gandhipuram,Drainage Leakage,Unknown,2023-11-30,2023-11
+ISSUE_00270,6.0,Peelamedu,Street Light Issue,High,2024-08-03,2024-08
+ISSUE_00271,3.0,Peelamedu,Street Light Issue,Medium,2025-04-17,2025-04
+ISSUE_00272,15.0,Unknown,Pothole,Low,2024-07-02,2024-07
+ISSUE_00273,8.0,RS Puram,Garbage Dump,High,2024-09-13,2024-09
+ISSUE_00274,9.0,Koundampalayam,Water Pipe Burst,Unknown,2024-04-13,2024-04
+ISSUE_00275,19.0,Unknown,Pothole,Unknown,2025-01-13,2025-01
+ISSUE_00276,5.0,Koundampalayam,Unknown,Unknown,2024-09-23,2024-09
+ISSUE_00277,12.0,Saibaba Colony,Unknown,Unknown,2025-04-03,2025-04
+ISSUE_00278,12.0,Peelamedu,Unknown,Medium,2024-11-21,2024-11
+ISSUE_00279,12.0,Peelamedu,Pothole,Unknown,2023-06-12,2023-06
+ISSUE_00280,12.0,Saibaba Colony,Garbage Dump,Medium,2023-07-11,2023-07
+ISSUE_00281,12.0,Unknown,Unknown,Unknown,2025-04-16,2025-04
+ISSUE_00282,18.0,RS Puram,Water Pipe Burst,Unknown,2024-11-27,2024-11
+ISSUE_00283,18.0,Unknown,Pothole,Medium,2023-01-15,2023-01
+ISSUE_00284,12.0,Podanur,Garbage Dump,Unknown,2023-03-02,2023-03
+ISSUE_00285,12.0,Gandhipuram,Unknown,High,2024-05-10,2024-05
+ISSUE_00286,12.0,Ukkadam,Pothole,Unknown,2024-10-10,2024-10
+ISSUE_00287,12.0,Podanur,Street Light Issue,Low,2025-07-16,2025-07
+ISSUE_00288,12.0,Podanur,Water Pipe Burst,Unknown,2023-01-20,2023-01
+ISSUE_00289,18.0,Podanur,Unknown,High,2024-09-05,2024-09
+ISSUE_00290,12.0,Peelamedu,Unknown,High,2023-10-18,2023-10
+ISSUE_00291,18.0,Unknown,Pothole,Low,2025-05-27,2025-05
+ISSUE_00292,12.0,Unknown,Pothole,Medium,2025-02-08,2025-02
+ISSUE_00293,12.0,RS Puram,Drainage Leakage,Medium,2023-01-04,2023-01
+ISSUE_00294,3.0,Saibaba Colony,Water Pipe Burst,Unknown,2023-01-08,2023-01
+ISSUE_00295,12.0,Ukkadam,Water Pipe Burst,Medium,2025-04-02,2025-04
+ISSUE_00296,12.0,Ukkadam,Drainage Leakage,Unknown,2024-05-04,2024-05
+ISSUE_00297,12.0,Gandhipuram,Garbage Dump,High,2024-03-22,2024-03
+ISSUE_00298,20.0,Saibaba Colony,Unknown,Unknown,2023-06-30,2023-06
+ISSUE_00299,12.0,Koundampalayam,Unknown,Medium,2024-10-26,2024-10
+ISSUE_00300,12.0,Ukkadam,Garbage Dump,Low,2023-01-30,2023-01
+ISSUE_00301,12.0,Ukkadam,Unknown,Unknown,2025-01-30,2025-01
+ISSUE_00302,8.0,Koundampalayam,Unknown,Unknown,2024-03-27,2024-03
+ISSUE_00303,6.0,RS Puram,Water Pipe Burst,Unknown,2024-04-12,2024-04
+ISSUE_00304,15.0,Gandhipuram,Water Pipe Burst,Unknown,2024-05-21,2024-05
+ISSUE_00305,17.0,Saibaba Colony,Garbage Dump,Medium,2024-04-02,2024-04
+ISSUE_00306,12.0,Peelamedu,Unknown,Unknown,2023-04-09,2023-04
+ISSUE_00307,2.0,Unknown,Pothole,Low,2023-11-03,2023-11
+ISSUE_00308,12.0,Ukkadam,Unknown,High,2025-05-10,2025-05
+ISSUE_00309,12.0,Koundampalayam,Unknown,Unknown,2024-09-27,2024-09
+ISSUE_00310,16.0,Ukkadam,Unknown,Unknown,2023-05-25,2023-05
+ISSUE_00311,4.0,Podanur,Drainage Leakage,Medium,2024-09-05,2024-09
+ISSUE_00312,12.0,Ganapathy,Water Pipe Burst,Unknown,2025-02-19,2025-02
+ISSUE_00313,12.0,Ukkadam,Pothole,Medium,2023-06-04,2023-06
+ISSUE_00314,1.0,Peelamedu,Garbage Dump,Unknown,2024-08-09,2024-08
+ISSUE_00315,15.0,Gandhipuram,Pothole,Unknown,2024-11-21,2024-11
+ISSUE_00316,12.0,RS Puram,Drainage Leakage,Unknown,2023-10-12,2023-10
+ISSUE_00317,12.0,Ukkadam,Drainage Leakage,Low,2024-05-26,2024-05
+ISSUE_00318,12.0,Gandhipuram,Pothole,Low,2023-12-10,2023-12
+ISSUE_00319,18.0,Unknown,Unknown,Low,2024-03-13,2024-03
+ISSUE_00320,12.0,RS Puram,Unknown,Low,2024-06-03,2024-06
+ISSUE_00321,12.0,Ukkadam,Unknown,Medium,2025-02-24,2025-02
+ISSUE_00322,12.0,Gandhipuram,Unknown,High,2023-11-15,2023-11
+ISSUE_00323,12.0,Podanur,Unknown,Unknown,2025-03-01,2025-03
+ISSUE_00324,12.0,RS Puram,Drainage Leakage,Low,2024-10-24,2024-10
+ISSUE_00325,15.0,Koundampalayam,Garbage Dump,Low,2024-08-22,2024-08
+ISSUE_00326,12.0,Unknown,Street Light Issue,Unknown,2024-05-01,2024-05
+ISSUE_00327,12.0,Ganapathy,Drainage Leakage,Unknown,2023-03-19,2023-03
+ISSUE_00328,12.0,Gandhipuram,Water Pipe Burst,Medium,2024-11-07,2024-11
+ISSUE_00329,12.0,Ukkadam,Unknown,Low,2023-06-10,2023-06
+ISSUE_00330,18.0,Ukkadam,Unknown,High,2023-09-27,2023-09
+ISSUE_00331,4.0,Peelamedu,Water Pipe Burst,Unknown,2024-12-08,2024-12
+ISSUE_00332,4.0,Podanur,Drainage Leakage,High,2023-12-16,2023-12
+ISSUE_00333,12.0,Ganapathy,Unknown,High,2024-12-06,2024-12
+ISSUE_00334,19.0,Ukkadam,Unknown,High,2023-10-15,2023-10
+ISSUE_00335,12.0,Ukkadam,Pothole,Unknown,2023-05-11,2023-05
+ISSUE_00336,12.0,Peelamedu,Unknown,High,2024-12-21,2024-12
+ISSUE_00337,16.0,Ganapathy,Street Light Issue,Unknown,2024-11-10,2024-11
+ISSUE_00338,12.0,Ukkadam,Water Pipe Burst,High,2024-05-23,2024-05
+ISSUE_00339,9.0,Ganapathy,Drainage Leakage,Unknown,2023-10-26,2023-10
+ISSUE_00340,10.0,Gandhipuram,Garbage Dump,High,2025-02-01,2025-02
+ISSUE_00341,14.0,Unknown,Unknown,Low,2023-07-16,2023-07
+ISSUE_00342,12.0,Gandhipuram,Street Light Issue,Unknown,2024-10-27,2024-10
+ISSUE_00343,18.0,Saibaba Colony,Unknown,High,2024-12-15,2024-12
+ISSUE_00344,12.0,Ukkadam,Garbage Dump,High,2024-05-18,2024-05
+ISSUE_00345,12.0,Unknown,Unknown,Low,2025-01-11,2025-01
+ISSUE_00346,8.0,Saibaba Colony,Unknown,Low,2024-05-10,2024-05
+ISSUE_00347,14.0,Ukkadam,Unknown,Unknown,2024-06-15,2024-06
+ISSUE_00348,6.0,Koundampalayam,Garbage Dump,Unknown,2023-10-19,2023-10
+ISSUE_00349,8.0,Koundampalayam,Water Pipe Burst,Medium,2024-12-31,2024-12
+ISSUE_00350,12.0,Unknown,Unknown,Unknown,2023-10-11,2023-10
+ISSUE_00351,20.0,Unknown,Water Pipe Burst,Low,2024-01-18,2024-01
+ISSUE_00352,2.0,Ukkadam,Unknown,High,2024-04-15,2024-04
+ISSUE_00353,9.0,Peelamedu,Street Light Issue,Medium,2023-10-18,2023-10
+ISSUE_00354,12.0,Saibaba Colony,Unknown,High,2024-10-17,2024-10
+ISSUE_00355,12.0,Koundampalayam,Street Light Issue,Unknown,2023-01-29,2023-01
+ISSUE_00356,15.0,RS Puram,Garbage Dump,Unknown,2024-11-30,2024-11
+ISSUE_00357,12.0,Unknown,Unknown,Unknown,2024-12-13,2024-12
+ISSUE_00358,4.0,Koundampalayam,Garbage Dump,Unknown,2024-06-01,2024-06
+ISSUE_00359,12.0,Unknown,Unknown,Unknown,2025-02-07,2025-02
+ISSUE_00360,1.0,Unknown,Garbage Dump,Unknown,2024-03-05,2024-03
+ISSUE_00361,4.0,Saibaba Colony,Street Light Issue,Unknown,2023-08-27,2023-08
+ISSUE_00362,12.0,Unknown,Garbage Dump,Unknown,2024-01-14,2024-01
+ISSUE_00363,12.0,Koundampalayam,Unknown,Low,2024-12-15,2024-12
+ISSUE_00364,11.0,Peelamedu,Pothole,Low,2023-07-06,2023-07
+ISSUE_00365,12.0,Saibaba Colony,Street Light Issue,Low,2024-05-03,2024-05
+ISSUE_00366,7.0,Unknown,Unknown,Unknown,2023-07-18,2023-07
+ISSUE_00367,19.0,RS Puram,Water Pipe Burst,Medium,2024-12-05,2024-12
+ISSUE_00368,3.0,Peelamedu,Unknown,Medium,2023-12-22,2023-12
+ISSUE_00369,18.0,Unknown,Street Light Issue,Unknown,2023-09-26,2023-09
+ISSUE_00370,12.0,Ukkadam,Garbage Dump,Medium,2024-08-27,2024-08
+ISSUE_00371,12.0,Peelamedu,Street Light Issue,Unknown,2023-05-08,2023-05
+ISSUE_00372,12.0,Koundampalayam,Water Pipe Burst,Unknown,2023-08-04,2023-08
+ISSUE_00373,20.0,Ganapathy,Unknown,High,2023-11-22,2023-11
+ISSUE_00374,12.0,Koundampalayam,Pothole,High,2025-01-26,2025-01
+ISSUE_00375,14.0,Saibaba Colony,Street Light Issue,Unknown,2025-01-16,2025-01
+ISSUE_00376,12.0,Ukkadam,Street Light Issue,Low,2023-03-30,2023-03
+ISSUE_00377,12.0,Peelamedu,Garbage Dump,Unknown,2023-11-10,2023-11
+ISSUE_00378,11.0,Ganapathy,Unknown,Medium,2024-06-07,2024-06
+ISSUE_00379,12.0,Unknown,Pothole,High,2024-03-11,2024-03
+ISSUE_00380,10.0,Ganapathy,Unknown,Low,2023-03-23,2023-03
+ISSUE_00381,12.0,Unknown,Garbage Dump,Unknown,2025-06-06,2025-06
+ISSUE_00382,12.0,Koundampalayam,Street Light Issue,High,2023-10-07,2023-10
+ISSUE_00383,12.0,Ukkadam,Water Pipe Burst,Medium,2025-03-17,2025-03
+ISSUE_00384,12.0,Ganapathy,Garbage Dump,High,2023-05-31,2023-05
+ISSUE_00385,12.0,Unknown,Pothole,Unknown,2024-04-28,2024-04
+ISSUE_00386,12.0,Unknown,Garbage Dump,Unknown,2023-04-27,2023-04
+ISSUE_00387,18.0,Unknown,Unknown,Unknown,2024-08-02,2024-08
+ISSUE_00388,3.0,Ganapathy,Unknown,Medium,2024-10-12,2024-10
+ISSUE_00389,12.0,RS Puram,Water Pipe Burst,Unknown,2024-10-11,2024-10
+ISSUE_00390,3.0,Ukkadam,Garbage Dump,Low,2024-12-02,2024-12
+ISSUE_00391,11.0,Ganapathy,Unknown,Medium,2024-02-16,2024-02
+ISSUE_00392,12.0,Unknown,Street Light Issue,High,2025-07-15,2025-07
+ISSUE_00393,1.0,Podanur,Unknown,High,2024-03-03,2024-03
+ISSUE_00394,3.0,Koundampalayam,Pothole,Unknown,2024-09-23,2024-09
+ISSUE_00395,12.0,Ganapathy,Unknown,Unknown,2023-07-11,2023-07
+ISSUE_00396,12.0,RS Puram,Water Pipe Burst,Unknown,2024-02-07,2024-02
+ISSUE_00397,12.0,RS Puram,Drainage Leakage,High,2025-04-29,2025-04
+ISSUE_00398,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-01-01,2023-01
+ISSUE_00399,12.0,Koundampalayam,Pothole,Low,2024-08-01,2024-08
+ISSUE_00400,20.0,Koundampalayam,Garbage Dump,Medium,2024-02-03,2024-02
+ISSUE_00401,12.0,Podanur,Unknown,Unknown,2023-04-01,2023-04
+ISSUE_00402,15.0,Peelamedu,Unknown,Unknown,2024-01-06,2024-01
+ISSUE_00403,17.0,Koundampalayam,Drainage Leakage,Unknown,2023-11-02,2023-11
+ISSUE_00404,12.0,Saibaba Colony,Water Pipe Burst,High,2023-12-17,2023-12
+ISSUE_00405,12.0,RS Puram,Water Pipe Burst,High,2023-03-13,2023-03
+ISSUE_00406,17.0,Saibaba Colony,Drainage Leakage,Unknown,2024-06-01,2024-06
+ISSUE_00407,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-03-22,2024-03
+ISSUE_00408,4.0,Ukkadam,Drainage Leakage,Low,2024-01-09,2024-01
+ISSUE_00409,12.0,Ganapathy,Street Light Issue,Unknown,2023-08-04,2023-08
+ISSUE_00410,12.0,Saibaba Colony,Street Light Issue,Low,2023-06-13,2023-06
+ISSUE_00411,18.0,Unknown,Pothole,Unknown,2023-11-26,2023-11
+ISSUE_00412,4.0,Unknown,Garbage Dump,Medium,2023-09-21,2023-09
+ISSUE_00413,12.0,Podanur,Garbage Dump,Medium,2024-09-10,2024-09
+ISSUE_00414,11.0,Peelamedu,Unknown,Unknown,2023-03-27,2023-03
+ISSUE_00415,1.0,Peelamedu,Garbage Dump,Unknown,2024-01-16,2024-01
+ISSUE_00416,3.0,Peelamedu,Drainage Leakage,Unknown,2024-12-17,2024-12
+ISSUE_00417,12.0,Unknown,Water Pipe Burst,Unknown,2023-04-17,2023-04
+ISSUE_00418,15.0,Ganapathy,Street Light Issue,Unknown,2025-01-27,2025-01
+ISSUE_00419,12.0,RS Puram,Drainage Leakage,Unknown,2024-06-23,2024-06
+ISSUE_00420,17.0,Saibaba Colony,Unknown,Unknown,2024-06-11,2024-06
+ISSUE_00421,5.0,Saibaba Colony,Street Light Issue,Unknown,2023-12-30,2023-12
+ISSUE_00422,12.0,Ganapathy,Drainage Leakage,High,2023-08-29,2023-08
+ISSUE_00423,12.0,Unknown,Unknown,High,2024-09-17,2024-09
+ISSUE_00424,8.0,Ukkadam,Unknown,Unknown,2023-08-21,2023-08
+ISSUE_00425,12.0,Ganapathy,Garbage Dump,Unknown,2025-04-16,2025-04
+ISSUE_00426,12.0,Ganapathy,Street Light Issue,Unknown,2024-10-29,2024-10
+ISSUE_00427,12.0,Podanur,Drainage Leakage,Medium,2023-09-21,2023-09
+ISSUE_00428,6.0,Gandhipuram,Water Pipe Burst,Medium,2023-05-14,2023-05
+ISSUE_00429,9.0,Koundampalayam,Unknown,Low,2025-07-17,2025-07
+ISSUE_00430,12.0,Unknown,Street Light Issue,Unknown,2024-11-23,2024-11
+ISSUE_00431,12.0,Peelamedu,Garbage Dump,High,2025-02-28,2025-02
+ISSUE_00432,19.0,Koundampalayam,Garbage Dump,Medium,2024-06-21,2024-06
+ISSUE_00433,20.0,Saibaba Colony,Unknown,Unknown,2025-03-12,2025-03
+ISSUE_00434,20.0,Gandhipuram,Street Light Issue,High,2023-02-18,2023-02
+ISSUE_00435,2.0,Unknown,Unknown,Low,2024-04-16,2024-04
+ISSUE_00436,15.0,Unknown,Unknown,Low,2023-02-27,2023-02
+ISSUE_00437,12.0,Unknown,Unknown,Unknown,2023-03-03,2023-03
+ISSUE_00438,13.0,Koundampalayam,Unknown,Medium,2025-06-11,2025-06
+ISSUE_00439,12.0,Peelamedu,Street Light Issue,Unknown,2024-07-21,2024-07
+ISSUE_00440,12.0,Ukkadam,Street Light Issue,Unknown,2023-11-23,2023-11
+ISSUE_00441,4.0,Peelamedu,Unknown,High,2023-08-10,2023-08
+ISSUE_00442,1.0,Koundampalayam,Unknown,Unknown,2024-08-25,2024-08
+ISSUE_00443,12.0,Saibaba Colony,Garbage Dump,Unknown,2025-05-31,2025-05
+ISSUE_00444,4.0,Gandhipuram,Garbage Dump,High,2024-01-19,2024-01
+ISSUE_00445,12.0,Koundampalayam,Unknown,Low,2023-01-27,2023-01
+ISSUE_00446,12.0,Koundampalayam,Water Pipe Burst,Low,2023-12-11,2023-12
+ISSUE_00447,14.0,Gandhipuram,Unknown,High,2024-05-27,2024-05
+ISSUE_00448,12.0,Koundampalayam,Water Pipe Burst,Unknown,2023-07-08,2023-07
+ISSUE_00449,12.0,RS Puram,Unknown,Unknown,2024-08-04,2024-08
+ISSUE_00450,5.0,Koundampalayam,Garbage Dump,Medium,2024-11-02,2024-11
+ISSUE_00451,12.0,RS Puram,Drainage Leakage,High,2025-02-15,2025-02
+ISSUE_00452,12.0,Ukkadam,Garbage Dump,Medium,2023-09-30,2023-09
+ISSUE_00453,12.0,Ukkadam,Garbage Dump,High,2024-03-31,2024-03
+ISSUE_00454,15.0,Saibaba Colony,Street Light Issue,Low,2024-11-03,2024-11
+ISSUE_00455,12.0,Unknown,Unknown,Unknown,2023-03-08,2023-03
+ISSUE_00456,12.0,Ganapathy,Water Pipe Burst,Medium,2025-05-12,2025-05
+ISSUE_00457,12.0,Gandhipuram,Unknown,Medium,2023-05-02,2023-05
+ISSUE_00458,12.0,Peelamedu,Water Pipe Burst,Unknown,2023-10-12,2023-10
+ISSUE_00459,12.0,Unknown,Drainage Leakage,Unknown,2024-06-09,2024-06
+ISSUE_00460,12.0,RS Puram,Drainage Leakage,High,2023-07-14,2023-07
+ISSUE_00461,12.0,Koundampalayam,Pothole,Unknown,2023-02-16,2023-02
+ISSUE_00462,12.0,Ukkadam,Unknown,Medium,2025-04-28,2025-04
+ISSUE_00463,15.0,Podanur,Unknown,Low,2023-04-22,2023-04
+ISSUE_00464,4.0,Saibaba Colony,Drainage Leakage,Medium,2025-03-31,2025-03
+ISSUE_00465,12.0,Unknown,Unknown,Unknown,2023-04-29,2023-04
+ISSUE_00466,3.0,RS Puram,Water Pipe Burst,High,2023-12-05,2023-12
+ISSUE_00467,15.0,Koundampalayam,Pothole,Unknown,2024-11-24,2024-11
+ISSUE_00468,8.0,Ganapathy,Drainage Leakage,Low,2024-02-28,2024-02
+ISSUE_00469,15.0,Podanur,Unknown,Medium,2024-07-20,2024-07
+ISSUE_00470,17.0,Saibaba Colony,Street Light Issue,High,2023-06-16,2023-06
+ISSUE_00471,10.0,Gandhipuram,Garbage Dump,Medium,2024-01-20,2024-01
+ISSUE_00472,5.0,Unknown,Unknown,High,2024-04-15,2024-04
+ISSUE_00473,12.0,Gandhipuram,Unknown,Medium,2025-02-21,2025-02
+ISSUE_00474,10.0,Unknown,Unknown,Low,2025-05-17,2025-05
+ISSUE_00475,16.0,Unknown,Water Pipe Burst,Unknown,2024-06-09,2024-06
+ISSUE_00476,12.0,Gandhipuram,Drainage Leakage,Unknown,2025-06-13,2025-06
+ISSUE_00477,12.0,Podanur,Unknown,Low,2023-07-13,2023-07
+ISSUE_00478,13.0,Unknown,Drainage Leakage,Low,2025-02-16,2025-02
+ISSUE_00479,17.0,Peelamedu,Street Light Issue,Unknown,2023-01-10,2023-01
+ISSUE_00480,10.0,Ganapathy,Street Light Issue,Unknown,2024-05-29,2024-05
+ISSUE_00481,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-03-12,2023-03
+ISSUE_00482,14.0,Podanur,Unknown,High,2023-06-18,2023-06
+ISSUE_00483,16.0,Koundampalayam,Garbage Dump,Unknown,2023-08-22,2023-08
+ISSUE_00484,12.0,Podanur,Garbage Dump,High,2025-04-11,2025-04
+ISSUE_00485,13.0,Ganapathy,Garbage Dump,Unknown,2024-10-12,2024-10
+ISSUE_00486,12.0,Ganapathy,Garbage Dump,Unknown,2023-12-10,2023-12
+ISSUE_00487,11.0,Peelamedu,Unknown,Unknown,2023-10-20,2023-10
+ISSUE_00488,4.0,RS Puram,Pothole,Medium,2024-06-15,2024-06
+ISSUE_00489,12.0,Peelamedu,Pothole,Medium,2023-10-06,2023-10
+ISSUE_00490,12.0,Peelamedu,Drainage Leakage,High,2025-04-30,2025-04
+ISSUE_00491,12.0,Unknown,Unknown,Unknown,2025-06-24,2025-06
+ISSUE_00492,12.0,Ganapathy,Unknown,Low,2024-04-06,2024-04
+ISSUE_00493,18.0,Ukkadam,Drainage Leakage,Unknown,2024-02-02,2024-02
+ISSUE_00494,16.0,Ganapathy,Water Pipe Burst,Unknown,2025-04-21,2025-04
+ISSUE_00495,5.0,Peelamedu,Pothole,Low,2024-02-22,2024-02
+ISSUE_00496,12.0,Ukkadam,Drainage Leakage,High,2023-11-09,2023-11
+ISSUE_00497,12.0,Podanur,Unknown,Unknown,2023-04-04,2023-04
+ISSUE_00498,6.0,Unknown,Pothole,Unknown,2024-08-18,2024-08
+ISSUE_00499,12.0,Ukkadam,Water Pipe Burst,Low,2024-11-29,2024-11
+ISSUE_00500,16.0,Podanur,Unknown,Unknown,2024-08-31,2024-08
+ISSUE_00501,12.0,Gandhipuram,Street Light Issue,High,2025-07-07,2025-07
+ISSUE_00502,12.0,Ganapathy,Unknown,Medium,2024-07-07,2024-07
+ISSUE_00503,12.0,Peelamedu,Unknown,Medium,2024-06-27,2024-06
+ISSUE_00504,12.0,Saibaba Colony,Unknown,Medium,2023-11-07,2023-11
+ISSUE_00505,12.0,RS Puram,Garbage Dump,Low,2023-06-11,2023-06
+ISSUE_00506,12.0,Koundampalayam,Unknown,Low,2023-09-17,2023-09
+ISSUE_00507,12.0,Podanur,Unknown,Medium,2023-12-30,2023-12
+ISSUE_00508,16.0,Gandhipuram,Pothole,High,2024-12-18,2024-12
+ISSUE_00509,13.0,Ganapathy,Street Light Issue,High,2023-06-19,2023-06
+ISSUE_00510,16.0,Saibaba Colony,Drainage Leakage,Medium,2025-06-27,2025-06
+ISSUE_00511,11.0,Peelamedu,Drainage Leakage,Low,2023-03-19,2023-03
+ISSUE_00512,7.0,Koundampalayam,Water Pipe Burst,High,2024-02-19,2024-02
+ISSUE_00513,11.0,Gandhipuram,Garbage Dump,Medium,2024-10-24,2024-10
+ISSUE_00514,12.0,Ukkadam,Street Light Issue,Unknown,2024-05-30,2024-05
+ISSUE_00515,12.0,Unknown,Street Light Issue,High,2023-07-13,2023-07
+ISSUE_00516,4.0,Podanur,Pothole,Unknown,2023-09-07,2023-09
+ISSUE_00517,12.0,Saibaba Colony,Water Pipe Burst,Low,2024-02-17,2024-02
+ISSUE_00518,3.0,Ganapathy,Garbage Dump,Unknown,2023-08-31,2023-08
+ISSUE_00519,6.0,Saibaba Colony,Unknown,Medium,2024-06-25,2024-06
+ISSUE_00520,12.0,Gandhipuram,Garbage Dump,High,2025-01-27,2025-01
+ISSUE_00521,8.0,Saibaba Colony,Pothole,Unknown,2023-05-23,2023-05
+ISSUE_00522,8.0,Ganapathy,Water Pipe Burst,Unknown,2023-09-15,2023-09
+ISSUE_00523,12.0,Unknown,Unknown,Unknown,2023-10-07,2023-10
+ISSUE_00524,12.0,Ganapathy,Unknown,Unknown,2023-03-25,2023-03
+ISSUE_00525,18.0,Unknown,Drainage Leakage,Low,2023-08-04,2023-08
+ISSUE_00526,12.0,Unknown,Garbage Dump,Unknown,2024-08-13,2024-08
+ISSUE_00527,5.0,Podanur,Drainage Leakage,Unknown,2025-04-21,2025-04
+ISSUE_00528,12.0,Podanur,Pothole,Medium,2024-09-28,2024-09
+ISSUE_00529,12.0,Saibaba Colony,Drainage Leakage,Low,2024-03-14,2024-03
+ISSUE_00530,12.0,Ukkadam,Drainage Leakage,High,2025-06-12,2025-06
+ISSUE_00531,1.0,Peelamedu,Drainage Leakage,High,2025-05-02,2025-05
+ISSUE_00532,12.0,Unknown,Unknown,High,2024-09-05,2024-09
+ISSUE_00533,12.0,Ganapathy,Garbage Dump,Medium,2023-12-06,2023-12
+ISSUE_00534,12.0,Ganapathy,Street Light Issue,Unknown,2024-10-13,2024-10
+ISSUE_00535,12.0,Unknown,Water Pipe Burst,High,2024-04-24,2024-04
+ISSUE_00536,3.0,Unknown,Drainage Leakage,Medium,2023-01-11,2023-01
+ISSUE_00537,17.0,Ganapathy,Unknown,Unknown,2024-04-14,2024-04
+ISSUE_00538,12.0,Ganapathy,Drainage Leakage,Unknown,2024-08-01,2024-08
+ISSUE_00539,6.0,Koundampalayam,Street Light Issue,Unknown,2023-07-02,2023-07
+ISSUE_00540,12.0,Peelamedu,Street Light Issue,Medium,2023-01-13,2023-01
+ISSUE_00541,12.0,Ganapathy,Garbage Dump,High,2025-06-28,2025-06
+ISSUE_00542,17.0,Koundampalayam,Drainage Leakage,Unknown,2024-10-16,2024-10
+ISSUE_00543,12.0,Ukkadam,Unknown,Unknown,2024-04-20,2024-04
+ISSUE_00544,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-06-05,2024-06
+ISSUE_00545,12.0,Gandhipuram,Pothole,Unknown,2024-07-05,2024-07
+ISSUE_00546,9.0,Koundampalayam,Garbage Dump,High,2023-06-02,2023-06
+ISSUE_00547,16.0,Ukkadam,Unknown,High,2025-02-07,2025-02
+ISSUE_00548,12.0,Unknown,Unknown,Low,2024-10-08,2024-10
+ISSUE_00549,12.0,Ganapathy,Unknown,Medium,2023-05-11,2023-05
+ISSUE_00550,4.0,RS Puram,Unknown,High,2024-03-28,2024-03
+ISSUE_00551,12.0,Ukkadam,Pothole,Unknown,2024-10-12,2024-10
+ISSUE_00552,8.0,Ukkadam,Water Pipe Burst,Unknown,2025-02-22,2025-02
+ISSUE_00553,12.0,Peelamedu,Unknown,Medium,2023-11-06,2023-11
+ISSUE_00554,12.0,Unknown,Garbage Dump,Low,2023-10-24,2023-10
+ISSUE_00555,2.0,Ganapathy,Street Light Issue,High,2025-04-17,2025-04
+ISSUE_00556,12.0,Peelamedu,Street Light Issue,Low,2023-05-17,2023-05
+ISSUE_00557,12.0,Peelamedu,Garbage Dump,Unknown,2024-01-28,2024-01
+ISSUE_00558,12.0,Podanur,Water Pipe Burst,Medium,2023-02-26,2023-02
+ISSUE_00559,16.0,Ukkadam,Water Pipe Burst,High,2025-02-11,2025-02
+ISSUE_00560,12.0,Gandhipuram,Garbage Dump,Unknown,2023-10-15,2023-10
+ISSUE_00561,17.0,Unknown,Unknown,Unknown,2025-04-16,2025-04
+ISSUE_00562,1.0,Ukkadam,Garbage Dump,Unknown,2023-02-04,2023-02
+ISSUE_00563,16.0,Saibaba Colony,Street Light Issue,Medium,2024-04-09,2024-04
+ISSUE_00564,12.0,Podanur,Street Light Issue,Unknown,2024-03-18,2024-03
+ISSUE_00565,12.0,Unknown,Water Pipe Burst,Unknown,2023-02-19,2023-02
+ISSUE_00566,12.0,Gandhipuram,Garbage Dump,High,2024-03-15,2024-03
+ISSUE_00567,4.0,Unknown,Street Light Issue,Unknown,2023-09-22,2023-09
+ISSUE_00568,12.0,Gandhipuram,Unknown,Medium,2025-02-28,2025-02
+ISSUE_00569,16.0,Koundampalayam,Garbage Dump,Medium,2023-03-09,2023-03
+ISSUE_00570,12.0,Unknown,Street Light Issue,Unknown,2023-12-05,2023-12
+ISSUE_00571,9.0,Gandhipuram,Pothole,Unknown,2024-06-02,2024-06
+ISSUE_00572,12.0,RS Puram,Unknown,Unknown,2024-04-03,2024-04
+ISSUE_00573,10.0,Unknown,Unknown,Unknown,2023-04-16,2023-04
+ISSUE_00574,12.0,RS Puram,Water Pipe Burst,High,2023-11-21,2023-11
+ISSUE_00575,18.0,Unknown,Garbage Dump,Low,2024-02-10,2024-02
+ISSUE_00576,12.0,Ganapathy,Unknown,Medium,2025-05-02,2025-05
+ISSUE_00577,12.0,Koundampalayam,Water Pipe Burst,Unknown,2025-05-04,2025-05
+ISSUE_00578,8.0,Ganapathy,Street Light Issue,High,2024-12-23,2024-12
+ISSUE_00579,12.0,Ukkadam,Unknown,High,2023-11-18,2023-11
+ISSUE_00580,12.0,RS Puram,Garbage Dump,Low,2025-05-20,2025-05
+ISSUE_00581,12.0,Unknown,Garbage Dump,High,2025-06-02,2025-06
+ISSUE_00582,12.0,RS Puram,Pothole,Unknown,2024-01-20,2024-01
+ISSUE_00583,11.0,Unknown,Garbage Dump,Unknown,2024-07-11,2024-07
+ISSUE_00584,4.0,Ukkadam,Unknown,Unknown,2023-03-29,2023-03
+ISSUE_00585,12.0,Peelamedu,Drainage Leakage,Low,2023-09-03,2023-09
+ISSUE_00586,2.0,Unknown,Unknown,Unknown,2024-09-22,2024-09
+ISSUE_00587,12.0,Peelamedu,Unknown,Low,2024-01-12,2024-01
+ISSUE_00588,3.0,Saibaba Colony,Unknown,High,2024-04-04,2024-04
+ISSUE_00589,12.0,Unknown,Garbage Dump,Unknown,2024-12-28,2024-12
+ISSUE_00590,12.0,Ukkadam,Unknown,Unknown,2023-06-17,2023-06
+ISSUE_00591,12.0,Saibaba Colony,Unknown,Low,2024-10-07,2024-10
+ISSUE_00592,11.0,Ganapathy,Garbage Dump,Unknown,2023-07-13,2023-07
+ISSUE_00593,12.0,RS Puram,Drainage Leakage,Medium,2023-08-22,2023-08
+ISSUE_00594,12.0,RS Puram,Unknown,Unknown,2023-10-28,2023-10
+ISSUE_00595,7.0,Gandhipuram,Street Light Issue,Medium,2024-05-11,2024-05
+ISSUE_00596,12.0,Saibaba Colony,Garbage Dump,Unknown,2024-10-09,2024-10
+ISSUE_00597,12.0,Gandhipuram,Pothole,Low,2024-07-03,2024-07
+ISSUE_00598,12.0,Saibaba Colony,Unknown,Low,2025-05-25,2025-05
+ISSUE_00599,4.0,Koundampalayam,Pothole,Medium,2023-07-31,2023-07
+ISSUE_00600,15.0,Unknown,Drainage Leakage,Medium,2024-06-23,2024-06
+ISSUE_00601,12.0,Saibaba Colony,Water Pipe Burst,High,2023-01-10,2023-01
+ISSUE_00602,12.0,Ganapathy,Pothole,Low,2025-03-15,2025-03
+ISSUE_00603,12.0,Koundampalayam,Unknown,Unknown,2025-06-26,2025-06
+ISSUE_00604,12.0,Ganapathy,Water Pipe Burst,High,2023-07-08,2023-07
+ISSUE_00605,7.0,Unknown,Water Pipe Burst,Medium,2024-05-22,2024-05
+ISSUE_00606,12.0,Saibaba Colony,Drainage Leakage,Unknown,2024-04-14,2024-04
+ISSUE_00607,12.0,Unknown,Unknown,Medium,2025-06-28,2025-06
+ISSUE_00608,12.0,Koundampalayam,Pothole,Unknown,2025-05-03,2025-05
+ISSUE_00609,12.0,RS Puram,Water Pipe Burst,Medium,2025-06-16,2025-06
+ISSUE_00610,11.0,Ganapathy,Unknown,Unknown,2024-01-02,2024-01
+ISSUE_00611,12.0,RS Puram,Garbage Dump,High,2024-11-27,2024-11
+ISSUE_00612,12.0,Podanur,Pothole,Medium,2024-12-19,2024-12
+ISSUE_00613,12.0,Unknown,Unknown,Low,2025-06-30,2025-06
+ISSUE_00614,15.0,Ganapathy,Pothole,Unknown,2025-05-23,2025-05
+ISSUE_00615,20.0,Gandhipuram,Drainage Leakage,Low,2023-08-12,2023-08
+ISSUE_00616,12.0,Ganapathy,Pothole,Unknown,2024-07-08,2024-07
+ISSUE_00617,2.0,Peelamedu,Unknown,Unknown,2025-05-31,2025-05
+ISSUE_00618,12.0,Gandhipuram,Water Pipe Burst,High,2024-03-14,2024-03
+ISSUE_00619,12.0,Saibaba Colony,Water Pipe Burst,Low,2024-03-02,2024-03
+ISSUE_00620,3.0,Saibaba Colony,Water Pipe Burst,High,2025-06-01,2025-06
+ISSUE_00621,12.0,Podanur,Unknown,Medium,2023-05-26,2023-05
+ISSUE_00622,12.0,Unknown,Water Pipe Burst,Unknown,2024-05-10,2024-05
+ISSUE_00623,12.0,Unknown,Garbage Dump,Unknown,2024-11-28,2024-11
+ISSUE_00624,12.0,RS Puram,Unknown,Unknown,2025-07-12,2025-07
+ISSUE_00625,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2024-08-15,2024-08
+ISSUE_00626,12.0,Ganapathy,Garbage Dump,Low,2025-04-15,2025-04
+ISSUE_00627,1.0,Ganapathy,Street Light Issue,High,2023-03-31,2023-03
+ISSUE_00628,12.0,Ganapathy,Water Pipe Burst,Medium,2024-12-15,2024-12
+ISSUE_00629,12.0,Saibaba Colony,Drainage Leakage,Low,2025-02-08,2025-02
+ISSUE_00630,11.0,Podanur,Drainage Leakage,High,2024-12-25,2024-12
+ISSUE_00631,12.0,Ganapathy,Pothole,High,2025-03-29,2025-03
+ISSUE_00632,12.0,Ukkadam,Unknown,Medium,2024-08-15,2024-08
+ISSUE_00633,12.0,Unknown,Street Light Issue,Medium,2023-10-18,2023-10
+ISSUE_00634,19.0,Unknown,Pothole,High,2024-10-06,2024-10
+ISSUE_00635,13.0,Peelamedu,Garbage Dump,Low,2025-07-11,2025-07
+ISSUE_00636,9.0,Ganapathy,Unknown,High,2023-11-04,2023-11
+ISSUE_00637,12.0,Unknown,Unknown,Unknown,2024-03-13,2024-03
+ISSUE_00638,13.0,Unknown,Drainage Leakage,High,2023-02-18,2023-02
+ISSUE_00639,16.0,Unknown,Unknown,Medium,2025-05-06,2025-05
+ISSUE_00640,12.0,RS Puram,Garbage Dump,High,2025-06-22,2025-06
+ISSUE_00641,12.0,Unknown,Street Light Issue,High,2023-01-04,2023-01
+ISSUE_00642,2.0,Peelamedu,Garbage Dump,Low,2023-02-13,2023-02
+ISSUE_00643,8.0,Peelamedu,Pothole,Medium,2024-01-31,2024-01
+ISSUE_00644,6.0,Gandhipuram,Drainage Leakage,Unknown,2023-01-29,2023-01
+ISSUE_00645,11.0,RS Puram,Drainage Leakage,Medium,2024-01-29,2024-01
+ISSUE_00646,14.0,Ganapathy,Unknown,Low,2024-01-23,2024-01
+ISSUE_00647,12.0,Gandhipuram,Unknown,Low,2024-01-11,2024-01
+ISSUE_00648,12.0,Unknown,Unknown,Medium,2024-10-20,2024-10
+ISSUE_00649,12.0,Ukkadam,Unknown,High,2024-11-24,2024-11
+ISSUE_00650,12.0,Gandhipuram,Unknown,Low,2023-10-14,2023-10
+ISSUE_00651,12.0,Unknown,Drainage Leakage,High,2023-03-10,2023-03
+ISSUE_00652,12.0,Saibaba Colony,Pothole,Unknown,2023-05-15,2023-05
+ISSUE_00653,12.0,Koundampalayam,Drainage Leakage,Low,2025-04-08,2025-04
+ISSUE_00654,20.0,Ukkadam,Drainage Leakage,Unknown,2023-02-02,2023-02
+ISSUE_00655,12.0,Podanur,Unknown,Low,2024-06-19,2024-06
+ISSUE_00656,12.0,RS Puram,Garbage Dump,Medium,2023-10-22,2023-10
+ISSUE_00657,12.0,Unknown,Drainage Leakage,High,2024-08-28,2024-08
+ISSUE_00658,1.0,Unknown,Drainage Leakage,High,2024-06-29,2024-06
+ISSUE_00659,12.0,Ganapathy,Street Light Issue,Unknown,2024-01-04,2024-01
+ISSUE_00660,12.0,Unknown,Water Pipe Burst,Unknown,2024-03-16,2024-03
+ISSUE_00661,19.0,Podanur,Pothole,Unknown,2024-08-22,2024-08
+ISSUE_00662,20.0,Unknown,Garbage Dump,Low,2025-01-29,2025-01
+ISSUE_00663,3.0,Unknown,Pothole,Medium,2023-11-11,2023-11
+ISSUE_00664,17.0,Koundampalayam,Unknown,Unknown,2025-01-28,2025-01
+ISSUE_00665,14.0,Gandhipuram,Drainage Leakage,Medium,2025-01-05,2025-01
+ISSUE_00666,19.0,Ganapathy,Drainage Leakage,Medium,2023-04-04,2023-04
+ISSUE_00667,12.0,Gandhipuram,Drainage Leakage,High,2025-02-11,2025-02
+ISSUE_00668,12.0,Ganapathy,Drainage Leakage,Unknown,2024-08-23,2024-08
+ISSUE_00669,15.0,Unknown,Pothole,Medium,2024-12-24,2024-12
+ISSUE_00670,12.0,Gandhipuram,Street Light Issue,Medium,2023-02-20,2023-02
+ISSUE_00671,12.0,Podanur,Unknown,Low,2023-11-18,2023-11
+ISSUE_00672,12.0,RS Puram,Pothole,Unknown,2024-01-06,2024-01
+ISSUE_00673,12.0,Ukkadam,Pothole,Medium,2024-04-25,2024-04
+ISSUE_00674,12.0,Peelamedu,Water Pipe Burst,Unknown,2024-11-08,2024-11
+ISSUE_00675,12.0,Ukkadam,Pothole,Low,2023-05-15,2023-05
+ISSUE_00676,10.0,Koundampalayam,Street Light Issue,Unknown,2024-12-24,2024-12
+ISSUE_00677,1.0,Koundampalayam,Unknown,Medium,2023-08-23,2023-08
+ISSUE_00678,12.0,Ukkadam,Pothole,Unknown,2024-09-02,2024-09
+ISSUE_00679,15.0,Peelamedu,Garbage Dump,Unknown,2025-03-18,2025-03
+ISSUE_00680,7.0,Ukkadam,Garbage Dump,Unknown,2025-05-20,2025-05
+ISSUE_00681,11.0,Saibaba Colony,Pothole,Unknown,2023-06-04,2023-06
+ISSUE_00682,13.0,Peelamedu,Drainage Leakage,Medium,2025-07-08,2025-07
+ISSUE_00683,12.0,Koundampalayam,Unknown,Unknown,2023-10-26,2023-10
+ISSUE_00684,12.0,Gandhipuram,Street Light Issue,Low,2025-03-29,2025-03
+ISSUE_00685,12.0,Podanur,Unknown,Medium,2025-04-03,2025-04
+ISSUE_00686,12.0,Gandhipuram,Unknown,Unknown,2023-03-30,2023-03
+ISSUE_00687,12.0,Saibaba Colony,Pothole,Medium,2023-04-15,2023-04
+ISSUE_00688,12.0,RS Puram,Drainage Leakage,Low,2025-01-09,2025-01
+ISSUE_00689,12.0,Unknown,Pothole,High,2023-02-09,2023-02
+ISSUE_00690,13.0,Gandhipuram,Garbage Dump,Medium,2024-02-28,2024-02
+ISSUE_00691,12.0,RS Puram,Drainage Leakage,Low,2025-06-04,2025-06
+ISSUE_00692,4.0,Peelamedu,Water Pipe Burst,Unknown,2023-11-15,2023-11
+ISSUE_00693,12.0,Unknown,Unknown,Medium,2023-10-04,2023-10
+ISSUE_00694,9.0,Koundampalayam,Drainage Leakage,High,2023-10-30,2023-10
+ISSUE_00695,7.0,Peelamedu,Water Pipe Burst,Unknown,2023-12-18,2023-12
+ISSUE_00696,12.0,Podanur,Drainage Leakage,Unknown,2024-09-13,2024-09
+ISSUE_00697,19.0,Koundampalayam,Street Light Issue,Unknown,2024-01-27,2024-01
+ISSUE_00698,12.0,Gandhipuram,Garbage Dump,Medium,2025-02-27,2025-02
+ISSUE_00699,12.0,Gandhipuram,Drainage Leakage,Unknown,2024-04-21,2024-04
+ISSUE_00700,5.0,RS Puram,Unknown,Unknown,2023-01-05,2023-01
+ISSUE_00701,12.0,Koundampalayam,Street Light Issue,Low,2023-09-22,2023-09
+ISSUE_00702,11.0,Gandhipuram,Garbage Dump,Unknown,2024-12-24,2024-12
+ISSUE_00703,20.0,Unknown,Street Light Issue,Unknown,2023-04-20,2023-04
+ISSUE_00704,12.0,Koundampalayam,Garbage Dump,Unknown,2023-02-01,2023-02
+ISSUE_00705,12.0,Peelamedu,Unknown,Unknown,2025-02-01,2025-02
+ISSUE_00706,12.0,RS Puram,Pothole,High,2024-12-18,2024-12
+ISSUE_00707,12.0,Koundampalayam,Water Pipe Burst,Medium,2023-06-12,2023-06
+ISSUE_00708,7.0,Ukkadam,Street Light Issue,Unknown,2025-05-22,2025-05
+ISSUE_00709,6.0,RS Puram,Water Pipe Burst,Medium,2023-10-24,2023-10
+ISSUE_00710,12.0,Saibaba Colony,Garbage Dump,Medium,2024-10-22,2024-10
+ISSUE_00711,9.0,Peelamedu,Water Pipe Burst,Unknown,2023-07-28,2023-07
+ISSUE_00712,13.0,Ganapathy,Drainage Leakage,Unknown,2023-12-11,2023-12
+ISSUE_00713,9.0,Peelamedu,Garbage Dump,Unknown,2024-10-09,2024-10
+ISSUE_00714,1.0,Ukkadam,Pothole,Unknown,2024-12-08,2024-12
+ISSUE_00715,12.0,Unknown,Unknown,Low,2023-03-01,2023-03
+ISSUE_00716,16.0,Podanur,Unknown,Low,2025-01-13,2025-01
+ISSUE_00717,12.0,Unknown,Drainage Leakage,Unknown,2024-10-12,2024-10
+ISSUE_00718,12.0,RS Puram,Garbage Dump,Low,2023-06-11,2023-06
+ISSUE_00719,12.0,Peelamedu,Street Light Issue,Unknown,2024-07-28,2024-07
+ISSUE_00720,4.0,Unknown,Pothole,Unknown,2023-08-04,2023-08
+ISSUE_00721,12.0,Peelamedu,Drainage Leakage,Medium,2025-05-03,2025-05
+ISSUE_00722,12.0,Unknown,Water Pipe Burst,Unknown,2024-12-18,2024-12
+ISSUE_00723,2.0,Unknown,Drainage Leakage,Unknown,2024-03-23,2024-03
+ISSUE_00724,12.0,Koundampalayam,Street Light Issue,Unknown,2023-09-23,2023-09
+ISSUE_00725,10.0,Koundampalayam,Drainage Leakage,Low,2023-10-27,2023-10
+ISSUE_00726,12.0,Koundampalayam,Unknown,Unknown,2024-06-25,2024-06
+ISSUE_00727,12.0,Unknown,Drainage Leakage,Low,2024-01-14,2024-01
+ISSUE_00728,12.0,Unknown,Unknown,Medium,2025-02-04,2025-02
+ISSUE_00729,9.0,Koundampalayam,Unknown,Low,2024-06-16,2024-06
+ISSUE_00730,6.0,Unknown,Drainage Leakage,Unknown,2023-07-29,2023-07
+ISSUE_00731,12.0,Podanur,Pothole,High,2023-12-25,2023-12
+ISSUE_00732,12.0,RS Puram,Unknown,Medium,2025-05-30,2025-05
+ISSUE_00733,2.0,Unknown,Unknown,High,2024-02-12,2024-02
+ISSUE_00734,10.0,Gandhipuram,Unknown,Low,2023-09-23,2023-09
+ISSUE_00735,12.0,Unknown,Drainage Leakage,Unknown,2024-03-25,2024-03
+ISSUE_00736,12.0,Gandhipuram,Water Pipe Burst,Unknown,2025-05-30,2025-05
+ISSUE_00737,12.0,Unknown,Street Light Issue,Unknown,2023-11-01,2023-11
+ISSUE_00738,2.0,Ganapathy,Unknown,Unknown,2024-09-23,2024-09
+ISSUE_00739,12.0,Saibaba Colony,Street Light Issue,Low,2023-07-10,2023-07
+ISSUE_00740,1.0,RS Puram,Pothole,Unknown,2023-01-29,2023-01
+ISSUE_00741,4.0,Unknown,Street Light Issue,High,2024-01-17,2024-01
+ISSUE_00742,20.0,Saibaba Colony,Unknown,Medium,2024-01-18,2024-01
+ISSUE_00743,12.0,Unknown,Unknown,High,2025-01-03,2025-01
+ISSUE_00744,12.0,Unknown,Garbage Dump,Unknown,2024-07-20,2024-07
+ISSUE_00745,12.0,Unknown,Drainage Leakage,Unknown,2023-04-20,2023-04
+ISSUE_00746,5.0,RS Puram,Water Pipe Burst,Medium,2025-07-13,2025-07
+ISSUE_00747,10.0,RS Puram,Water Pipe Burst,Low,2023-11-18,2023-11
+ISSUE_00748,12.0,Unknown,Drainage Leakage,Low,2023-02-07,2023-02
+ISSUE_00749,5.0,Saibaba Colony,Street Light Issue,Low,2024-08-20,2024-08
+ISSUE_00750,7.0,RS Puram,Drainage Leakage,Unknown,2024-08-30,2024-08
+ISSUE_00751,12.0,Ukkadam,Unknown,Unknown,2023-05-01,2023-05
+ISSUE_00752,6.0,Koundampalayam,Unknown,Medium,2024-07-24,2024-07
+ISSUE_00753,6.0,Gandhipuram,Unknown,Unknown,2023-06-18,2023-06
+ISSUE_00754,12.0,Saibaba Colony,Pothole,High,2023-07-17,2023-07
+ISSUE_00755,17.0,Saibaba Colony,Drainage Leakage,High,2024-06-09,2024-06
+ISSUE_00756,18.0,Ukkadam,Unknown,Unknown,2025-02-07,2025-02
+ISSUE_00757,6.0,Saibaba Colony,Garbage Dump,Unknown,2023-11-13,2023-11
+ISSUE_00758,12.0,Gandhipuram,Unknown,High,2023-05-06,2023-05
+ISSUE_00759,2.0,Podanur,Unknown,Medium,2023-12-28,2023-12
+ISSUE_00760,18.0,Ganapathy,Unknown,Unknown,2023-07-22,2023-07
+ISSUE_00761,12.0,RS Puram,Unknown,Unknown,2023-10-20,2023-10
+ISSUE_00762,12.0,Ukkadam,Garbage Dump,Unknown,2023-09-17,2023-09
+ISSUE_00763,12.0,Ganapathy,Unknown,High,2024-06-15,2024-06
+ISSUE_00764,5.0,RS Puram,Drainage Leakage,Unknown,2023-04-29,2023-04
+ISSUE_00765,12.0,Ganapathy,Pothole,Unknown,2025-05-29,2025-05
+ISSUE_00766,11.0,Saibaba Colony,Unknown,Unknown,2025-03-04,2025-03
+ISSUE_00767,12.0,Unknown,Unknown,Medium,2024-06-06,2024-06
+ISSUE_00768,12.0,Saibaba Colony,Drainage Leakage,High,2025-06-18,2025-06
+ISSUE_00769,12.0,RS Puram,Street Light Issue,Unknown,2025-07-20,2025-07
+ISSUE_00770,12.0,Koundampalayam,Drainage Leakage,Medium,2025-01-29,2025-01
+ISSUE_00771,12.0,Gandhipuram,Pothole,Medium,2023-05-13,2023-05
+ISSUE_00772,13.0,Peelamedu,Street Light Issue,Low,2024-01-09,2024-01
+ISSUE_00773,12.0,Peelamedu,Garbage Dump,Unknown,2024-10-31,2024-10
+ISSUE_00774,16.0,Koundampalayam,Unknown,High,2025-02-11,2025-02
+ISSUE_00775,12.0,Koundampalayam,Pothole,Unknown,2024-10-02,2024-10
+ISSUE_00776,12.0,Unknown,Unknown,Unknown,2023-07-01,2023-07
+ISSUE_00777,18.0,RS Puram,Pothole,High,2023-06-22,2023-06
+ISSUE_00778,1.0,Koundampalayam,Unknown,High,2023-07-22,2023-07
+ISSUE_00779,12.0,RS Puram,Pothole,Unknown,2024-11-29,2024-11
+ISSUE_00780,12.0,Unknown,Drainage Leakage,Low,2023-03-24,2023-03
+ISSUE_00781,2.0,RS Puram,Unknown,Low,2024-09-20,2024-09
+ISSUE_00782,14.0,Unknown,Garbage Dump,Unknown,2024-05-25,2024-05
+ISSUE_00783,4.0,Koundampalayam,Unknown,Low,2024-06-15,2024-06
+ISSUE_00784,5.0,Podanur,Unknown,Unknown,2024-02-04,2024-02
+ISSUE_00785,12.0,Gandhipuram,Garbage Dump,High,2023-10-09,2023-10
+ISSUE_00786,6.0,Peelamedu,Unknown,Medium,2024-04-06,2024-04
+ISSUE_00787,9.0,Saibaba Colony,Street Light Issue,High,2023-10-05,2023-10
+ISSUE_00788,12.0,Saibaba Colony,Pothole,Unknown,2023-10-30,2023-10
+ISSUE_00789,12.0,Gandhipuram,Unknown,Medium,2025-01-12,2025-01
+ISSUE_00790,12.0,Podanur,Drainage Leakage,High,2025-06-11,2025-06
+ISSUE_00791,3.0,Saibaba Colony,Drainage Leakage,Unknown,2023-12-02,2023-12
+ISSUE_00792,6.0,RS Puram,Pothole,Low,2023-02-22,2023-02
+ISSUE_00793,17.0,Unknown,Garbage Dump,Unknown,2023-11-23,2023-11
+ISSUE_00794,19.0,Peelamedu,Garbage Dump,Unknown,2024-05-14,2024-05
+ISSUE_00795,12.0,Ukkadam,Garbage Dump,Unknown,2025-07-01,2025-07
+ISSUE_00796,12.0,RS Puram,Water Pipe Burst,Medium,2024-03-31,2024-03
+ISSUE_00797,12.0,Unknown,Unknown,Unknown,2023-04-16,2023-04
+ISSUE_00798,19.0,Podanur,Drainage Leakage,Unknown,2024-10-21,2024-10
+ISSUE_00799,14.0,Unknown,Water Pipe Burst,Unknown,2024-03-11,2024-03
+ISSUE_00800,12.0,Podanur,Water Pipe Burst,Unknown,2025-05-06,2025-05
+ISSUE_00801,12.0,Saibaba Colony,Garbage Dump,Low,2023-11-25,2023-11
+ISSUE_00802,12.0,Ganapathy,Street Light Issue,High,2023-07-08,2023-07
+ISSUE_00803,4.0,Peelamedu,Pothole,Unknown,2023-10-26,2023-10
+ISSUE_00804,10.0,Peelamedu,Drainage Leakage,Unknown,2023-02-27,2023-02
+ISSUE_00805,6.0,Gandhipuram,Unknown,Unknown,2024-03-13,2024-03
+ISSUE_00806,6.0,Saibaba Colony,Unknown,Low,2024-12-03,2024-12
+ISSUE_00807,1.0,Koundampalayam,Unknown,Medium,2023-04-08,2023-04
+ISSUE_00808,3.0,Podanur,Unknown,Unknown,2024-05-21,2024-05
+ISSUE_00809,19.0,Koundampalayam,Pothole,Unknown,2025-06-22,2025-06
+ISSUE_00810,11.0,Koundampalayam,Unknown,High,2025-04-28,2025-04
+ISSUE_00811,19.0,Koundampalayam,Water Pipe Burst,Unknown,2024-11-18,2024-11
+ISSUE_00812,20.0,Saibaba Colony,Drainage Leakage,High,2024-08-29,2024-08
+ISSUE_00813,12.0,Saibaba Colony,Unknown,Medium,2023-04-15,2023-04
+ISSUE_00814,12.0,Peelamedu,Water Pipe Burst,Unknown,2025-02-19,2025-02
+ISSUE_00815,15.0,Gandhipuram,Drainage Leakage,Unknown,2024-12-04,2024-12
+ISSUE_00816,9.0,Ganapathy,Drainage Leakage,High,2023-09-11,2023-09
+ISSUE_00817,1.0,Ukkadam,Street Light Issue,Unknown,2023-08-16,2023-08
+ISSUE_00818,5.0,RS Puram,Water Pipe Burst,Medium,2024-01-02,2024-01
+ISSUE_00819,14.0,Ukkadam,Pothole,Unknown,2023-11-24,2023-11
+ISSUE_00820,19.0,Unknown,Garbage Dump,High,2024-06-19,2024-06
+ISSUE_00821,12.0,Podanur,Drainage Leakage,Unknown,2025-06-29,2025-06
+ISSUE_00822,8.0,Unknown,Garbage Dump,High,2023-06-29,2023-06
+ISSUE_00823,12.0,Saibaba Colony,Drainage Leakage,Low,2024-10-03,2024-10
+ISSUE_00824,16.0,Koundampalayam,Pothole,Low,2024-06-06,2024-06
+ISSUE_00825,1.0,Peelamedu,Unknown,Unknown,2025-06-12,2025-06
+ISSUE_00826,12.0,Peelamedu,Pothole,Low,2024-07-24,2024-07
+ISSUE_00827,5.0,Unknown,Unknown,High,2025-02-05,2025-02
+ISSUE_00828,12.0,Saibaba Colony,Garbage Dump,Medium,2024-06-27,2024-06
+ISSUE_00829,12.0,Ukkadam,Pothole,Medium,2023-09-30,2023-09
+ISSUE_00830,14.0,Gandhipuram,Garbage Dump,Low,2025-02-13,2025-02
+ISSUE_00831,12.0,Unknown,Pothole,High,2023-03-08,2023-03
+ISSUE_00832,11.0,Ganapathy,Pothole,High,2024-04-18,2024-04
+ISSUE_00833,12.0,Ganapathy,Street Light Issue,Unknown,2024-05-10,2024-05
+ISSUE_00834,9.0,Podanur,Street Light Issue,Medium,2023-09-26,2023-09
+ISSUE_00835,12.0,Saibaba Colony,Unknown,Low,2024-01-21,2024-01
+ISSUE_00836,12.0,Koundampalayam,Water Pipe Burst,High,2025-07-06,2025-07
+ISSUE_00837,12.0,Ukkadam,Water Pipe Burst,Unknown,2024-03-09,2024-03
+ISSUE_00838,12.0,Ganapathy,Pothole,Medium,2024-09-07,2024-09
+ISSUE_00839,12.0,Koundampalayam,Garbage Dump,High,2025-06-26,2025-06
+ISSUE_00840,12.0,RS Puram,Drainage Leakage,Unknown,2024-06-06,2024-06
+ISSUE_00841,12.0,Unknown,Unknown,Medium,2024-01-03,2024-01
+ISSUE_00842,12.0,Unknown,Drainage Leakage,High,2023-12-11,2023-12
+ISSUE_00843,19.0,Unknown,Pothole,Unknown,2024-10-29,2024-10
+ISSUE_00844,1.0,Unknown,Pothole,Unknown,2024-07-05,2024-07
+ISSUE_00845,6.0,Unknown,Drainage Leakage,High,2025-01-21,2025-01
+ISSUE_00846,9.0,Saibaba Colony,Street Light Issue,Unknown,2023-12-28,2023-12
+ISSUE_00847,12.0,RS Puram,Street Light Issue,Low,2023-07-02,2023-07
+ISSUE_00848,13.0,Koundampalayam,Garbage Dump,Medium,2023-10-07,2023-10
+ISSUE_00849,12.0,Ganapathy,Garbage Dump,Unknown,2024-02-19,2024-02
+ISSUE_00850,12.0,Peelamedu,Garbage Dump,Unknown,2023-04-07,2023-04
+ISSUE_00851,14.0,Gandhipuram,Water Pipe Burst,Unknown,2024-02-20,2024-02
+ISSUE_00852,9.0,Podanur,Garbage Dump,Unknown,2023-02-11,2023-02
+ISSUE_00853,12.0,Unknown,Unknown,High,2025-06-27,2025-06
+ISSUE_00854,12.0,Ganapathy,Pothole,High,2023-10-23,2023-10
+ISSUE_00855,13.0,RS Puram,Drainage Leakage,Unknown,2024-01-17,2024-01
+ISSUE_00856,12.0,Koundampalayam,Drainage Leakage,High,2023-04-21,2023-04
+ISSUE_00857,11.0,Ukkadam,Drainage Leakage,Unknown,2025-06-16,2025-06
+ISSUE_00858,4.0,Unknown,Street Light Issue,Unknown,2024-04-19,2024-04
+ISSUE_00859,9.0,Unknown,Pothole,High,2023-01-19,2023-01
+ISSUE_00860,7.0,Unknown,Garbage Dump,Low,2023-05-22,2023-05
+ISSUE_00861,12.0,Saibaba Colony,Water Pipe Burst,Unknown,2025-01-08,2025-01
+ISSUE_00862,12.0,Unknown,Water Pipe Burst,Unknown,2023-10-23,2023-10
+ISSUE_00863,12.0,Gandhipuram,Water Pipe Burst,High,2024-03-15,2024-03
+ISSUE_00864,12.0,Unknown,Street Light Issue,Unknown,2024-08-21,2024-08
+ISSUE_00865,2.0,Ukkadam,Street Light Issue,Unknown,2024-04-09,2024-04
+ISSUE_00866,12.0,RS Puram,Water Pipe Burst,Low,2025-03-29,2025-03
+ISSUE_00867,12.0,Koundampalayam,Unknown,Medium,2023-11-22,2023-11
+ISSUE_00868,17.0,Koundampalayam,Garbage Dump,Medium,2024-12-21,2024-12
+ISSUE_00869,12.0,Saibaba Colony,Street Light Issue,Unknown,2023-01-24,2023-01
+ISSUE_00870,8.0,Unknown,Pothole,Unknown,2024-03-19,2024-03
+ISSUE_00871,12.0,Podanur,Unknown,Unknown,2023-12-06,2023-12
+ISSUE_00872,12.0,Podanur,Pothole,Medium,2023-12-02,2023-12
+ISSUE_00873,12.0,Peelamedu,Garbage Dump,Unknown,2023-04-26,2023-04
+ISSUE_00874,15.0,Ukkadam,Pothole,Unknown,2024-05-13,2024-05
+ISSUE_00875,12.0,Peelamedu,Unknown,Unknown,2025-05-03,2025-05
+ISSUE_00876,20.0,Unknown,Water Pipe Burst,Low,2024-09-19,2024-09
+ISSUE_00877,12.0,Ukkadam,Unknown,Low,2024-11-23,2024-11
+ISSUE_00878,12.0,Ukkadam,Water Pipe Burst,Medium,2024-08-13,2024-08
+ISSUE_00879,11.0,Unknown,Unknown,Low,2023-06-08,2023-06
+ISSUE_00880,12.0,Gandhipuram,Unknown,Unknown,2025-03-21,2025-03
+ISSUE_00881,12.0,Peelamedu,Unknown,Medium,2023-02-19,2023-02
+ISSUE_00882,13.0,Unknown,Water Pipe Burst,Unknown,2025-07-16,2025-07
+ISSUE_00883,12.0,Saibaba Colony,Unknown,Unknown,2024-10-11,2024-10
+ISSUE_00884,11.0,Unknown,Garbage Dump,Unknown,2023-08-18,2023-08
+ISSUE_00885,14.0,Saibaba Colony,Drainage Leakage,Unknown,2023-05-11,2023-05
+ISSUE_00886,16.0,Koundampalayam,Pothole,Low,2024-02-03,2024-02
+ISSUE_00887,13.0,Podanur,Garbage Dump,Unknown,2024-07-16,2024-07
+ISSUE_00888,10.0,Ukkadam,Unknown,Unknown,2024-01-23,2024-01
+ISSUE_00889,12.0,Podanur,Water Pipe Burst,High,2023-04-18,2023-04
+ISSUE_00890,12.0,Unknown,Water Pipe Burst,Unknown,2023-11-22,2023-11
+ISSUE_00891,12.0,Unknown,Drainage Leakage,Low,2024-12-12,2024-12
+ISSUE_00892,12.0,Podanur,Unknown,Low,2023-12-27,2023-12
+ISSUE_00893,10.0,Ukkadam,Street Light Issue,High,2025-03-17,2025-03
+ISSUE_00894,12.0,RS Puram,Pothole,Medium,2024-09-10,2024-09
+ISSUE_00895,12.0,RS Puram,Drainage Leakage,Low,2025-07-09,2025-07
+ISSUE_00896,8.0,RS Puram,Unknown,Medium,2024-12-20,2024-12
+ISSUE_00897,19.0,Peelamedu,Pothole,High,2023-08-05,2023-08
+ISSUE_00898,12.0,RS Puram,Pothole,Medium,2023-09-04,2023-09
+ISSUE_00899,3.0,Gandhipuram,Street Light Issue,Unknown,2025-01-02,2025-01
+ISSUE_00900,12.0,Koundampalayam,Unknown,Unknown,2023-06-04,2023-06
+ISSUE_00901,3.0,Unknown,Unknown,High,2024-11-18,2024-11
+ISSUE_00902,12.0,Peelamedu,Water Pipe Burst,Unknown,2023-11-25,2023-11
+ISSUE_00903,1.0,RS Puram,Garbage Dump,Low,2025-06-20,2025-06
+ISSUE_00904,12.0,Podanur,Garbage Dump,Medium,2023-11-14,2023-11
+ISSUE_00905,12.0,Koundampalayam,Unknown,Medium,2024-07-07,2024-07
+ISSUE_00906,5.0,Unknown,Street Light Issue,High,2023-02-06,2023-02
+ISSUE_00907,7.0,Gandhipuram,Unknown,Unknown,2024-06-27,2024-06
+ISSUE_00908,12.0,Koundampalayam,Water Pipe Burst,High,2024-10-18,2024-10
+ISSUE_00909,12.0,Podanur,Pothole,Low,2023-02-20,2023-02
+ISSUE_00910,12.0,Peelamedu,Pothole,Unknown,2025-04-17,2025-04
+ISSUE_00911,12.0,RS Puram,Drainage Leakage,Unknown,2024-02-24,2024-02
+ISSUE_00912,12.0,Unknown,Pothole,Unknown,2023-12-02,2023-12
+ISSUE_00913,12.0,Koundampalayam,Garbage Dump,Medium,2023-01-23,2023-01
+ISSUE_00914,12.0,Gandhipuram,Drainage Leakage,Unknown,2024-10-19,2024-10
+ISSUE_00915,12.0,Unknown,Pothole,Low,2023-12-16,2023-12
+ISSUE_00916,14.0,Ganapathy,Water Pipe Burst,Unknown,2025-04-23,2025-04
+ISSUE_00917,12.0,Saibaba Colony,Drainage Leakage,Unknown,2024-02-24,2024-02
+ISSUE_00918,6.0,Unknown,Garbage Dump,Medium,2024-08-22,2024-08
+ISSUE_00919,1.0,Ukkadam,Pothole,Unknown,2023-07-05,2023-07
