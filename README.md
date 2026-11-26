@@ -2,13 +2,13 @@
 
 A supporting data-quality and BI case study for exploring reported issue volumes by type, ward and severity. The public deliverable is a sanitized CSV, a Python validator and a metric receipt; a current Power BI report is not included in this repository.
 
-## Analytical questions
+## Problem and analytical questions
 
 - Which issue types account for the largest share of reports?
 - How are reports distributed across wards and areas?
 - How much missing classification limits severity-based prioritization?
 
-## Data preparation and verified findings
+## Data preparation and key findings
 
 The reviewed input contained 968 rows. Removing 49 exact duplicates produced **919 unique reports**. Citizen names and ages were removed, and report IDs were replaced with artificial issue keys.
 
@@ -23,7 +23,7 @@ The missing categories are analytical findings, not values to silently impute. [
 
 **Source status:** origin and real-versus-simulated status are unverified. These counts describe the supplied dataset, not measured municipal performance. There are no reliable resolution timestamps or status history, so response time, backlog, closure rate and service improvement cannot be calculated.
 
-## Implemented work and structure
+## How the analysis was built
 
 | File | Role |
 |---|---|
@@ -31,7 +31,11 @@ The missing categories are analytical findings, not values to silently impute. [
 | `scripts/validate.py` | Checks 919 unique report IDs, key format, duplicate absence and removal of name/age columns |
 | `docs/validated_metrics.json` | Recorded issue and severity counts |
 
-## Reproduce the validation
+## Challenges and lessons
+
+Duplicate rows inflated the starting count, so exact duplicates were removed before reporting totals. Missing severity and issue classifications remain explicit unknown categories. This makes the classification gap visible instead of suggesting more precise prioritization than the data supports.
+
+## Run and validate
 
 ```bash
 python -m pip install pandas
@@ -40,7 +44,7 @@ python scripts/validate.py
 
 Executed on 25 November 2026 against the reviewed public source: **passed**, reporting 919 unique records with no citizen-name/age columns and no duplicate rows.
 
-## Build a Power BI view
+## Power BI analysis setup
 
 Import the sanitized CSV, verify the source date locale, set `Submission_Date` to date, `Report_ID` to text and `Ward_Number` to a category. Use distinct `Report_ID` for counts and a date dimension for filtering. Reconcile the report totals and unknown categories against the receipt before exporting any preview.
 
